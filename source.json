@@ -1,12 +1,22 @@
 [
     {
-        "owner": "Infatuation-Fei",
-        "repo": "rule",
-        "branch": "main"
+        "owner": "chavyleung",
+        "repo": "scripts",
+        "branch": "master"
+    },
+    {
+        "owner": "Peng-YM",
+        "repo": "Sub-Store",
+        "branch": "master"
     },
     {
         "owner": "VirgilClyne",
         "repo": "iRingo",
+        "branch": "main"
+    },
+    {
+        "owner": "Infatuation-Fei",
+        "repo": "rule",
         "branch": "main"
     },
     {
