@@ -23,5 +23,15 @@
         "owner": "DualSubs",
         "repo": "DualSubs",
         "branch": "main"
+    },
+    {
+        "owner": "jnlaoshu",
+        "repo": "MySelf",
+        "branch": "main"
+    },
+    {
+        "owner": "Coldvvater",
+        "repo": "Clash",
+        "branch": "master"
     }
 ]
