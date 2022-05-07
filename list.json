@@ -1,14 +1,17 @@
 [
     {
         "owner": "Infatuation-Fei",
-        "repo": "rule"
+        "repo": "rule",
+        "branch": "main"
     },
     {
         "owner": "VirgilClyne",
-        "repo": "iRingo"
+        "repo": "iRingo",
+        "branch": "main"
     },
     {
         "owner": "DualSubs",
-        "repo": "DualSubs"
+        "repo": "DualSubs",
+        "branch": "main"
     }
 ]
