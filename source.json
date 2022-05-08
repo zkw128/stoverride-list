@@ -33,5 +33,10 @@
         "owner": "Coldvvater",
         "repo": "Clash",
         "branch": "master"
+    },
+    {
+        "owner": "kamingchan",
+        "repo": "awesome-stash",
+        "branch": "master"
     }
 ]
