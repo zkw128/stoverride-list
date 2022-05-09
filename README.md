@@ -1,5 +1,11 @@
 # Stash STOverride
 
+此处用于存放 GitHub 上包含 STOverride 的仓库。由机器人定时采集数据存放到 data 文件夹供 Stash 客户端使用。
+
+如果您也撰写了 STOverride 并想与广大用户分享您的配置，欢迎修改 [Source.json](https://github.com/STASH-NETWORKS-LIMITED/stoverride-list/blob/main/source.json) 文件后提交 [Pull Requests](https://github.com/STASH-NETWORKS-LIMITED/stoverride-list/pulls) 。
+
+## 免责声明
+
 本列表由社群进行维护，不代表 Stash Network Limited 立场。用户在使用任何 Override 前需认真审查其内容，恶意的 Override 可能损坏你的设备，导致财产损失。
 
 如果有任何你认为不应该出现在本列表的内容，请与 info@stash.ws 联系。
