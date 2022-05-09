@@ -1,5 +1,26 @@
 [
   {
+    "name": "QiMaoXiaoShuo",
+    "desc": "七猫小说终身会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
+    "name": "AudioMackUnlock",
+    "desc": "AudioMack解锁永久订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
+    "name": "MaKaLongWanTu",
+    "desc": "马卡龙玩图解锁PRO",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MaKaLongWanTu.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "DouBanPlay",
     "desc": "Web豆瓣电影和电视剧添加便捷播放按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/DouBanPlay.stoverride",
