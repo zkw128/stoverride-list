@@ -182,18 +182,18 @@
     "repo": "rule"
   },
   {
-    "name": "Netflix评分",
-    "desc": "Netflix视频加入豆瓣、imdb评分",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Netflix_ratings.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "🍿️ DualSubs for YouTube",
     "desc": "(0.3.x) YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
+  },
+  {
+    "name": "Netflix评分",
+    "desc": "Netflix视频加入豆瓣、imdb评分",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Netflix_ratings.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "TikTok解锁-台湾",
@@ -210,18 +210,18 @@
     "repo": "rule"
   },
   {
-    "name": " Enable Apple TV app",
-    "desc": "解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": " Enable Apple TV app",
+    "desc": "解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_TV.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "日志等级Debug",
@@ -294,6 +294,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "屏蔽 HTTP3 / QUIC",
+    "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/quic.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "七猫小说",
     "desc": "七猫小说解锁终身会员",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
@@ -306,13 +313,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "屏蔽 HTTP3 / QUIC",
-    "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/quic.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "对常见端口强制使用 HTTP 引擎",
