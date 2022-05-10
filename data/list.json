@@ -14,16 +14,16 @@
     "repo": "rule"
   },
   {
-    "name": "重定向",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Redirect.stoverride",
+    "name": "TestFlight区域限制解除",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TestFlight区域限制解除",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight.stoverride",
+    "name": "重定向",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Redirect.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -133,18 +133,18 @@
     "repo": "Sub-Store"
   },
   {
-    "name": "BoxJs",
-    "desc": "http://boxjs.com",
-    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.stoverride",
-    "owner": "chavyleung",
-    "repo": "scripts"
-  },
-  {
     "name": "TikTok解锁-美国",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "http://boxjs.com",
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.stoverride",
+    "owner": "chavyleung",
+    "repo": "scripts"
   },
   {
     "name": "WPS Office",
@@ -203,16 +203,16 @@
     "repo": "rule"
   },
   {
-    "name": "京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
+    "name": "TikTok解锁-台湾",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-台湾",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
+    "name": "京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -245,6 +245,13 @@
     "repo": "rule"
   },
   {
+    "name": "TikTok解锁-韩国",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "Q-Search",
     "desc": "快捷切换聚合搜索引擎",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Q-Search.stoverride",
@@ -264,13 +271,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "TikTok解锁-韩国",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "彩云天气SVIP",
@@ -329,6 +329,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "七猫小说",
+    "desc": "七猫小说解锁终身会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "TikTok解锁-泰国",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
@@ -348,13 +355,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "七猫小说",
-    "desc": "七猫小说解锁终身会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "TikTok解锁-法国",
@@ -392,6 +392,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "TikTok解锁-马来西亚",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-MY.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "TikTok解锁-越南",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
@@ -418,13 +425,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "TikTok解锁-马来西亚",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-MY.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": " Unlock Apple News 🇺🇸US",
@@ -535,6 +535,13 @@
     "name": "InShot",
     "desc": "InShot解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/InShotUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
+    "name": "TextEditor",
+    "desc": "TextEditor一次性解锁，或可通过iCloud同步到其他设备解锁(未实测)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/TextEditor.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   }
