@@ -1,5 +1,12 @@
 [
   {
+    "name": "TextEditor",
+    "desc": "TextEditor一次性解锁，或可通过iCloud同步到其他设备解锁(未实测)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/TextEditor.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "音频剪辑提取",
     "desc": "音频剪辑提取解锁vip会员",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
