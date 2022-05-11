@@ -196,16 +196,16 @@
     "repo": "DualSubs"
   },
   {
-    "name": "TikTok解锁-台湾",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
+    "name": "京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
+    "name": "TikTok解锁-台湾",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -420,6 +420,13 @@
     "repo": "rule"
   },
   {
+    "name": " iRingo for Apple Weather",
+    "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "PrismaUnlock",
     "desc": "Prisma解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/PrismaUnlock.stoverride",
@@ -427,11 +434,11 @@
     "repo": "Clash"
   },
   {
-    "name": " iRingo for Apple Weather",
-    "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
+    "name": "Dualsub",
+    "desc": "流媒体字幕翻译,需配合快捷指令设置语言,到Github中查看并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": " iRingo for Apple Weather AQI data with waqi.info",
@@ -453,13 +460,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "Dualsub",
-    "desc": "流媒体字幕翻译,需配合快捷指令设置语言,到Github中查看并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": " Enable Siri Suggestions",
