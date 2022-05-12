@@ -42,16 +42,16 @@
     "repo": "rule"
   },
   {
-    "name": "TestFlight区域限制解除",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight.stoverride",
+    "name": "知乎",
+    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Zhihu.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "知乎",
-    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Zhihu.stoverride",
+    "name": "TestFlight区域限制解除",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -175,18 +175,18 @@
     "repo": "rule"
   },
   {
-    "name": "Sub-Store",
-    "desc": "高级订阅管理工具",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Sub-Store.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "🍿️ DualSubs for YouTube",
     "desc": "(0.3.x) YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
+  },
+  {
+    "name": "Sub-Store",
+    "desc": "高级订阅管理工具",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Sub-Store.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "京东比价",
@@ -266,13 +266,6 @@
     "repo": "MySelf"
   },
   {
-    "name": "日志等级Debug",
-    "desc": "Stash日志等级debug才会显示网络请求日志",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/log-level.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "彩云天气SVIP",
     "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/CaiYunWeather.stoverride",
@@ -280,9 +273,9 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-新加坡",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
+    "name": "日志等级Debug",
+    "desc": "Stash日志等级debug才会显示网络请求日志",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/log-level.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -292,6 +285,13 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "TikTok解锁-新加坡",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "七猫小说",
@@ -308,11 +308,32 @@
     "repo": "rule"
   },
   {
+    "name": "Google CN 重定向",
+    "desc": "将 g.cn / google.cn 重定向到 google.com",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "BoxJs",
     "desc": "http://boxjs.com",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
     "owner": "chavyleung",
     "repo": "scripts"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "解锁会员试听及部分功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
+    "name": "美图秀秀",
+    "desc": "美图秀秀破解高级会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "TikTok解锁-法国",
@@ -329,30 +350,9 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g.cn / google.cn 重定向到 google.com",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "DouBanPlay",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/DouBanPlay.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "酷我音乐",
-    "desc": "解锁会员试听及部分功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
-    "name": "美图秀秀",
-    "desc": "美图秀秀破解高级会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -378,18 +378,25 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "TikTok解锁-马来西亚",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-MY.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "TestFlight区域限制解除",
     "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "开屏去广告",
+    "desc": "去除部分APP开屏广告",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/StartupAD.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
+    "name": "TikTok解锁-马来西亚",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-MY.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Dualsub-流媒体App字幕脚本",
@@ -406,11 +413,11 @@
     "repo": "iRingo"
   },
   {
-    "name": "开屏去广告",
-    "desc": "去除部分APP开屏广告",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/StartupAD.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
+    "name": " Redirect Apple Maps to 🇺🇸US",
+    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "TikTok解锁-越南",
@@ -418,13 +425,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": " Redirect Apple Maps to 🇺🇸US",
-    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "YouTube去广告",
@@ -441,18 +441,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "PrismaUnlock",
-    "desc": "Prisma解锁订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/PrismaUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": " iRingo for Apple Weather",
     "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "PrismaUnlock",
+    "desc": "Prisma解锁订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/PrismaUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "有道云笔记",
@@ -483,6 +483,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "AudioMackUnlock",
+    "desc": "AudioMack解锁永久订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
@@ -504,11 +511,11 @@
     "repo": "MySelf"
   },
   {
-    "name": "AudioMackUnlock",
-    "desc": "AudioMack解锁永久订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
+    "name": " iRingo for Apple Weather AQI data with waqi.info",
+    "desc": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Weather.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "音频剪辑提取",
@@ -521,13 +528,6 @@
     "name": " Response Geo Services to 🇺🇸US",
     "desc": "(V1.5) 只作用于检测地区，不修改Apple Maps和Apple News，可以通过搭配使用其他模块达成混合效果。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Geo_Services.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
-    "name": " iRingo for Apple Weather AQI data with waqi.info",
-    "desc": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Weather.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
