@@ -70,16 +70,16 @@
     "repo": "rule"
   },
   {
-    "name": "DNS",
-    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS.stoverride",
+    "name": "去广告",
+    "desc": "重写去广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Adblock/Advertising.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "去广告",
-    "desc": "重写去广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Adblock/Advertising.stoverride",
+    "name": "DNS",
+    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -112,13 +112,6 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-日本",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Sub-Store",
     "desc": "高级订阅管理工具 @Peng-YM",
     "url": "https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Stash.stoverride",
@@ -129,6 +122,13 @@
     "name": "Bilibili",
     "desc": "Bilibili去广告Plus",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/BilibiliPlus.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "TikTok解锁-日本",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -154,6 +154,13 @@
     "repo": "rule"
   },
   {
+    "name": "🍿️ DualSubs for Streaming Media Platform",
+    "desc": "(0.6.x) 流媒体平台字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs"
+  },
+  {
     "name": "BoxJS",
     "desc": "安装后访问http://boxjs.com/进入",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/BoxJS.stoverride",
@@ -166,13 +173,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Sub-Store.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "🍿️ DualSubs for Streaming Media Platform",
-    "desc": "(0.6.x) 流媒体平台字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs"
   },
   {
     "name": "网易云音乐解锁",
@@ -210,13 +210,6 @@
     "repo": "rule"
   },
   {
-    "name": "扫描全能王",
-    "desc": "解锁扫描全能王会员",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/CamScanner.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": " Enable Apple TV app",
     "desc": "解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_TV.stoverride",
@@ -224,9 +217,30 @@
     "repo": "iRingo"
   },
   {
+    "name": "扫描全能王",
+    "desc": "解锁扫描全能王会员",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/CamScanner.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": " Redirect Apple Maps to 🇨🇳CN",
+    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps_CN.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "日志等级Debug",
     "desc": "Stash日志等级debug才会显示网络请求日志",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/log-level.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "TikTok解锁-韩国",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -257,20 +271,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "TikTok解锁-韩国",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": " Redirect Apple Maps to 🇨🇳CN",
-    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps_CN.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "彩云天气SVIP",
@@ -441,6 +441,13 @@
     "repo": "rule"
   },
   {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": " iRingo for Apple Weather AQI data with waqi.info",
     "desc": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/archive/Apple_Weather.stoverride",
@@ -462,23 +469,9 @@
     "repo": "MySelf"
   },
   {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": " Enable Siri Suggestions",
     "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/archive/Siri_Suggestions.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
-    "name": " Response Geo Services to 🇺🇸US",
-    "desc": "(V1.5) 只作用于检测地区，不修改Apple Maps和Apple News，可以通过搭配使用其他模块达成混合效果。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/archive/Geo_Services.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
@@ -488,6 +481,13 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": " Response Geo Services to 🇺🇸US",
+    "desc": "(V1.5) 只作用于检测地区，不修改Apple Maps和Apple News，可以通过搭配使用其他模块达成混合效果。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/archive/Geo_Services.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": " iRingo for Location Services",
