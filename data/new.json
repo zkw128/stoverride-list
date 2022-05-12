@@ -2,21 +2,21 @@
   {
     "name": " Enable Siri Suggestions",
     "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/archive/stoverride/Siri_Suggestions.stoverride",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
   {
     "name": " Response Geo Services to 🇺🇸US",
     "desc": "(V1.5) 只作用于检测地区，不修改Apple Maps和Apple News，可以通过搭配使用其他模块达成混合效果。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/archive/stoverride/Geo_Services.stoverride",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Geo_Services.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
   {
     "name": " iRingo for Apple Weather AQI data with waqi.info",
     "desc": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/archive/stoverride/Apple_Weather.stoverride",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Weather.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   }
