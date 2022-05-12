@@ -98,16 +98,9 @@
     "repo": "MySelf"
   },
   {
-    "name": " iRingo for Siri & Search",
-    "desc": "(V2) 全面自定义「Siri与搜索」的功能。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
-    "name": "微博",
-    "desc": "去除微博广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Weibo.stoverride",
+    "name": "Bilibili",
+    "desc": "Bilibili去广告Plus",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/BilibiliPlus.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -119,9 +112,16 @@
     "repo": "Sub-Store"
   },
   {
-    "name": "Bilibili",
-    "desc": "Bilibili去广告Plus",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/BilibiliPlus.stoverride",
+    "name": " iRingo for Siri & Search",
+    "desc": "(V2) 全面自定义「Siri与搜索」的功能。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
+    "name": "微博",
+    "desc": "去除微博广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Weibo.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -259,6 +259,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "彩云天气SVIP",
+    "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/CaiYunWeather.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "去除微博微信APP内广告",
     "desc": "去微博、微信公众号广告",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/WxWbAD.stoverride",
@@ -271,13 +278,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "彩云天气SVIP",
-    "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/CaiYunWeather.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "TikTok解锁-新加坡",
@@ -308,6 +308,13 @@
     "repo": "Clash"
   },
   {
+    "name": " Redirect Apple Maps to 🇺🇸US",
+    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "屏蔽 HTTP3 / QUIC",
     "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/quic.stoverride",
@@ -336,9 +343,9 @@
     "repo": "Clash"
   },
   {
-    "name": " Redirect Apple Maps to 🇺🇸US",
-    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps.stoverride",
+    "name": " Unlock Apple News 🇺🇸US",
+    "desc": "解锁🇺🇸US地区的News，注：需配合域名集使用，使用过程中gateway.icloud.com需走代理线路。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_News.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
@@ -383,13 +390,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": " Unlock Apple News 🇺🇸US",
-    "desc": "解锁🇺🇸US地区的News，注：需配合域名集使用，使用过程中gateway.icloud.com需走代理线路。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_News.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "Google CN 重定向",
@@ -441,6 +441,13 @@
     "repo": "rule"
   },
   {
+    "name": "YouTube去广告",
+    "desc": "去除YouTube视频广告(非首页广告)",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "VUE pro",
     "desc": "解锁PRO会员，享用专业功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
@@ -458,13 +465,6 @@
     "name": "有道云笔记",
     "desc": "解锁VIP高级功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
-    "name": "YouTube去广告",
-    "desc": "去除YouTube视频广告(非首页广告)",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
