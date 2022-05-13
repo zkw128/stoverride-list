@@ -77,18 +77,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "百度搜索防跳转",
-    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Baidu.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Sub-Store",
     "desc": "高级订阅管理工具 @Peng-YM",
     "url": "https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Stash.stoverride",
     "owner": "Peng-YM",
     "repo": "Sub-Store"
+  },
+  {
+    "name": "百度搜索防跳转",
+    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Baidu.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "去广告规则",
@@ -105,18 +105,18 @@
     "repo": "rule"
   },
   {
-    "name": "BoxJs",
-    "desc": "http://boxjs.com",
-    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.stoverride",
-    "owner": "chavyleung",
-    "repo": "scripts"
-  },
-  {
     "name": "TikTok解锁-日本",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "http://boxjs.com",
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.stoverride",
+    "owner": "chavyleung",
+    "repo": "scripts"
   },
   {
     "name": "Bilibili",
@@ -189,16 +189,16 @@
     "repo": "DualSubs"
   },
   {
-    "name": "京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
+    "name": "TikTok解锁-台湾",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-台湾",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
+    "name": "京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -280,18 +280,18 @@
     "repo": "rule"
   },
   {
-    "name": "Notability",
-    "desc": "Notability解锁订阅",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "TikTok解锁-新加坡",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Notability",
+    "desc": "Notability解锁订阅",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "七猫小说",
@@ -308,13 +308,6 @@
     "repo": "rule"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g.cn / google.cn 重定向到 google.com",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "BoxJs",
     "desc": "http://boxjs.com",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
@@ -322,11 +315,32 @@
     "repo": "scripts"
   },
   {
+    "name": "Google CN 重定向",
+    "desc": "将 g.cn / google.cn 重定向到 google.com",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "酷我音乐",
     "desc": "解锁会员试听及部分功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "TikTok解锁-法国",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "Dualsub-流媒体App字幕脚本",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译,需配合快捷指令设置语言,到Github中查看手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "美图秀秀",
@@ -343,16 +357,9 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "TikTok解锁-法国",
+    "name": "TikTok解锁-泰国",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "Dualsub-流媒体App字幕脚本",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译,需配合快捷指令设置语言,到Github中查看手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -385,9 +392,16 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "TikTok解锁-泰国",
+    "name": "TikTok解锁-马来西亚",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-MY.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "TikTok解锁-越南",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -397,13 +411,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/StartupAD.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "TikTok解锁-马来西亚",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-MY.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "TestFlight区域限制解除",
@@ -418,13 +425,6 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
-  },
-  {
-    "name": "TikTok解锁-越南",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "YouTube去广告",
@@ -476,6 +476,13 @@
     "repo": "iRingo"
   },
   {
+    "name": " iRingo for Apple Weather AQI data with waqi.info",
+    "desc": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Weather.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "TikTok解锁-日本",
     "desc": "解锁日本地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-JP.stoverride",
@@ -483,9 +490,9 @@
     "repo": "MySelf"
   },
   {
-    "name": " iRingo for Apple Weather AQI data with waqi.info",
-    "desc": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Weather.stoverride",
+    "name": " Enable Siri Suggestions",
+    "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
@@ -509,13 +516,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": " Enable Siri Suggestions",
-    "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "TikTok解锁-台湾",
