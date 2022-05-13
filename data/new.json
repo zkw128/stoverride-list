@@ -1,5 +1,12 @@
 [
   {
+    "name": "百度网盘破解",
+    "desc": "百度网盘会员权限破解",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/bdcloud.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": " Enable Siri Suggestions",
     "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
