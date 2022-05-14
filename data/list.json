@@ -84,16 +84,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "百度搜索防跳转",
-    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Baidu.stoverride",
+    "name": "去广告规则",
+    "desc": "分流去广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rule/ADRulesLite.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "去广告规则",
-    "desc": "分流去广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rule/ADRulesLite.stoverride",
+    "name": "百度搜索防跳转",
+    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Baidu.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -378,6 +378,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "美图秀秀",
+    "desc": "美图秀秀破解高级会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "屏蔽视频网站 P2P 后台上传",
     "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
@@ -395,13 +402,6 @@
     "name": "DouBanPlay",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/DouBanPlay.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "美图秀秀",
-    "desc": "美图秀秀破解高级会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -469,6 +469,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "TikTok解锁-美国",
+    "desc": "解锁美国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "PrismaUnlock",
     "desc": "Prisma解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/PrismaUnlock.stoverride",
@@ -500,13 +507,6 @@
     "name": "TikTok解锁-韩国",
     "desc": "解锁韩国地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
-    "name": "TikTok解锁-美国",
-    "desc": "解锁美国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
