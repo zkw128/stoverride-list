@@ -154,18 +154,18 @@
     "repo": "rule"
   },
   {
-    "name": "网易云音乐解锁",
-    "desc": "解锁灰色歌曲与VIP试听，在网易云音乐策略组中走解锁节点即可，节点来源于网络",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/NetEaseMusic.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "🍿️ DualSubs for Streaming Media Platform",
     "desc": "(0.6.x) 流媒体平台字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
+  },
+  {
+    "name": "网易云音乐解锁",
+    "desc": "解锁灰色歌曲与VIP试听，在网易云音乐策略组中走解锁节点即可，节点来源于网络",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/NetEaseMusic.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Sub-Store",
@@ -182,16 +182,16 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-台湾",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
+    "name": "京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
+    "name": "TikTok解锁-台湾",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -336,6 +336,13 @@
     "repo": "rule"
   },
   {
+    "name": "屏蔽 HTTP3 / QUIC",
+    "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/quic.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "TikTok解锁-泰国",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
@@ -350,11 +357,11 @@
     "repo": "scripts"
   },
   {
-    "name": "屏蔽 HTTP3 / QUIC",
-    "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/quic.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
+    "name": " Unlock Apple News 🇺🇸US",
+    "desc": "解锁🇺🇸US地区的News，注：需配合域名集使用，使用过程中gateway.icloud.com需走代理线路。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_News.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "酷我音乐",
@@ -362,6 +369,13 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "屏蔽视频网站 P2P 后台上传",
+    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "TikTok解锁-马来西亚",
@@ -378,25 +392,11 @@
     "repo": "Clash"
   },
   {
-    "name": " Unlock Apple News 🇺🇸US",
-    "desc": "解锁🇺🇸US地区的News，注：需配合域名集使用，使用过程中gateway.icloud.com需走代理线路。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_News.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "美图秀秀",
     "desc": "美图秀秀破解高级会员",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "屏蔽视频网站 P2P 后台上传",
-    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "对常见端口强制使用 HTTP 引擎",
