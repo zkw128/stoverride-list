@@ -476,6 +476,13 @@
     "repo": "Clash"
   },
   {
+    "name": " iRingo for Location Services",
+    "desc": "(V2) 1.修改GCC(Geo Country Code)检测结果 2.Coming Soon……",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": " iRingo for Apple Weather",
     "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
@@ -502,13 +509,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": " iRingo for Location Services",
-    "desc": "(V2) 1.修改GCC(Geo Country Code)检测结果 2.Coming Soon……",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "有道云笔记",
