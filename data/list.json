@@ -287,18 +287,18 @@
     "repo": "rule"
   },
   {
-    "name": "日志等级Debug",
-    "desc": "Stash日志等级debug才会显示网络请求日志",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/log-level.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Notability",
     "desc": "Notability解锁订阅",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "日志等级Debug",
+    "desc": "Stash日志等级debug才会显示网络请求日志",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/log-level.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "七猫小说",
