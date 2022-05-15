@@ -133,18 +133,18 @@
     "repo": "rule"
   },
   {
-    "name": "WPS Office",
-    "desc": "解锁超级会员部分功能",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/WPS.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": " iRingo for Siri & Search",
     "desc": "(V2) 全面自定义「Siri与搜索」的功能。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "WPS Office",
+    "desc": "解锁超级会员部分功能",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/WPS.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "TikTok解锁-美国",
