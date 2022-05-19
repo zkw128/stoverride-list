@@ -189,13 +189,6 @@
     "repo": "rule"
   },
   {
-    "name": "🍿️ DualSubs for YouTube",
-    "desc": "(0.3.x) YouTube字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.YouTube.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs"
-  },
-  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
@@ -203,16 +196,16 @@
     "repo": "rule"
   },
   {
+    "name": "🍿️ DualSubs for YouTube",
+    "desc": "(0.3.x) YouTube字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.YouTube.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs"
+  },
+  {
     "name": " Enable Apple TV app",
     "desc": "解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
-    "name": " Redirect Apple Maps to 🇨🇳CN",
-    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps_CN.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
@@ -224,9 +217,23 @@
     "repo": "rule"
   },
   {
+    "name": " Redirect Apple Maps to 🇨🇳CN",
+    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps_CN.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "Google CN 重定向",
     "desc": "将 g|google.cn 重定向回 google.com",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Google.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
+    "name": "去除微博微信APP内广告",
+    "desc": "去微博、微信公众号广告",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/WxWbAD.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -243,13 +250,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "去除微博微信APP内广告",
-    "desc": "去微博、微信公众号广告",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/WxWbAD.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
   },
   {
     "name": "贴吧去广告",
@@ -539,18 +539,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "AudioMackUnlock",
-    "desc": "AudioMack解锁永久订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁台湾地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "AudioMackUnlock",
+    "desc": "AudioMack解锁永久订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "全局模式",
