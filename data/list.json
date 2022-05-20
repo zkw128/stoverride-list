@@ -14,16 +14,16 @@
     "repo": "iRingo"
   },
   {
-    "name": "去广告(严格版)",
-    "desc": "重写去广告严格版",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Adblock/AdvertisingLite.stoverride",
+    "name": "微信公众号去广告",
+    "desc": "去除微信公众号文章内广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/ADWX.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "微信公众号去广告",
-    "desc": "去除微信公众号文章内广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/ADWX.stoverride",
+    "name": "去广告(严格版)",
+    "desc": "重写去广告严格版",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Adblock/AdvertisingLite.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -301,18 +301,18 @@
     "repo": "rule"
   },
   {
-    "name": "七猫小说",
-    "desc": "七猫小说解锁终身会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "日志等级Debug",
     "desc": "Stash日志等级debug才会显示网络请求日志",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/log-level.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "七猫小说",
+    "desc": "七猫小说解锁终身会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": " Unlock Apple News 🇺🇸US",
@@ -413,6 +413,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "对常见端口强制使用 HTTP 引擎",
+    "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/force-http-engine.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "TikTok解锁-越南",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
@@ -437,13 +444,6 @@
     "name": "屏蔽视频网站 P2P 后台上传",
     "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
-    "name": "对常见端口强制使用 HTTP 引擎",
-    "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/force-http-engine.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
   },
@@ -497,6 +497,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "规则模式",
+    "desc": "以规则模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
@@ -516,13 +523,6 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
-  },
-  {
-    "name": "规则模式",
-    "desc": "以规则模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "TikTok解锁-韩国",
