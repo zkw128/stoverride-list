@@ -378,18 +378,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "BoxJs",
-    "desc": "http://boxjs.com",
-    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
-    "owner": "chavyleung",
-    "repo": "scripts"
-  },
-  {
     "name": "豆瓣影视",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/DouBanPlay.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "http://boxjs.com",
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
+    "owner": "chavyleung",
+    "repo": "scripts"
   },
   {
     "name": "TikTok解锁-马来西亚",
@@ -490,6 +490,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "扫描全能王",
+    "desc": "解锁扫描全能王会员",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": " iRingo for Apple Weather",
     "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
@@ -502,13 +509,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "扫描全能王",
-    "desc": "解锁扫描全能王会员",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
   },
   {
     "name": "PrismaUnlock",
