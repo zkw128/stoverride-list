@@ -568,7 +568,7 @@
   },
   {
     "name": " Enable Apple TV app",
-    "desc": "解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
+    "desc": "(V1) 解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_TV.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
