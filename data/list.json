@@ -161,18 +161,18 @@
     "repo": "rule"
   },
   {
-    "name": "💠京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "🍿️ DualSubs for Streaming Media Platform",
     "desc": "(0.6.x) 流媒体平台字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
+  },
+  {
+    "name": "💠京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/JD_Price.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "💠BoxJS",
@@ -483,6 +483,13 @@
     "repo": "MySelf"
   },
   {
+    "name": " iRingo for Location Services",
+    "desc": "(V2) 1.修改定位服务(Location Services)配置文件 2.修改GCC(Geo Country Code)检测结果",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": " Enable Siri Suggestions",
     "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
@@ -495,13 +502,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/PrismaUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": " iRingo for Location Services",
-    "desc": "(V2) 1.修改定位服务(Location Services)配置文件 2.修改GCC(Geo Country Code)检测结果",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": " iRingo for Apple Weather",
@@ -572,5 +572,12 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "🍟DNS-CN",
+    "desc": "采用腾讯与阿里DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS-CN.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   }
 ]
