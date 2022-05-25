@@ -560,18 +560,18 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for TV app",
-    "desc": "(V2) 全面自定义TV app功能",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "🍟DNS-CN",
     "desc": "采用腾讯与阿里DNS",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS-CN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": " iRingo for TV app",
+    "desc": "(V2) 全面自定义TV app功能",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "音频剪辑提取",
