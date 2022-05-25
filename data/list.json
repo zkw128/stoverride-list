@@ -560,16 +560,16 @@
     "repo": "Clash"
   },
   {
-    "name": " Enable Apple TV app",
-    "desc": "(V1) 解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_TV.stoverride",
+    "name": " iRingo for TV app",
+    "desc": "(V2) 全面自定义TV app功能",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
   {
-    "name": " iRingo for TV app",
-    "desc": "(V2) 全面自定义TV app功能",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
+    "name": " Enable Apple TV app",
+    "desc": "(V1) 解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_TV.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   }
