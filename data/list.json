@@ -175,18 +175,18 @@
     "repo": "rule"
   },
   {
-    "name": "💠BoxJS",
-    "desc": "安装后访问http://boxjs.com/进入",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/BoxJS.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "🍿️ DualSubs for YouTube",
     "desc": "(0.3.x) YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
+  },
+  {
+    "name": "💠BoxJS",
+    "desc": "安装后访问http://boxjs.com/进入",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/BoxJS.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "💠Sub-Store",
@@ -224,18 +224,18 @@
     "repo": "rule"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向回 google.com",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Google.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "贴吧去广告",
     "desc": "1.开屏页广告 2.推荐页列表/吧内帖子列表的直播和其他广告去除 3.帖子详情页直播和关联商品及其他广告去除 4.帖子看图模式广告去除 5.首页/帖子详情页右下角悬浮广告去除 6.部分吧内的置顶/最新中间的广告/head图片广告去除",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/TiebaAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向回 google.com",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Google.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "💠扫描全能王",
@@ -448,18 +448,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "Google无缝翻页",
-    "desc": "谷歌网页搜索自动无缝翻页",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Endlessgoogle.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "VUE pro",
     "desc": "解锁PRO会员，享用专业功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "Google无缝翻页",
+    "desc": "谷歌网页搜索自动无缝翻页",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Endlessgoogle.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": " Response Geo Services to 🇺🇸US",
