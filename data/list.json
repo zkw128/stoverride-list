@@ -147,16 +147,16 @@
     "repo": "rule"
   },
   {
-    "name": "💠WPS Office",
-    "desc": "解锁超级会员部分功能",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/WPS.stoverride",
+    "name": "🍟网易云音乐解锁",
+    "desc": "解锁灰色歌曲与VIP试听，在网易云音乐策略组中走解锁节点即可，节点来源于网络",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/NetEaseMusic.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "🍟网易云音乐解锁",
-    "desc": "解锁灰色歌曲与VIP试听，在网易云音乐策略组中走解锁节点即可，节点来源于网络",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/NetEaseMusic.stoverride",
+    "name": "💠WPS Office",
+    "desc": "解锁超级会员部分功能",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/WPS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -224,6 +224,13 @@
     "repo": "Clash"
   },
   {
+    "name": "去除微博微信APP内广告",
+    "desc": "去微博、微信公众号广告",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/WxWbAD.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "🔅TikTok解锁-韩国",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
@@ -234,13 +241,6 @@
     "name": "Google CN 重定向",
     "desc": "将 g|google.cn 重定向回 google.com",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Google.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
-    "name": "去除微博微信APP内广告",
-    "desc": "去微博、微信公众号广告",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/WxWbAD.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -336,20 +336,6 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "TestFlight区域限制解除",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
-    "name": "🔅TikTok解锁-泰国",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "开屏去广告",
     "desc": "去除部分APP开屏广告",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/StartupAD.stoverride",
@@ -362,6 +348,20 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "TestFlight区域限制解除",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
+    "name": "🔅TikTok解锁-泰国",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "🔅TikTok解锁-法国",
@@ -497,16 +497,16 @@
     "repo": "iRingo"
   },
   {
-    "name": " iRingo for Apple Weather",
-    "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
+    "name": " Enable Siri Suggestions",
+    "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
   {
-    "name": " Enable Siri Suggestions",
-    "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
+    "name": " iRingo for Apple Weather",
+    "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
