@@ -21,16 +21,16 @@
     "repo": "rule"
   },
   {
-    "name": "💠开屏去广告",
-    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/StartupAD.stoverride",
+    "name": "💠微信公众号去广告",
+    "desc": "去除微信公众号文章内广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/ADWX.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "💠微信公众号去广告",
-    "desc": "去除微信公众号文章内广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/ADWX.stoverride",
+    "name": "💠开屏去广告",
+    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/StartupAD.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -203,18 +203,18 @@
     "repo": "rule"
   },
   {
-    "name": "💠Netflix评分",
-    "desc": "Netflix视频加入豆瓣、imdb评分",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Netflix_ratings.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": " Redirect Apple Maps to 🇨🇳CN",
     "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps_CN.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "💠Netflix评分",
+    "desc": "Netflix视频加入豆瓣、imdb评分",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Netflix_ratings.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "贴吧去广告",
@@ -483,18 +483,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "🍟规则模式",
-    "desc": "以规则模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": " Response Geo Services to 🇺🇸US",
     "desc": "(V1.5) 只作用于检测地区，不修改Apple Maps和Apple News，可以通过搭配使用其他模块达成混合效果。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Geo_Services.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "🍟规则模式",
+    "desc": "以规则模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": " iRingo for Apple Weather",
