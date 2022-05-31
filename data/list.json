@@ -42,18 +42,18 @@
     "repo": "rule"
   },
   {
-    "name": "🧊重定向",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Redirect.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Sub-Store",
     "desc": "高级订阅管理工具 @Peng-YM",
     "url": "https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Stash.stoverride",
     "owner": "Peng-YM",
     "repo": "Sub-Store"
+  },
+  {
+    "name": "🧊重定向",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Redirect.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "💠TestFlight区域限制解除",
@@ -343,6 +343,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "美图秀秀",
+    "desc": "美图秀秀破解高级会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "YouTube去广告",
     "desc": "去除YouTube视频广告(非首页广告)",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
@@ -355,13 +362,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "美图秀秀",
-    "desc": "美图秀秀破解高级会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "TestFlight区域限制解除",
