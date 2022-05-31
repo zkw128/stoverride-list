@@ -133,18 +133,18 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for Siri & Search",
-    "desc": "(V2) 全面自定义「Siri与搜索」的功能。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "🍟网易云音乐解锁",
     "desc": "解锁灰色歌曲与VIP试听，在网易云音乐策略组中走解锁节点即可，节点来源于网络",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/NetEaseMusic.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": " iRingo for Siri & Search",
+    "desc": "(V2) 全面自定义「Siri与搜索」的功能。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "🔅TikTok解锁-美国",
@@ -406,6 +406,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": " iRingo for Apple Weather AQI data with waqi.info",
+    "desc": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Weather.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "BoxJs",
     "desc": "http://boxjs.com",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
@@ -416,13 +423,6 @@
     "name": " Redirect Apple Maps to 🇺🇸US",
     "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_Maps.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
-    "name": " iRingo for Apple Weather AQI data with waqi.info",
-    "desc": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Weather.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
