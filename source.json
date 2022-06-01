@@ -12,7 +12,10 @@
     {
         "owner": "VirgilClyne",
         "repo": "iRingo",
-        "branch": "main"
+        "branch": "main",
+        "paths": [
+            "stoverride"
+        ]
     },
     {
         "owner": "Infatuation-Fei",
