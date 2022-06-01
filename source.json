@@ -41,5 +41,13 @@
         "owner": "kamingchan",
         "repo": "awesome-stash",
         "branch": "master"
+    },
+    {
+        "owner": "xream",
+        "repo": "scripts",
+        "branch": "main",
+        "paths": [
+            "surge/modules"
+        ]
     }
 ]
