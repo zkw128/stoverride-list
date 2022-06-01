@@ -413,13 +413,6 @@
     "repo": "iRingo"
   },
   {
-    "name": " iRingo for Apple Weather AQI data with waqi.info",
-    "desc": "(V2) 解锁全部类型天气数据可用性，切换空气质量数据源为waqi.info，并更改标准为AQI(US)。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Weather.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "BoxJs",
     "desc": "http://boxjs.com",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
@@ -490,25 +483,11 @@
     "repo": "iRingo"
   },
   {
-    "name": " Response Geo Services to 🇺🇸US",
-    "desc": "(V1.5) 只作用于检测地区，不修改Apple Maps和Apple News，可以通过搭配使用其他模块达成混合效果。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Geo_Services.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "🍟规则模式",
     "desc": "以规则模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": " Enable Siri Suggestions",
-    "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "扫描全能王",
@@ -546,13 +525,6 @@
     "repo": "MySelf"
   },
   {
-    "name": " Enable Apple TV app",
-    "desc": "(V1) 解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "AudioMackUnlock",
     "desc": "AudioMack解锁永久订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
@@ -579,5 +551,19 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "短信转发",
+    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
+    "name": "10010v3",
+    "desc": "联通余量(v3)",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   }
 ]
