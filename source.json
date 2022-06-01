@@ -2,12 +2,18 @@
     {
         "owner": "chavyleung",
         "repo": "scripts",
-        "branch": "master"
+        "branch": "master",
+        "paths": [
+            "box/rewrite"
+        ]
     },
     {
         "owner": "Peng-YM",
         "repo": "Sub-Store",
-        "branch": "master"
+        "branch": "master",
+        "paths": [
+            "config"
+        ]
     },
     {
         "owner": "VirgilClyne",
@@ -20,17 +26,26 @@
     {
         "owner": "Infatuation-Fei",
         "repo": "rule",
-        "branch": "main"
+        "branch": "main",
+        "paths": [
+            "Stash"
+        ]
     },
     {
         "owner": "DualSubs",
         "repo": "DualSubs",
-        "branch": "main"
+        "branch": "main",
+        "paths": [
+            "stoverride"
+        ]
     },
     {
         "owner": "jnlaoshu",
         "repo": "MySelf",
-        "branch": "main"
+        "branch": "main",
+        "paths": [
+            "Stash"
+        ]
     },
     {
         "owner": "Coldvvater",
