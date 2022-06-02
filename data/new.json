@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "什么值得买",
+    "desc": "什么值得买APP去广告(测试版)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/smzdm_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  }
+]
