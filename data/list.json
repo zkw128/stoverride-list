@@ -539,16 +539,16 @@
     "repo": "scripts"
   },
   {
-    "name": "AudioMackUnlock",
-    "desc": "AudioMack解锁永久订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
+    "name": "什么值得买",
+    "desc": "什么值得买APP去广告(测试版)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/smzdm_ads.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "什么值得买",
-    "desc": "什么值得买APP去广告(测试版)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/smzdm_ads.stoverride",
+    "name": "AudioMackUnlock",
+    "desc": "AudioMack解锁永久订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
