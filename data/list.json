@@ -42,16 +42,16 @@
     "repo": "Sub-Store"
   },
   {
-    "name": "Bilibili去广告🍥",
-    "desc": "需iOS15，去除开屏页、推荐页广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Bilibili.stoverride",
+    "name": "重定向✨",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Redirect.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "重定向✨",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Redirect.stoverride",
+    "name": "Bilibili去广告🍥",
+    "desc": "需iOS15，去除开屏页、推荐页广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Bilibili.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -273,18 +273,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "酷我音乐",
-    "desc": "解锁会员试听及部分功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "七猫小说",
     "desc": "七猫小说解锁终身会员",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "解锁会员试听及部分功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": " Unlock Apple News 🇺🇸US",
