@@ -252,18 +252,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-新加坡✨",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Q-Search",
     "desc": "快捷切换聚合搜索引擎",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Q-Search.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "TikTok解锁-新加坡✨",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "七猫小说",
@@ -287,18 +287,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "酷我音乐",
-    "desc": "解锁会员试听及部分功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": " Unlock Apple News 🇺🇸US",
     "desc": "解锁🇺🇸US地区的News，注：需配合域名集使用，使用过程中gateway.icloud.com需走代理线路。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Apple_News.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "解锁会员试听及部分功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "Dualsub-流媒体App字幕脚本🍥",
@@ -336,18 +336,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g.cn / google.cn 重定向到 google.com",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "日志等级Debug⚙️",
     "desc": "Stash日志等级debug才会显示网络请求日志",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/log-level.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g.cn / google.cn 重定向到 google.com",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "美图秀秀",
@@ -378,6 +378,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "屏蔽视频网站 P2P 后台上传",
+    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "TikTok解锁-泰国✨",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
@@ -397,13 +404,6 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
-  },
-  {
-    "name": "屏蔽视频网站 P2P 后台上传",
-    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "TestFlight区域限制解除",
@@ -532,18 +532,18 @@
     "repo": "MySelf"
   },
   {
-    "name": " iRingo for TV app",
-    "desc": "(V2) 全面自定义TV app功能",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "10010v3",
     "desc": "联通余量(v3)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": " iRingo for TV app",
+    "desc": "(V2) 全面自定义TV app功能",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "AudioMackUnlock",
