@@ -350,6 +350,13 @@
     "repo": "Clash"
   },
   {
+    "name": " iRingo for Location Services",
+    "desc": "(V2) 1.修改定位服务默认(Defaults)配置 2.修改GCC(Geo Country Code)检测结果 3.重定向通告(Announcements)配置URL 4.重定向动态(Dynamic)配置URL 5.重定向调度(Dispatcher)服务URL 6.重定向导航(Directions)服务URL 7.重定向瓦片(Tiles)地图服务URL",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "屏蔽视频网站 P2P 后台上传",
     "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
@@ -362,13 +369,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": " iRingo for Location Services",
-    "desc": "(V2) 1.修改定位服务默认(Defaults)配置 2.修改GCC(Geo Country Code)检测结果 3.重定向通告(Announcements)配置URL 4.重定向动态(Dynamic)配置URL 5.重定向调度(Dispatcher)服务URL 6.重定向导航(Directions)服务URL 7.重定向瓦片(Tiles)地图服务URL",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "BoxJs",
