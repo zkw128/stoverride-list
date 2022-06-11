@@ -56,18 +56,18 @@
     "repo": "rule"
   },
   {
-    "name": "BoxJs",
-    "desc": "http://boxjs.com",
-    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.stoverride",
-    "owner": "chavyleung",
-    "repo": "scripts"
-  },
-  {
     "name": "知乎🍥",
     "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Zhihu.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "http://boxjs.com",
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.stoverride",
+    "owner": "chavyleung",
+    "repo": "scripts"
   },
   {
     "name": "TestFlight区域限制解除🍥",
@@ -273,18 +273,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "Q-Search",
-    "desc": "快捷切换聚合搜索引擎",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Q-Search.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Dualsub-流媒体App字幕脚本🍥",
     "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️需配合快捷指令设置语言,到Github中查看手册并安装相关快捷指令",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Q-Search",
+    "desc": "快捷切换聚合搜索引擎",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Q-Search.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "Notability",
@@ -301,6 +301,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "YouTube去广告",
+    "desc": "去除YouTube视频广告(非首页广告)",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "酷我音乐",
     "desc": "解锁会员试听及部分功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
@@ -311,13 +318,6 @@
     "name": "开屏去广告",
     "desc": "去除部分APP开屏广告",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/StartupAD.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
-    "name": "YouTube去广告",
-    "desc": "去除YouTube视频广告(非首页广告)",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -448,6 +448,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "TikTok解锁-越南✨",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
@@ -462,11 +469,18 @@
     "repo": "Clash"
   },
   {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
+    "name": "规则模式✈️",
+    "desc": "以规则模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "什么值得买",
+    "desc": "什么值得买APP去广告(测试版)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/smzdm_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "TikTok解锁-台湾",
@@ -481,20 +495,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "规则模式✈️",
-    "desc": "以规则模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "什么值得买",
-    "desc": "什么值得买APP去广告(测试版)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/smzdm_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": " iRingo for TV app",
