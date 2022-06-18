@@ -329,18 +329,18 @@
     "repo": "rule"
   },
   {
-    "name": "美图秀秀",
-    "desc": "美图秀秀破解高级会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Google CN 重定向",
     "desc": "将 g.cn / google.cn 重定向到 google.com",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "美图秀秀",
+    "desc": "美图秀秀破解高级会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "Google无缝翻页",
@@ -371,18 +371,18 @@
     "repo": "rule"
   },
   {
-    "name": "屏蔽 HTTP3 / QUIC",
-    "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/quic.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "DNS-CN🌐",
     "desc": "采用腾讯与阿里DNS",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS-CN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "屏蔽 HTTP3 / QUIC",
+    "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/quic.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "TikTok解锁-泰国✨",
@@ -546,18 +546,18 @@
     "repo": "Clash"
   },
   {
-    "name": "BiliBili_CC字幕",
-    "desc": "哔哩哔哩CC字幕繁体转简体",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Bilibili_CC.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": " iRingo for News",
     "desc": "(V2) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "BiliBili_CC字幕",
+    "desc": "哔哩哔哩CC字幕繁体转简体",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Bilibili_CC.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "音频剪辑提取",
