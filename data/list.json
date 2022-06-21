@@ -553,6 +553,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "短信转发",
+    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "BiliBili_CC字幕",
     "desc": "哔哩哔哩CC字幕繁体转简体",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Bilibili_CC.stoverride",
@@ -565,13 +572,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "短信转发",
-    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
   },
   {
     "name": "10010v3(dev)",
