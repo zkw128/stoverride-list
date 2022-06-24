@@ -69,10 +69,5 @@
         "owner": "SysDQ",
         "repo": "Stash",
         "branch": "main"
-    },
-    {
-        "owner": "STASH-NETWORKS-LIMITED",
-        "repo": "stash-external-ip-tile",
-        "branch": "main"
     }
 ]
