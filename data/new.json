@@ -1,5 +1,12 @@
 [
   {
+    "name": "显示当前 IP 地址",
+    "desc": "用于显示当前 IP 地址的 Stash 面板",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/tiletest.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": " iRingo for TestFlight",
     "desc": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
