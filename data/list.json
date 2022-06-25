@@ -70,16 +70,16 @@
     "repo": "rule"
   },
   {
-    "name": "DNS🌐",
-    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS.stoverride",
+    "name": "TestFlight区域限制解除🍥",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TestFlight区域限制解除🍥",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight.stoverride",
+    "name": "DNS🌐",
+    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -287,6 +287,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "YouTube去广告",
+    "desc": "去除YouTube视频广告(非首页广告)",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "VSCO活跃会员",
     "desc": "解锁会员",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
@@ -299,13 +306,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Q-Search.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "YouTube去广告",
-    "desc": "去除YouTube视频广告(非首页广告)",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
   },
   {
     "name": "日志等级Debug⚙️",
@@ -441,9 +441,9 @@
     "repo": "Clash"
   },
   {
-    "name": "TikTok解锁-越南✨",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
+    "name": "TestFlight账户管理",
+    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -462,18 +462,18 @@
     "repo": "rule"
   },
   {
+    "name": "TikTok解锁-越南✨",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "VUE pro",
     "desc": "解锁PRO会员，享用专业功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "TestFlight账户管理",
-    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "10010v3",
@@ -581,13 +581,6 @@
     "repo": "scripts"
   },
   {
-    "name": "BiliBili_CC字幕",
-    "desc": "哔哩哔哩CC字幕繁体转简体",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Bilibili_CC.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "在线规则覆写",
     "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
@@ -595,9 +588,9 @@
     "repo": "Stash"
   },
   {
-    "name": "音频剪辑提取",
-    "desc": "音频剪辑提取解锁vip会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
+    "name": "BiliBili_CC字幕",
+    "desc": "哔哩哔哩CC字幕繁体转简体",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Bilibili_CC.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -609,6 +602,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "音频剪辑提取",
+    "desc": "音频剪辑提取解锁vip会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "10010v3(dev)",
     "desc": "联通余量(v3-dev)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
@@ -616,17 +616,17 @@
     "repo": "scripts"
   },
   {
-    "name": "直连模式◎",
-    "desc": "以直连模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-direct.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Sub-Store",
     "desc": "高级订阅管理工具 @Peng-YM",
     "url": "https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Stash.stoverride",
     "owner": "Peng-YM",
     "repo": "Sub-Store"
+  },
+  {
+    "name": "直连模式◎",
+    "desc": "以直连模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-direct.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   }
 ]
