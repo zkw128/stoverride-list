@@ -105,16 +105,16 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-日本✨",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
+    "name": "微博🍥",
+    "desc": "去除微博广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Weibo.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "微博🍥",
-    "desc": "去除微博广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/Weibo.stoverride",
+    "name": "TikTok解锁-日本✨",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -567,18 +567,18 @@
     "repo": "rule"
   },
   {
-    "name": "AudioMackUnlock",
-    "desc": "AudioMack解锁永久订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": " iRingo for TestFlight",
     "desc": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "AudioMackUnlock",
+    "desc": "AudioMack解锁永久订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "短信转发",
