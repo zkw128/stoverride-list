@@ -448,6 +448,13 @@
     "repo": "Clash"
   },
   {
+    "name": "Sub-Store",
+    "desc": "高级订阅管理工具 @Peng-YM",
+    "url": "https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Stash.stoverride",
+    "owner": "Peng-YM",
+    "repo": "Sub-Store"
+  },
+  {
     "name": " iRingo for TV app",
     "desc": "(V2) 全面自定义「TV app」功能",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
@@ -474,13 +481,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "Sub-Store",
-    "desc": "高级订阅管理工具 @Peng-YM",
-    "url": "https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Stash.stoverride",
-    "owner": "Peng-YM",
-    "repo": "Sub-Store"
   },
   {
     "name": "10010v3",
