@@ -217,18 +217,18 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for Location Services",
-    "desc": "(V2) 1.修改定位服务默认(Defaults)配置 2.修改GCC(Geo Country Code)检测结果 3.重定向通告(Announcements)配置 4.重定向动态(Dynamic)配置 5.重定向调度(Dispatcher)服务 6.重定向导航(Directions)服务 7.重定向交通状况(Traffic)服务 8.重定向瓦片(Tiles)地图服务",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "去除微博微信APP内广告",
     "desc": "去微博、微信公众号广告",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/WxWbAD.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": " iRingo for Location Services",
+    "desc": "(V2) 1.修改定位服务默认(Defaults)配置 2.修改GCC(Geo Country Code)检测结果 3.重定向通告(Announcements)配置 4.重定向动态(Dynamic)配置 5.重定向调度(Dispatcher)服务 6.重定向导航(Directions)服务 7.重定向交通状况(Traffic)服务 8.重定向瓦片(Tiles)地图服务",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "TikTok解锁-韩国✨",
@@ -448,18 +448,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "什么值得买",
-    "desc": "什么值得买APP去广告(测试版)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/smzdm_ads.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "屏蔽QUIC",
     "desc": "防止哔哩哔哩等产生大量连接占用资源",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "什么值得买",
+    "desc": "什么值得买APP去广告(测试版)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/smzdm_ads.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "10010v3",
