@@ -560,6 +560,13 @@
     "repo": "Clash"
   },
   {
+    "name": "节假日 Tile 面板",
+    "desc": "用于显示节假日的面板 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride",
+    "owner": "StevenKwan",
+    "repo": "stash-waffle"
+  },
+  {
     "name": "PrismaUnlock",
     "desc": "Prisma解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/PrismaUnlock.stoverride",
@@ -572,13 +579,6 @@
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
-  },
-  {
-    "name": "节假日 Tile 面板",
-    "desc": "用于显示节假日的面板 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride",
-    "owner": "StevenKwan",
-    "repo": "stash-waffle"
   },
   {
     "name": "全局模式●",
@@ -595,18 +595,18 @@
     "repo": "Clash"
   },
   {
-    "name": "在线规则覆写",
-    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
-  },
-  {
     "name": "流媒体信息 Tile 面板",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "在线规则覆写",
+    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
   },
   {
     "name": "10010v3(dev)",
@@ -637,18 +637,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "音频剪辑提取",
-    "desc": "音频剪辑提取解锁vip会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "IP 信息 Tile 面板",
     "desc": "用于显示 IP 信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "音频剪辑提取",
+    "desc": "音频剪辑提取解锁vip会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "直连模式◎",
