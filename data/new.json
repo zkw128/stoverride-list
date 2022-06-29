@@ -1,5 +1,12 @@
 [
   {
+    "name": "Tidal_Unlock",
+    "desc": "TIDAL流媒体HiFi Plus解锁",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tidal_Unlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "节假日 Tile 面板",
     "desc": "用于显示节假日的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride",
