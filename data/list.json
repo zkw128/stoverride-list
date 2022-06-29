@@ -343,18 +343,18 @@
     "repo": "rule"
   },
   {
-    "name": "屏蔽视频网站 P2P 后台上传",
-    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "BoxJs",
     "desc": "http://boxjs.com",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
     "owner": "chavyleung",
     "repo": "scripts"
+  },
+  {
+    "name": "屏蔽视频网站 P2P 后台上传",
+    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "Google无缝翻页",
@@ -364,18 +364,18 @@
     "repo": "Clash"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g.cn / google.cn 重定向到 google.com",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "TestFlight账户管理",
     "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g.cn / google.cn 重定向到 google.com",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "TestFlight区域限制解除",
