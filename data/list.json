@@ -343,18 +343,18 @@
     "repo": "rule"
   },
   {
-    "name": "彩云天气SVIP🍥",
-    "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/CaiYunWeather.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "BoxJs",
     "desc": "http://boxjs.com",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
     "owner": "chavyleung",
     "repo": "scripts"
+  },
+  {
+    "name": "彩云天气SVIP🍥",
+    "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/CaiYunWeather.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "屏蔽视频网站 P2P 后台上传",
@@ -637,6 +637,13 @@
     "repo": "Clash"
   },
   {
+    "name": "每周循环信息展示 Tile 面板",
+    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "短信转发",
     "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
@@ -644,9 +651,9 @@
     "repo": "scripts"
   },
   {
-    "name": "每周循环信息展示 Tile 面板",
-    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
+    "name": "机场流量 Tile 面板",
+    "desc": "用于显示机场流量信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/sub_info-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -658,16 +665,16 @@
     "repo": "iRingo"
   },
   {
-    "name": "机场流量 Tile 面板",
-    "desc": "用于显示机场流量信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/sub_info-Tile.stoverride",
+    "name": "音频剪辑提取",
+    "desc": "音频剪辑提取解锁vip会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "音频剪辑提取",
-    "desc": "音频剪辑提取解锁vip会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
+    "name": "新冠疫情查询 Tile 面板",
+    "desc": "接口数据不全，酌情使用 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/covid19-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -677,12 +684,5 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-direct.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "新冠疫情查询 Tile 面板",
-    "desc": "接口数据不全，酌情使用 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/covid19-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   }
 ]
