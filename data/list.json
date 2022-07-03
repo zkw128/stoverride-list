@@ -91,16 +91,16 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-日本✨",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
+    "name": "去广告❄️",
+    "desc": "重写去广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Adblock/Advertising.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "去广告❄️",
-    "desc": "重写去广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Adblock/Advertising.stoverride",
+    "name": "TikTok解锁-日本✨",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -252,6 +252,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "YouTube去广告",
+    "desc": "去除YouTube视频广告(非首页广告)",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "酷我音乐",
     "desc": "解锁会员试听及部分功能",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
@@ -264,13 +271,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "YouTube去广告",
-    "desc": "去除YouTube视频广告(非首页广告)",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
   },
   {
     "name": "Notability",
@@ -357,6 +357,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "机场流量 Tile 面板",
+    "desc": "用于显示机场流量信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/sub_info-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "屏蔽视频网站 P2P 后台上传",
     "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
@@ -385,13 +392,6 @@
     "repo": "rule"
   },
   {
-    "name": "机场流量 Tile 面板",
-    "desc": "用于显示机场流量信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/sub_info-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Sub-Store",
     "desc": "高级订阅管理工具 @Peng-YM",
     "url": "https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Stash.stoverride",
@@ -413,16 +413,16 @@
     "repo": "scripts"
   },
   {
-    "name": "TestFlight区域限制解除",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
+    "name": "TikTok解锁-日本",
+    "desc": "解锁日本地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-JP.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-日本",
-    "desc": "解锁日本地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-JP.stoverride",
+    "name": "TestFlight区域限制解除",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -665,6 +665,13 @@
     "repo": "Clash"
   },
   {
+    "name": "EmbyPremiere",
+    "desc": "Emby破解",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/EmbyPremiere.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": " iRingo for News",
     "desc": "(BETA for Stash 2.0) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
@@ -675,13 +682,6 @@
     "name": "音频剪辑提取",
     "desc": "音频剪辑提取解锁vip会员",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "EmbyPremiere",
-    "desc": "Emby破解",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/EmbyPremiere.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
