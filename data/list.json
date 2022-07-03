@@ -322,18 +322,18 @@
     "repo": "Clash"
   },
   {
-    "name": "TestFlight账户管理",
-    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "流媒体信息 Tile 面板",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "TestFlight账户管理",
+    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "屏蔽 HTTP3 / QUIC",
@@ -343,18 +343,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": " iRingo for Apple Weather",
-    "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "IP 信息 Tile 面板",
     "desc": "用于显示 IP 信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": " iRingo for Apple Weather",
+    "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "屏蔽视频网站 P2P 后台上传",
@@ -441,16 +441,16 @@
     "repo": "scripts"
   },
   {
-    "name": "DNS-CN🌐",
-    "desc": "采用腾讯与阿里DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS-CN.stoverride",
+    "name": "屏蔽QUIC",
+    "desc": "防止哔哩哔哩等产生大量连接占用资源",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "屏蔽QUIC",
-    "desc": "防止哔哩哔哩等产生大量连接占用资源",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rule/QUIC.stoverride",
+    "name": "DNS-CN🌐",
+    "desc": "采用腾讯与阿里DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS-CN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -574,18 +574,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "Google 重定向修改版",
-    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
-  },
-  {
     "name": "DNS",
     "desc": "国内网站使用IQ与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/DNS.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "Google 重定向修改版",
+    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
   },
   {
     "name": " iRingo for News",
