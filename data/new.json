@@ -1,9 +1,1 @@
-[
-  {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/SileoHiKe.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  }
-]
+[]
