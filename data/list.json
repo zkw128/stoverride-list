@@ -595,16 +595,16 @@
     "repo": "iRingo"
   },
   {
-    "name": "Tidal_Unlock",
-    "desc": "TIDAL流媒体HiFi Plus解锁",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tidal_Unlock.stoverride",
+    "name": "流媒体信息 Tile 面板",
+    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/stream-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "流媒体信息 Tile 面板",
-    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/stream-Tile.stoverride",
+    "name": "Tidal_Unlock",
+    "desc": "TIDAL流媒体HiFi Plus解锁",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tidal_Unlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -614,6 +614,13 @@
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
+  },
+  {
+    "name": "每周循环信息展示 Tile 面板",
+    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "PrismaUnlock",
@@ -628,13 +635,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "每周循环信息展示 Tile 面板",
-    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "EmbyPremiere",
