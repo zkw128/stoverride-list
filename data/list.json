@@ -511,18 +511,18 @@
     "repo": "rule"
   },
   {
-    "name": "规则模式◉",
-    "desc": "以规则模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁台湾地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "规则模式◉",
+    "desc": "以规则模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-rule.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "豆瓣影视",
@@ -693,6 +693,13 @@
     "repo": "Clash"
   },
   {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
+  },
+  {
     "name": "直连模式◎",
     "desc": "以直连模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-direct.stoverride",
@@ -705,12 +712,5 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
   }
 ]
