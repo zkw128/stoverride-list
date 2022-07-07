@@ -273,16 +273,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "流媒体信息 Tile 面板",
-    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
+    "name": "IP 信息 Tile 面板",
+    "desc": "用于显示 IP 信息的面板 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
   },
   {
-    "name": "IP 信息 Tile 面板",
-    "desc": "用于显示 IP 信息的面板 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride",
+    "name": "流媒体信息 Tile 面板",
+    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
   },
