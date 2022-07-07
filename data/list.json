@@ -259,18 +259,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "酷我音乐",
-    "desc": "解锁会员试听及部分功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "机场流量 Tile 面板",
     "desc": "用于显示机场流量信息 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/sub_info-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "解锁会员试听及部分功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "七猫小说",
