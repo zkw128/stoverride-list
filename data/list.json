@@ -392,17 +392,17 @@
     "repo": "rule"
   },
   {
-    "name": "10010v3",
-    "desc": "联通余量(v3)",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "BoxJs",
     "desc": "http://boxjs.com",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
     "owner": "chavyleung",
+    "repo": "scripts"
+  },
+  {
+    "name": "10010v3",
+    "desc": "联通余量(v3)",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.rewrite.stash.stoverride",
+    "owner": "xream",
     "repo": "scripts"
   },
   {
