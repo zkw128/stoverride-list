@@ -266,18 +266,18 @@
     "repo": "Clash"
   },
   {
-    "name": "开屏去广告",
-    "desc": "去除部分APP开屏广告",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/StartupAD.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "流媒体信息 Tile 面板",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/stream.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "开屏去广告",
+    "desc": "去除部分APP开屏广告",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/StartupAD.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "酷我音乐",
@@ -301,18 +301,18 @@
     "repo": "stash-waffle"
   },
   {
-    "name": "TikTok解锁-新加坡✨",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Notability",
     "desc": "Notability解锁订阅",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "TikTok解锁-新加坡✨",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Dualsub-流媒体App字幕脚本🍥",
@@ -336,16 +336,16 @@
     "repo": "rule"
   },
   {
-    "name": "Q-Search",
-    "desc": "快捷切换聚合搜索引擎",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Q-Search.stoverride",
+    "name": "美图秀秀",
+    "desc": "美图秀秀破解高级会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "美图秀秀",
-    "desc": "美图秀秀破解高级会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/MeiTuUnlock.stoverride",
+    "name": "Q-Search",
+    "desc": "快捷切换聚合搜索引擎",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Q-Search.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -392,17 +392,17 @@
     "repo": "rule"
   },
   {
-    "name": "BoxJs",
-    "desc": "http://boxjs.com",
-    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
-    "owner": "chavyleung",
-    "repo": "scripts"
-  },
-  {
     "name": "10010v3",
     "desc": "联通余量(v3)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.rewrite.stash.stoverride",
     "owner": "xream",
+    "repo": "scripts"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "http://boxjs.com",
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
+    "owner": "chavyleung",
     "repo": "scripts"
   },
   {
@@ -434,18 +434,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-日本",
-    "desc": "解锁日本地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-JP.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "Google CN 重定向",
     "desc": "将 g.cn / google.cn 重定向到 google.com",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/google.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "TikTok解锁-日本",
+    "desc": "解锁日本地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-JP.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "TikTok解锁-法国✨",
@@ -455,6 +455,13 @@
     "repo": "rule"
   },
   {
+    "name": " iRingo for TV app",
+    "desc": "(V2) 全面自定义「TV app」功能",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "TikTok解锁-泰国✨",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
@@ -462,11 +469,11 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for TV app",
-    "desc": "(V2) 全面自定义「TV app」功能",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
+    "name": "DNS-CN🌐",
+    "desc": "采用腾讯与阿里DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS-CN.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "TikTok解锁-马来西亚✨",
@@ -481,13 +488,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "DNS-CN🌐",
-    "desc": "采用腾讯与阿里DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS-CN.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "什么值得买",
@@ -539,6 +539,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "DNS",
     "desc": "国内网站使用IQ与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/DNS.stoverride",
@@ -551,13 +558,6 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
-  },
-  {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
   },
   {
     "name": "TikTok解锁-韩国",
@@ -672,18 +672,18 @@
     "repo": "Clash"
   },
   {
-    "name": " iRingo for News",
-    "desc": "(BETA for Stash 2.0) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "Google CN 重定向",
     "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
     "owner": "FanxJK",
     "repo": "Rules"
+  },
+  {
+    "name": " iRingo for News",
+    "desc": "(BETA for Stash 2.0) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "短信转发",
@@ -700,17 +700,17 @@
     "repo": "Clash"
   },
   {
-    "name": "直连模式◎",
-    "desc": "以直连模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-direct.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Sileo 嗨客源修复",
     "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "直连模式◎",
+    "desc": "以直连模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Mode-direct.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   }
 ]
