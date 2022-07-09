@@ -294,18 +294,18 @@
     "repo": "stash-waffle"
   },
   {
-    "name": "七猫小说",
-    "desc": "七猫小说解锁终身会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Sub-Store",
     "desc": "高级订阅管理工具 @Peng-YM",
     "url": "https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Stash.stoverride",
     "owner": "Peng-YM",
     "repo": "Sub-Store"
+  },
+  {
+    "name": "七猫小说",
+    "desc": "七猫小说解锁终身会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/QiMaoXiaoShuo.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "Notability",
