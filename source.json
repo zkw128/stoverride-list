@@ -82,5 +82,13 @@
         "paths": [
             "Stash"
         ]
-    }
+    },
+    {
+        "owner": "shindgewongxj",
+        "repo": "WHATSINStash",
+        "branch": "main",
+        "paths": [
+            "stoverride"
+        ]
+    },
 ]
