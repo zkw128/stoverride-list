@@ -63,16 +63,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "DNS🌐",
-    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS.stoverride",
+    "name": "TestFlight区域限制解除🍥",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TestFlight区域限制解除🍥",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/TestFlight.stoverride",
+    "name": "DNS🌐",
+    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/DNS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -364,18 +364,18 @@
     "repo": "Clash"
   },
   {
-    "name": " iRingo for Apple Weather",
-    "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "10010v3",
     "desc": "联通余量(v3)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": " iRingo for Apple Weather",
+    "desc": "(BETA) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Weather.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "屏蔽视频网站 P2P 后台上传",
@@ -518,18 +518,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-台湾",
-    "desc": "解锁台湾地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": " iRingo for Siri & Search",
     "desc": "(BETA for Stash 2.0) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "TikTok解锁-台湾",
+    "desc": "解锁台湾地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "扫描全能王",
@@ -714,16 +714,16 @@
     "repo": "rule"
   },
   {
-    "name": "Sub-Store",
-    "desc": "Advanced Subscription Manager.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/substore.stoverride",
+    "name": "IP Geoloaction",
+    "desc": "Display Geolocation as a tile.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
   {
-    "name": "IP Geoloaction",
-    "desc": "Display Geolocation as a tile.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
+    "name": "Sub-Store",
+    "desc": "Advanced Subscription Manager.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/substore.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
@@ -789,5 +789,26 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/dns.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "财新周刊会员",
+    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "财新会员",
+    "desc": "解锁财新V2会员,随时拉闸",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "WPS会员",
+    "desc": "WPS解锁本地会员,支持大陆版以及非大陆版 @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   }
 ]
