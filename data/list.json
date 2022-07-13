@@ -686,18 +686,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "短信转发",
-    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "音频剪辑提取",
     "desc": "音频剪辑提取解锁vip会员",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "短信转发",
+    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Sileo 嗨客源修复",
