@@ -770,6 +770,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "Google CN 重定向",
+    "desc": "将 g.cn / google.cn 重定向到 google.com",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "屏蔽 HTTP3 / QUIC",
     "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
@@ -789,13 +796,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/news.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "Google CN 重定向",
-    "desc": "将 g.cn / google.cn 重定向到 google.com",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "对常见端口强制使用 HTTP 引擎",
