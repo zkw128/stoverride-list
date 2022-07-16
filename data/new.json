@@ -1,9 +1,1 @@
-[
-  {
-    "name": "Force Http Engine",
-    "desc": "Force http engine to work when tunnel mode on.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  }
-]
+[]
