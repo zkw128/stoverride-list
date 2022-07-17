@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "iQDNS",
+    "desc": "Resolve domains with iQDNS.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iqdns.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  }
+]
