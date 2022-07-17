@@ -567,6 +567,13 @@
     "repo": "Clash"
   },
   {
+    "name": "10010v3(dev)",
+    "desc": "联通余量(v3-dev)",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "TikTok解锁-韩国",
     "desc": "解锁韩国地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
@@ -579,13 +586,6 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
-  },
-  {
-    "name": "10010v3(dev)",
-    "desc": "联通余量(v3-dev)",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
   },
   {
     "name": "有道云笔记",
