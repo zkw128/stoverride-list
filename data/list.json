@@ -805,6 +805,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "严格 UDP 策略，禁止 1024 以上 UDP 端口",
+    "desc": "屏蔽各种 UDP 打洞，但可能会导致网络游戏无法对战",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/strict-udp-policy.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "Force Http Engine",
     "desc": "Force http engine to work when tunnel mode on.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
@@ -812,18 +819,18 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻（需要配合严格 UDP 策略使用）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "News",
     "desc": "Unlock some regional features of News.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/news.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "严格 UDP 策略，禁止 1024 以上 UDP 端口",
-    "desc": "屏蔽各种 UDP 打洞，但可能会导致网络游戏无法对战",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/strict-udp-policy.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "TV",
@@ -838,13 +845,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/playground.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
-    "desc": "加载更流畅的 BiliBili 更值得干杯🍻（需要配合严格 UDP 策略使用）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "Xbox 下载重定向国内 CDN",
