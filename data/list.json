@@ -693,18 +693,18 @@
     "repo": "Clash"
   },
   {
-    "name": "Sub-Store",
-    "desc": "Advanced Subscription Manager.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/substore.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
     "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "Sub-Store",
+    "desc": "Advanced Subscription Manager.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/substore.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "IP Geoloaction",
