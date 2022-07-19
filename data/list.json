@@ -210,18 +210,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "机场流量 Tile 面板",
-    "desc": "用于显示机场流量信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/sub_info-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "IP 信息 Tile 面板",
     "desc": "用于显示 IP 信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "机场流量 Tile 面板",
+    "desc": "用于显示机场流量信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/sub_info-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "Sub-Store",
@@ -322,18 +322,18 @@
     "repo": "rule"
   },
   {
-    "name": "Dualsub-流媒体App字幕脚本🍥",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️需配合快捷指令设置语言,到Github中查看手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Notability",
     "desc": "Notability解锁订阅",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "Dualsub-流媒体App字幕脚本🍥",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️需配合快捷指令设置语言,到Github中查看手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "VSCO活跃会员",
@@ -497,18 +497,18 @@
     "repo": "rule"
   },
   {
-    "name": "Google 重定向修改版",
-    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
-  },
-  {
     "name": "流媒体信息 Tile 面板",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/stream-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "Google 重定向修改版",
+    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
   },
   {
     "name": "规则模式◉",
@@ -651,18 +651,18 @@
     "repo": "rule"
   },
   {
-    "name": "BiliBili_CC字幕",
-    "desc": "哔哩哔哩CC字幕繁体转简体",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Bilibili_CC.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Nicegram会员",
     "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Nicegram/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "BiliBili_CC字幕",
+    "desc": "哔哩哔哩CC字幕繁体转简体",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Bilibili_CC.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": " iRingo for News",
