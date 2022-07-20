@@ -203,18 +203,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向回 google.com",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Google.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "IP 信息 Tile 面板",
     "desc": "用于显示 IP 信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向回 google.com",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Google.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "机场流量 Tile 面板",
