@@ -686,18 +686,18 @@
     "repo": "scripts"
   },
   {
-    "name": "音频剪辑提取",
-    "desc": "音频剪辑提取解锁vip会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
     "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "音频剪辑提取",
+    "desc": "音频剪辑提取解锁vip会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/YinpintiquVIP.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "IP Geoloaction",
