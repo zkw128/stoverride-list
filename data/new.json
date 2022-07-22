@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "网易云音乐黑胶会员",
+    "desc": "解锁网易云音乐全部会员权限 @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NeteaseMusic/NeteaseMusicVIP/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
+  }
+]
