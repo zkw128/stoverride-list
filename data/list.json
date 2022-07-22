@@ -203,18 +203,18 @@
     "repo": "stash-waffle"
   },
   {
-    "name": "🍿️ DualSubs for Streaming Media Platform",
-    "desc": "(V0.7.x) 流媒体平台字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs"
-  },
-  {
     "name": " iRingo for Location Services",
     "desc": "(V2) 1.修改定位服务默认(Defaults)配置 2.修改GCC(Geo Country Code)检测结果 3.重定向通告(Announcements)配置 4.重定向动态(Dynamic)配置 5.重定向调度(Dispatcher)服务 6.重定向导航(Directions)服务 7.重定向交通状况(Traffic)服务 8.重定向瓦片(Tiles)地图服务",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "🍿️ DualSubs for Streaming Media Platform",
+    "desc": "(V0.7.x) 流媒体平台字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs"
   },
   {
     "name": "Sub-Store",
@@ -679,18 +679,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
-    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "网易云音乐黑胶会员",
     "desc": "解锁网易云音乐全部会员权限 @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NeteaseMusic/NeteaseMusicVIP/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "短信转发",
