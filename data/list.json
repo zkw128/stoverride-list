@@ -385,18 +385,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-澳门✨",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Google无缝翻页",
     "desc": "谷歌网页搜索自动无缝翻页",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Endlessgoogle.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "TikTok解锁-澳门✨",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "屏蔽QUIC",
@@ -588,18 +588,18 @@
     "repo": "Clash"
   },
   {
-    "name": "每周循环信息展示 Tile 面板",
-    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "在线规则覆写",
     "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
+  },
+  {
+    "name": "每周循环信息展示 Tile 面板",
+    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "有道云笔记",
