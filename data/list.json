@@ -847,9 +847,9 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "PCR",
-    "desc": "核酸报告",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/pcr/pcr.stoverride",
+    "name": "Gist 备份",
+    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/gist",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
   }
