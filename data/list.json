@@ -21,16 +21,16 @@
     "repo": "rule"
   },
   {
-    "name": "微信公众号去广告🍥",
-    "desc": "去除微信公众号文章内广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/ADWX.stoverride",
+    "name": "去广告(严格版)❄️",
+    "desc": "重写去广告严格版",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Adblock/AdvertisingLite.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "去广告(严格版)❄️",
-    "desc": "重写去广告严格版",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/Adblock/AdvertisingLite.stoverride",
+    "name": "微信公众号去广告🍥",
+    "desc": "去除微信公众号文章内广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Script/ADWX.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -455,6 +455,13 @@
     "repo": "rule"
   },
   {
+    "name": "流媒体信息 Tile 面板",
+    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/stream-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "什么值得买",
     "desc": "什么值得买APP去广告(测试版)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/smzdm_ads.stoverride",
@@ -467,13 +474,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "流媒体信息 Tile 面板",
-    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/stream-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": " iRingo for Siri & Search",
@@ -665,18 +665,18 @@
     "repo": "Clash"
   },
   {
-    "name": "AudioMackUnlock",
-    "desc": "AudioMack解锁永久订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
     "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "AudioMackUnlock",
+    "desc": "AudioMack解锁永久订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "财新会员",
