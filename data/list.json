@@ -847,6 +847,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "Gist 备份",
+    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/gist",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "TV",
     "desc": "Unlock some regional features of TV.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tv.stoverride",
@@ -859,13 +866,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/playground.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "Gist 备份",
-    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/gist",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
   },
   {
     "name": "酷我音乐",
