@@ -560,6 +560,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "微博",
+    "desc": "去除微博广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "News",
     "desc": "Unlock some regional features of News.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/news.stoverride",
@@ -581,6 +588,13 @@
     "repo": "rule"
   },
   {
+    "name": "YouTube去广告",
+    "desc": "去除YouTube视频广告(非首页广告)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/YouTubeAdblock.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "Xbox 下载重定向国内 CDN",
     "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
@@ -595,16 +609,9 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "微博",
-    "desc": "去除微博广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "YouTube去广告",
-    "desc": "去除YouTube视频广告(非首页广告)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/YouTubeAdblock.stoverride",
+    "name": "开屏去广告",
+    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/StartupAD.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -614,6 +621,13 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tv.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "DNS",
+    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "知乎",
@@ -630,13 +644,6 @@
     "repo": "rule"
   },
   {
-    "name": "开屏去广告",
-    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/StartupAD.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "TikTok解锁-日本",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
@@ -644,30 +651,9 @@
     "repo": "rule"
   },
   {
-    "name": "DNS",
-    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "网易云音乐解锁",
     "desc": "解锁灰色歌曲与VIP试听，使用后请在网易云音乐策略组中选择能用的解锁节点(自行测试)，节点来源于网络",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/NetEaseMusic.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "屏蔽QUIC",
-    "desc": "防止哔哩哔哩等产生大量连接占用资源",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -682,6 +668,27 @@
     "name": "去广告(严格版)",
     "desc": "重写去广告严格版",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/AdvertisingLite.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "Dualsub-流媒体App字幕脚本",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,到Github中查看手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "屏蔽QUIC",
+    "desc": "防止哔哩哔哩等产生大量连接占用资源",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -843,13 +850,6 @@
     "name": "Netflix评分",
     "desc": "Netflix视频加入豆瓣、imdb评分",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Netflix_ratings.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "Dualsub-流媒体App字幕脚本",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,到Github中查看手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
