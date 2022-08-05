@@ -301,18 +301,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "在线规则覆写",
-    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
-  },
-  {
     "name": "TikTok解锁-韩国",
     "desc": "解锁韩国地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "在线规则覆写",
+    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
   },
   {
     "name": "Nicegram会员",
@@ -476,16 +476,16 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "开屏去广告",
-    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/StartupAD.stoverride",
+    "name": "知乎",
+    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "知乎",
-    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
+    "name": "开屏去广告",
+    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/StartupAD.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -602,6 +602,13 @@
     "repo": "rule"
   },
   {
+    "name": "Dualsub-流媒体App字幕脚本",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,到Github中查看手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "DNS",
     "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS.stoverride",
@@ -642,13 +649,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "Dualsub-流媒体App字幕脚本",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,到Github中查看手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "Bilibili去广告",
