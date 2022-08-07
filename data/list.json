@@ -217,18 +217,18 @@
     "repo": "Clash"
   },
   {
-    "name": " iRingo for TV app",
-    "desc": "(V2) 全面自定义「TV app」功能",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "TestFlight区域限制解除",
     "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": " iRingo for TV app",
+    "desc": "(V2) 全面自定义「TV app」功能",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "EmbyPremiere",
@@ -273,18 +273,18 @@
     "repo": "Clash"
   },
   {
-    "name": "扫描全能王",
-    "desc": "解锁扫描全能王会员",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": " iRingo for TestFlight",
     "desc": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换(需配置BoxJs使用) 3.让通用应用在任意苹果处理器设备上可安装",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "扫描全能王",
+    "desc": "解锁扫描全能王会员",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "10010v3(dev)",
@@ -329,18 +329,18 @@
     "repo": "Clash"
   },
   {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "每周循环信息展示 Tile 面板",
     "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
@@ -364,18 +364,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "有道云笔记",
-    "desc": "解锁VIP高级功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "Tidal_Unlock",
     "desc": "TIDAL流媒体HiFi Plus解锁",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tidal_Unlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "有道云笔记",
+    "desc": "解锁VIP高级功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "Google CN 重定向",
@@ -637,6 +637,13 @@
     "repo": "Clash"
   },
   {
+    "name": "Sub-Store",
+    "desc": "高级订阅管理工具",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Sub-Store.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "PlaneFinder",
     "desc": "解锁PlaneFinder高级订阅 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
@@ -668,13 +675,6 @@
     "name": "TikTok解锁-日本",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "Sub-Store",
-    "desc": "高级订阅管理工具",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Sub-Store.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
