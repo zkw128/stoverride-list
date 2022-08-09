@@ -1,5 +1,19 @@
 [
   {
+    "name": "获取京东cookie",
+    "desc": "获取京东cookie进行签到",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/JD_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
+    "name": "京东签到",
+    "desc": "每日定时签到领京豆、红包、钢镚等",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/JD_DailyBonus.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "PixivShow",
     "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
