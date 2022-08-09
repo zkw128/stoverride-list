@@ -567,6 +567,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "Bilibili",
+    "desc": "Bilibili去广告Plus",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "对常见端口强制使用 HTTP 引擎",
     "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
@@ -593,13 +600,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibilitask.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "Bilibili",
-    "desc": "Bilibili去广告Plus",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "兼容模式（关闭 Fake IP）",
@@ -693,11 +693,25 @@
     "repo": "rule"
   },
   {
+    "name": "重定向",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "获取bilibili Cookie",
     "desc": "获取bilibili cookie进行直播红包签到、银瓜子转硬币",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "百度搜索防跳转",
+    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "WPS Office",
@@ -714,16 +728,9 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "重定向",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "百度搜索防跳转",
-    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
+    "name": "屏蔽QUIC",
+    "desc": "防止哔哩哔哩等产生大量连接占用资源",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -738,13 +745,6 @@
     "name": "BoxJS",
     "desc": "安装后访问http://boxjs.com/进入",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "屏蔽QUIC",
-    "desc": "防止哔哩哔哩等产生大量连接占用资源",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -833,6 +833,13 @@
     "repo": "rule"
   },
   {
+    "name": "DNS-CN",
+    "desc": "采用腾讯与阿里DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "彩云天气SVIP",
     "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CaiYunWeather.stoverride",
@@ -850,13 +857,6 @@
     "name": "TikTok解锁-新加坡",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "DNS-CN",
-    "desc": "采用腾讯与阿里DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
