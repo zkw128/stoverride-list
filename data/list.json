@@ -462,6 +462,13 @@
     "repo": "rule"
   },
   {
+    "name": "微信公众号去广告",
+    "desc": "去除微信公众号文章内广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/ADWX.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "去广告规则",
     "desc": "分流去广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/ADRulesLite.stoverride",
@@ -479,13 +486,6 @@
     "name": "知乎",
     "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "微信公众号去广告",
-    "desc": "去除微信公众号文章内广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/ADWX.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -651,6 +651,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "重定向",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "Weather",
     "desc": "Unlock some regional features of Weather.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/weather.stoverride",
@@ -686,9 +693,9 @@
     "repo": "rule"
   },
   {
-    "name": "重定向",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
+    "name": "百度搜索防跳转",
+    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -719,13 +726,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "百度搜索防跳转",
-    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "WPS Office",
@@ -840,6 +840,13 @@
     "repo": "rule"
   },
   {
+    "name": "扫描全能王",
+    "desc": "解锁扫描全能王会员",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "彩云天气SVIP",
     "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CaiYunWeather.stoverride",
@@ -889,13 +896,6 @@
     "repo": "rule"
   },
   {
-    "name": "扫描全能王",
-    "desc": "解锁扫描全能王会员",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "全局模式",
     "desc": "以全局模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
@@ -915,6 +915,13 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "微博通知",
+    "desc": "请先进入 https://m.weibo.cn 并登陆，获取Cookie后，回到网页刷新即可",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/CronScript/Weibo.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "哔哩哔哩漫画签到",
@@ -950,13 +957,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "微博特别关注通知",
-    "desc": "请先进入 https://m.weibo.cn 并登陆，获取Cookie后，回到网页刷新即可",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/CronScript/Weibo.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "TG频道图片推送",
