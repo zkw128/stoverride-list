@@ -715,14 +715,14 @@
   },
   {
     "name": "获取京东cookie",
-    "desc": "获取京东cookie进行签到",
+    "desc": "获取京东cookie以进行签到，配合'京东签到'覆写使用",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/JD_cookie.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
     "name": "获取bilibili Cookie",
-    "desc": "获取bilibili cookie进行直播红包签到、银瓜子转硬币",
+    "desc": "获取bilibili cookie以进行签到，配合'bilibili签到'覆写使用",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
