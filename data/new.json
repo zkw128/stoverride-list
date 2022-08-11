@@ -1,9 +1,1 @@
-[
-  {
-    "name": "微博特别关注通知",
-    "desc": "请先进入 https://m.weibo.cn 并登陆，获取Cookie后，回到网页刷新即可",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/CronScript/Weibo.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  }
-]
+[]
