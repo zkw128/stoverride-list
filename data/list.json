@@ -476,16 +476,16 @@
     "repo": "rule"
   },
   {
-    "name": "Bilibili去广告",
-    "desc": "需iOS15，去除开屏页、推荐页广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Bilibili.stoverride",
+    "name": "去广告(严格版)",
+    "desc": "重写去广告严格版",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/AdvertisingLite.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "去广告(严格版)",
-    "desc": "重写去广告严格版",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/AdvertisingLite.stoverride",
+    "name": "Bilibili去广告",
+    "desc": "需iOS15，去除开屏页、推荐页广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Bilibili.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -770,6 +770,13 @@
     "repo": "rule"
   },
   {
+    "name": "重写去广告",
+    "desc": "根据神机重写去广告修改",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/Advertising.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "汇率监控",
     "desc": "汇率监控，每日21点推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
@@ -859,13 +866,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "重写去广告",
-    "desc": "根据神机重写去广告修改",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/Advertising.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "规则模式",
