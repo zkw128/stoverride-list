@@ -329,18 +329,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "每周循环信息展示 Tile 面板",
-    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Nicegram会员",
     "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Nicegram/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "每周循环信息展示 Tile 面板",
+    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "财新会员",
@@ -371,18 +371,18 @@
     "repo": "Clash"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "YouTube去广告",
     "desc": "去除YouTube视频广告(非首页广告)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/YouTubeAdblock.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "Tidal_Unlock",
@@ -455,6 +455,13 @@
     "repo": "Clash"
   },
   {
+    "name": "重写去广告",
+    "desc": "根据神机重写去广告修改",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/Advertising.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "财新周刊会员",
     "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
@@ -465,13 +472,6 @@
     "name": "AudioMackUnlock",
     "desc": "AudioMack解锁永久订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "重写去广告",
-    "desc": "根据神机重写去广告修改",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/Advertising.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -637,6 +637,13 @@
     "repo": "Clash"
   },
   {
+    "name": "重定向",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "兼容模式（关闭 Fake IP）",
     "desc": "仅推荐在网游无法联网时使用",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
@@ -656,13 +663,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "重定向",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "京东签到",
