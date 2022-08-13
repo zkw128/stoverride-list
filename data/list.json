@@ -301,18 +301,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "10010v3(dev)",
-    "desc": "联通余量(v3-dev)",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "在线规则覆写",
     "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
+  },
+  {
+    "name": "10010v3(dev)",
+    "desc": "联通余量(v3-dev)",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "TikTok解锁-韩国",
@@ -420,6 +420,13 @@
     "repo": "iRingo"
   },
   {
+    "name": "微博",
+    "desc": "去除微博广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "开屏去广告",
     "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/StartupAD.stoverride",
@@ -432,13 +439,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/PrismaUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "微博",
-    "desc": "去除微博广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "BiliBili_CC字幕",
@@ -469,6 +469,13 @@
     "repo": "rule"
   },
   {
+    "name": "知乎",
+    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "去广告规则",
     "desc": "分流去广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/ADRulesLite.stoverride",
@@ -481,13 +488,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/AudioMackUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "知乎",
-    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "去广告(严格版)",
@@ -518,6 +518,13 @@
     "repo": "scripts"
   },
   {
+    "name": "TestFlight账户管理",
+    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "Sub-Store",
     "desc": "Advanced Subscription Manager.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/substore.stoverride",
@@ -530,13 +537,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "TestFlight账户管理",
-    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "Bilibili",
@@ -567,6 +567,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "TikTok解锁-日本",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "Sub-Store",
     "desc": "高级订阅管理工具",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Sub-Store.stoverride",
@@ -588,13 +595,6 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "TikTok解锁-日本",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "重定向",
     "desc": "常用HTTPS重定向",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
@@ -609,18 +609,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "Dualsub-流媒体App字幕脚本",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "bilibili签到",
     "desc": "每天00:01、00:02、00:03签到直播红包、银瓜子转硬币",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibilitask.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "Dualsub-流媒体App字幕脚本",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "对常见端口强制使用 HTTP 引擎",
@@ -833,9 +833,23 @@
     "repo": "rule"
   },
   {
+    "name": "扫描全能王",
+    "desc": "解锁扫描全能王会员",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "TikTok解锁-越南",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "TikTok解锁-新加坡",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -854,18 +868,11 @@
     "repo": "rule"
   },
   {
-    "name": "扫描全能王",
-    "desc": "解锁扫描全能王会员",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "TikTok解锁-新加坡",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
+    "name": "Xmind思维导图",
+    "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "Playground",
@@ -929,13 +936,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "Xmind思维导图",
-    "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
   },
   {
     "name": "TikTok解锁-泰国",
