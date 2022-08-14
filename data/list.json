@@ -266,16 +266,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "Nicegram会员",
-    "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Nicegram/Stash.stoverride",
+    "name": "财新会员",
+    "desc": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "财新会员",
-    "desc": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
+    "name": "Nicegram会员",
+    "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Nicegram/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
   },
