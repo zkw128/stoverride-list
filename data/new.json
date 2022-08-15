@@ -1,16 +1,1 @@
-[
-  {
-    "name": "什么值得买",
-    "desc": "什么值得买APP去广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/SmzdmAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "腾讯新闻App去广告",
-    "desc": "开屏页广告有缓存,需要重新安装应用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/QQNewsAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  }
-]
+[]
