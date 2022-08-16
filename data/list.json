@@ -189,18 +189,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
-    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": " iRingo for Siri & Search",
     "desc": "(BETA for Stash 2.0) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": " iRingo for TestFlight",
@@ -210,18 +210,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "Google 重定向修改版",
-    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
-  },
-  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁台湾地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "Google 重定向修改版",
+    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
   },
   {
     "name": " iRingo for News",
@@ -357,13 +357,6 @@
     "repo": "rule"
   },
   {
-    "name": "有道云笔记",
-    "desc": "解锁VIP高级功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "Bilibili去广告",
     "desc": "需iOS15，去除开屏页、推荐页广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Bilibili.stoverride",
@@ -376,6 +369,13 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "有道云笔记",
+    "desc": "解锁VIP高级功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "知乎",
@@ -518,16 +518,16 @@
     "repo": "Clash"
   },
   {
-    "name": "重定向",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
+    "name": "TikTok解锁-美国",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-美国",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
+    "name": "重定向",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -700,16 +700,16 @@
     "repo": "rule"
   },
   {
-    "name": "EmbyPremiere",
-    "desc": "Emby破解",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/EmbyPremiere.stoverride",
+    "name": "ASN for Mainland China",
+    "desc": "按ASN分流中国大陆IP与域名直连",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Rule/ASN_China.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "ASN for Mainland China",
-    "desc": "按ASN分流中国大陆IP与域名直连",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Rule/ASN_China.stoverride",
+    "name": "EmbyPremiere",
+    "desc": "Emby破解",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/EmbyPremiere.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -719,6 +719,13 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "七猫小说",
+    "desc": "七猫小说解锁终身会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/QiMaoXiaoShuo.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "TikTok解锁-台湾",
@@ -747,13 +754,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "七猫小说",
-    "desc": "七猫小说解锁终身会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/QiMaoXiaoShuo.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "TikTok解锁-越南",
@@ -833,18 +833,18 @@
     "repo": "rule"
   },
   {
-    "name": "规则模式",
-    "desc": "以规则模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Q-Search",
     "desc": "快捷切换聚合搜索引擎",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Q-Search.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "规则模式",
+    "desc": "以规则模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Playground",
