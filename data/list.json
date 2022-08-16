@@ -224,18 +224,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "WPS会员",
-    "desc": "WPS解锁本地会员,支持大陆版以及非大陆版 @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": " iRingo for News",
     "desc": "(V2) 1.自定义解锁News的地区 2.Coming Soon…",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "WPS会员",
+    "desc": "WPS解锁本地会员,支持大陆版以及非大陆版 @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "扫描全能王",
@@ -917,6 +917,13 @@
     "repo": "rule"
   },
   {
+    "name": "Tidal_Unlock",
+    "desc": "TIDAL流媒体HiFi Plus解锁",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/Tidal_Unlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "豆瓣影视",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/DouBanPlay.stoverride",
@@ -955,13 +962,6 @@
     "name": "V2EX签到",
     "desc": "每天00:10执行签到",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "Tidal_Unlock",
-    "desc": "TIDAL流媒体HiFi Plus解锁",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/Tidal_Unlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -1006,5 +1006,12 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "ASN for Mainland China",
+    "desc": "按ASN分流中国大陆IP与域名直连",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Rule/ASN_China.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   }
 ]
