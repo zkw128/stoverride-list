@@ -154,16 +154,16 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "TestFlight区域限制解除",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
+    "name": "TikTok解锁-美国",
+    "desc": "解锁美国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-美国",
-    "desc": "解锁美国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
+    "name": "TestFlight区域限制解除",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TestFlight.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -189,18 +189,18 @@
     "repo": "iRingo"
   },
   {
-    "name": " iRingo for Siri & Search",
-    "desc": "(BETA for Stash 2.0) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
     "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": " iRingo for Siri & Search",
+    "desc": "(BETA for Stash 2.0) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": " iRingo for TestFlight",
@@ -490,16 +490,16 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "bilibili签到",
-    "desc": "每天00:01、00:02、00:03签到直播红包、银瓜子转硬币",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibilitask.stoverride",
+    "name": "贴吧去广告",
+    "desc": "1.开屏页广告 2.推荐页列表/吧内帖子列表的直播和其他广告去除 3.帖子详情页直播和关联商品及其他广告去除 4.帖子看图模式广告去除 5.首页/帖子详情页右下角悬浮广告去除 6.部分吧内的置顶/最新中间的广告/head图片广告去除",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/TiebaAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "贴吧去广告",
-    "desc": "1.开屏页广告 2.推荐页列表/吧内帖子列表的直播和其他广告去除 3.帖子详情页直播和关联商品及其他广告去除 4.帖子看图模式广告去除 5.首页/帖子详情页右下角悬浮广告去除 6.部分吧内的置顶/最新中间的广告/head图片广告去除",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/TiebaAds.stoverride",
+    "name": "bilibili签到",
+    "desc": "每天00:01、00:02、00:03签到直播红包、银瓜子转硬币",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibilitask.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -637,6 +637,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "获取bilibili Cookie",
+    "desc": "获取bilibili cookie以进行签到，配合'bilibili签到'覆写使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "汇率监控",
     "desc": "汇率监控，每日21点5分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
@@ -656,13 +663,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "获取bilibili Cookie",
-    "desc": "获取bilibili cookie以进行签到，配合'bilibili签到'覆写使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "WPS Office",
@@ -707,6 +707,13 @@
     "repo": "Clash"
   },
   {
+    "name": "七猫小说",
+    "desc": "七猫小说解锁终身会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/QiMaoXiaoShuo.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "EmbyPremiere",
     "desc": "Emby破解",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/EmbyPremiere.stoverride",
@@ -719,13 +726,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "七猫小说",
-    "desc": "七猫小说解锁终身会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/QiMaoXiaoShuo.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "TikTok解锁-台湾",
@@ -847,6 +847,13 @@
     "repo": "rule"
   },
   {
+    "name": "美图秀秀",
+    "desc": "美图秀秀破解高级会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/MeiTuUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "Playground",
     "desc": "Nonpublic Stoverride Lab.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/playground.stoverride",
@@ -857,13 +864,6 @@
     "name": "获取网易云音乐Cookie",
     "desc": "获取网易云音乐cookie以进行签到，配合'网易云音乐签到'覆写使用",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic_cookie.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "美图秀秀",
-    "desc": "美图秀秀破解高级会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/MeiTuUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -980,6 +980,13 @@
     "repo": "Clash"
   },
   {
+    "name": "腾讯新闻App去广告",
+    "desc": "开屏页广告有缓存,需要重新安装应用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/QQNewsAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "PrismaUnlock",
     "desc": "Prisma解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/PrismaUnlock.stoverride",
@@ -990,13 +997,6 @@
     "name": "AudioMackUnlock",
     "desc": "AudioMack解锁永久订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/AudioMackUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "腾讯新闻App去广告",
-    "desc": "开屏页广告有缓存,需要重新安装应用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/QQNewsAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
