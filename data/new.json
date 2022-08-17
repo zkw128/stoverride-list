@@ -1,9 +1,1 @@
-[
-  {
-    "name": "ASN for Mainland China",
-    "desc": "按ASN分流中国大陆IP与域名直连",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Rule/ASN_China.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  }
-]
+[]
