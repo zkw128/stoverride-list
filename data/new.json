@@ -5,12 +5,5 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Rule/ASN_China.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "ASN CN",
-    "desc": "IP-ASN rules.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
   }
 ]
