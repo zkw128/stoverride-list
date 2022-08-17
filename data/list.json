@@ -434,6 +434,13 @@
     "repo": "rule"
   },
   {
+    "name": "ASN for Mainland China",
+    "desc": "按ASN分流中国大陆IP与域名直连",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Rule/ASN_China.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "京东比价",
     "desc": "京东手机APP历史价格查看",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
@@ -453,13 +460,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "ASN for Mainland China",
-    "desc": "按ASN分流中国大陆IP与域名直连",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Rule/ASN_China.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "Sub-Store",
@@ -924,6 +924,13 @@
     "repo": "Clash"
   },
   {
+    "name": "直连模式",
+    "desc": "以直连模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "哔哩哔哩番剧监控",
     "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
@@ -957,13 +964,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "直连模式",
-    "desc": "以直连模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "V2EX签到",
