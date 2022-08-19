@@ -231,13 +231,6 @@
     "repo": "iRingo"
   },
   {
-    "name": "WPS会员",
-    "desc": "WPS解锁本地会员,支持大陆版以及非大陆版 @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
@@ -245,11 +238,11 @@
     "repo": "MySelf"
   },
   {
-    "name": "YouTube去广告",
-    "desc": "仅去除YouTube视频广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/YouTubeAdblock.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
+    "name": "WPS会员",
+    "desc": "WPS解锁本地会员,支持大陆版以及非大陆版 @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "财新会员",
@@ -257,6 +250,13 @@
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "YouTube去广告",
+    "desc": "仅去除YouTube视频广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/YouTubeAdblock.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "在线规则覆写",
@@ -392,18 +392,18 @@
     "repo": "Clash"
   },
   {
-    "name": "有道云笔记",
-    "desc": "解锁VIP高级功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "财新周刊会员",
     "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "有道云笔记",
+    "desc": "解锁VIP高级功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "去广告规则",
@@ -511,6 +511,13 @@
     "repo": "Clash"
   },
   {
+    "name": "TikTok解锁-美国",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "IP Geoloaction",
     "desc": "Display Geolocation as a tile.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
@@ -525,18 +532,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "TikTok解锁-美国",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Netflix评分",
     "desc": "Netflix视频加入豆瓣、imdb评分",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Netflix_ratings.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "EmbyPremiere",
+    "desc": "Emby破解",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/EmbyPremiere.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "bilibili签到",
@@ -565,13 +572,6 @@
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
-  },
-  {
-    "name": "EmbyPremiere",
-    "desc": "Emby破解",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/EmbyPremiere.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "重定向",
@@ -875,6 +875,13 @@
     "repo": "rule"
   },
   {
+    "name": "什么值得买",
+    "desc": "什么值得买APP去广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/SmzdmAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "TV",
     "desc": "Unlock some regional features of TV.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tv.stoverride",
@@ -922,13 +929,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "什么值得买",
-    "desc": "什么值得买APP去广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/SmzdmAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "V2EX签到",
