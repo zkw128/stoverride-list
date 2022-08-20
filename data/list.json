@@ -147,6 +147,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "屏蔽视频网站 P2P 后台上传",
+    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "TikTok解锁-美国",
     "desc": "解锁美国地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
@@ -173,6 +180,13 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/stream-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": " iRingo for TV app",
@@ -385,18 +399,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "有道云笔记",
-    "desc": "解锁VIP高级功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "微博",
     "desc": "去除微博广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "有道云笔记",
+    "desc": "解锁VIP高级功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "去广告规则",
@@ -446,6 +460,13 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Sub-Store.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "屏蔽 HTTP3 / QUIC",
+    "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "贴吧去广告",
@@ -560,6 +581,20 @@
     "repo": "rule"
   },
   {
+    "name": "对常见端口强制使用 HTTP 引擎",
+    "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g.cn / google.cn 重定向到 google.com",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "DNS",
     "desc": "国内网站使用IQ与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/General/DNS.stoverride",
@@ -637,6 +672,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "兼容模式（关闭 Fake IP）",
+    "desc": "仅推荐在网游无法联网时使用",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "WPS Office",
     "desc": "解锁超级会员部分功能",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
@@ -665,6 +707,13 @@
     "repo": "Clash"
   },
   {
+    "name": "七猫小说",
+    "desc": "七猫小说解锁终身会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/QiMaoXiaoShuo.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
@@ -684,13 +733,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "七猫小说",
-    "desc": "七猫小说解锁终身会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/QiMaoXiaoShuo.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "PlaneFinder",
@@ -756,6 +798,13 @@
     "repo": "Clash"
   },
   {
+    "name": "Xbox 下载重定向国内 CDN",
+    "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "TikTok解锁-越南",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
@@ -805,6 +854,13 @@
     "repo": "rule"
   },
   {
+    "name": "什么值得买",
+    "desc": "什么值得买APP去广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/SmzdmAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "Q-Search",
     "desc": "快捷切换聚合搜索引擎",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Q-Search.stoverride",
@@ -824,13 +880,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "什么值得买",
-    "desc": "什么值得买APP去广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/SmzdmAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "TV",
