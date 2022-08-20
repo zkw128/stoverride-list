@@ -126,16 +126,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "Notability",
-    "desc": "Notability解锁订阅",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
+    "name": "TikTok解锁-日本",
+    "desc": "解锁日本地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-JP.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-日本",
-    "desc": "解锁日本地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-JP.stoverride",
+    "name": "Notability",
+    "desc": "Notability解锁订阅",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -147,18 +147,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "屏蔽视频网站 P2P 后台上传",
-    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "TikTok解锁-美国",
     "desc": "解锁美国地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "屏蔽视频网站 P2P 后台上传",
+    "desc": "避免视频网站通过 P2P 后台上传（原作者：Dreamacro）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "TestFlight区域限制解除",
@@ -812,6 +812,13 @@
     "repo": "rule"
   },
   {
+    "name": "获取网易云音乐Cookie",
+    "desc": "获取网易云音乐cookie以进行签到，配合'网易云音乐签到'覆写使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "TikTok解锁-澳门",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
@@ -831,13 +838,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "获取网易云音乐Cookie",
-    "desc": "获取网易云音乐cookie以进行签到，配合'网易云音乐签到'覆写使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic_cookie.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "日志等级Debug",
@@ -889,6 +889,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "网易云音乐签到",
+    "desc": "每天00:06执行签到",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "微博通知",
     "desc": "请先进入 https://m.weibo.cn 并登陆，获取Cookie后，回到网页刷新即可",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/CronScript/Weibo.stoverride",
@@ -924,9 +931,9 @@
     "repo": "Clash"
   },
   {
-    "name": "网易云音乐签到",
-    "desc": "每天00:06执行签到",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
+    "name": "豆瓣影视",
+    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/DouBanPlay.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -934,6 +941,13 @@
     "name": "直连模式",
     "desc": "以直连模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
+    "name": "哔哩哔哩番剧监控",
+    "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -952,25 +966,11 @@
     "repo": "rule"
   },
   {
-    "name": "豆瓣影视",
-    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/DouBanPlay.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "获取V2EX Cookie",
     "desc": "获取V2EX cookie以进行签到，配合'V2EX签到'覆写使用",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex_cookie.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "哔哩哔哩番剧监控",
-    "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "腾讯新闻App去广告",
@@ -1001,17 +1001,17 @@
     "repo": "Clash"
   },
   {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/SileoHiKe.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "TG频道图片推送",
     "desc": "请查看覆写内容在boxjs中设置频道,每日12点与22点推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/SileoHiKe.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   }
 ]
