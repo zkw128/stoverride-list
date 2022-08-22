@@ -245,18 +245,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "扫描全能王",
-    "desc": "解锁扫描全能王会员",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "WPS会员",
     "desc": "WPS解锁本地会员,支持大陆版以及非大陆版 @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "扫描全能王",
+    "desc": "解锁扫描全能王会员",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "酷我音乐",
@@ -392,18 +392,18 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for News",
-    "desc": "(BETA for Stash 2.0) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "去广告规则",
     "desc": "分流去广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/ADRulesLite.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": " iRingo for News",
+    "desc": "(BETA for Stash 2.0) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "ASN for Mainland China",
@@ -455,18 +455,18 @@
     "repo": "rule"
   },
   {
-    "name": "贴吧去广告",
-    "desc": "1.开屏页广告 2.推荐页列表/吧内帖子列表的直播和其他广告去除 3.帖子详情页直播和关联商品及其他广告去除 4.帖子看图模式广告去除 5.首页/帖子详情页右下角悬浮广告去除 6.部分吧内的置顶/最新中间的广告/head图片广告去除",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/TiebaAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Sub-Store",
     "desc": "高级订阅管理工具",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Sub-Store.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "贴吧去广告",
+    "desc": "1.开屏页广告 2.推荐页列表/吧内帖子列表的直播和其他广告去除 3.帖子详情页直播和关联商品及其他广告去除 4.帖子看图模式广告去除 5.首页/帖子详情页右下角悬浮广告去除 6.部分吧内的置顶/最新中间的广告/head图片广告去除",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/TiebaAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "Netflix评分",
@@ -532,18 +532,18 @@
     "repo": "scripts"
   },
   {
-    "name": "IP Geoloaction",
-    "desc": "Display Geolocation as a tile.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "流利说·阅读",
     "desc": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "IP Geoloaction",
+    "desc": "Display Geolocation as a tile.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "ASN CN",
@@ -560,6 +560,13 @@
     "repo": "rule"
   },
   {
+    "name": "京东多合一签到",
+    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "bilibili签到",
     "desc": "每天00:01、00:02、00:03签到直播红包、银瓜子转硬币",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibilitask.stoverride",
@@ -567,9 +574,9 @@
     "repo": "Clash"
   },
   {
-    "name": "京东多合一签到",
-    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
+    "name": "百度搜索防跳转",
+    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -586,13 +593,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/General/DNS.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "百度搜索防跳转",
-    "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "对常见端口强制使用 HTTP 引擎",
@@ -833,18 +833,18 @@
     "repo": "rule"
   },
   {
-    "name": "获取网易云音乐Cookie",
-    "desc": "获取网易云音乐cookie以进行签到，配合'网易云音乐签到'覆写使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic_cookie.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "规则模式",
     "desc": "以规则模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "获取网易云音乐Cookie",
+    "desc": "获取网易云音乐cookie以进行签到，配合'网易云音乐签到'覆写使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "日志等级Debug",
