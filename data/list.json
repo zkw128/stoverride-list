@@ -497,18 +497,18 @@
     "repo": "Clash"
   },
   {
-    "name": "Sub-Store",
-    "desc": "Advanced Subscription Manager.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/substore.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "EmbyPremiere",
     "desc": "Emby破解",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/EmbyPremiere.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "Sub-Store",
+    "desc": "Advanced Subscription Manager.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/substore.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "知乎App去广告",
