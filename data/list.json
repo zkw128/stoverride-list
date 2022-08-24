@@ -70,7 +70,7 @@
     "repo": "iRingo"
   },
   {
-    "name": "🍿️ DualSubs for YouTube",
+    "name": "🍿️ DualSubs for ▶️ YouTube",
     "desc": "(V0.4.x) YouTube字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.YouTube.stoverride",
     "owner": "DualSubs",
@@ -98,7 +98,7 @@
     "repo": "stash-waffle"
   },
   {
-    "name": "🍿️ DualSubs for Streaming Media Platform",
+    "name": "🍿️ DualSubs for 🎦 Streaming Media Platform",
     "desc": "(V0.7.x) 流媒体平台字幕增强及双语模块",
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
     "owner": "DualSubs",
