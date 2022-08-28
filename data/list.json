@@ -182,18 +182,18 @@
     "repo": "rule"
   },
   {
-    "name": "BoxJs",
-    "desc": "http://boxjs.com",
-    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
-    "owner": "chavyleung",
-    "repo": "scripts"
-  },
-  {
     "name": "财新会员",
     "desc": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "BoxJs",
+    "desc": "http://boxjs.com",
+    "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
+    "owner": "chavyleung",
+    "repo": "scripts"
   },
   {
     "name": "流媒体信息 Tile 面板",
@@ -245,18 +245,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "TikTok解锁-台湾",
-    "desc": "解锁台湾地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "WPS会员",
     "desc": "WPS解锁本地会员,支持大陆版以及非大陆版 @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "TikTok解锁-台湾",
+    "desc": "解锁台湾地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "扫描全能王",
@@ -343,18 +343,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "Bilibili去广告",
-    "desc": "需iOS15，去除开屏页、推荐页广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Bilibili.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "财新周刊会员",
     "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "Bilibili去广告",
+    "desc": "需iOS15，去除开屏页、推荐页广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Bilibili.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "知乎",
@@ -399,6 +399,13 @@
     "repo": "rule"
   },
   {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "Google CN 重定向",
     "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
@@ -418,13 +425,6 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
-  },
-  {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
   },
   {
     "name": "TestFlight账户管理",
@@ -497,18 +497,18 @@
     "repo": "rule"
   },
   {
-    "name": "Dualsub-流媒体App字幕脚本",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "流利说·阅读",
     "desc": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "Dualsub-流媒体App字幕脚本",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "重定向",
