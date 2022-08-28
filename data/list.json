@@ -378,18 +378,18 @@
     "repo": "rule"
   },
   {
-    "name": "DNS",
-    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "新冠疫情查询 Tile 面板",
     "desc": "接口数据不全，酌情使用 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/covid19-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "DNS",
+    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Bilibili",
@@ -1020,5 +1020,19 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "电信余量请求体获取",
+    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/GETBD.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
+  },
+  {
+    "name": "电信余量",
+    "desc": "电信免流跳点通知,请在BoxJS中安装https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.json这个订阅,进行后续配置",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   }
 ]
