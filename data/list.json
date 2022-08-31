@@ -280,18 +280,18 @@
     "repo": "Clash"
   },
   {
-    "name": "在线规则覆写",
-    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
-  },
-  {
     "name": "微信公众号去广告",
     "desc": "去除微信公众号文章内广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/ADWX.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "在线规则覆写",
+    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
   },
   {
     "name": "网易云音乐解锁",
@@ -413,18 +413,18 @@
     "repo": "Clash"
   },
   {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "京东比价",
     "desc": "京东手机APP历史价格查看",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "Google CN 重定向",
@@ -455,6 +455,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "EmbyPremiere",
+    "desc": "Emby破解",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/EmbyPremiere.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "京东多合一签到",
     "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/JD_DailyBonus.stoverride",
@@ -467,13 +474,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Sub-Store.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "EmbyPremiere",
-    "desc": "Emby破解",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/EmbyPremiere.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "知乎App去广告",
@@ -574,6 +574,13 @@
     "repo": "rule"
   },
   {
+    "name": "bilibili签到",
+    "desc": "每天00:01、00:02、00:03签到直播红包、银瓜子转硬币",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibilitask.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "ASN CN",
     "desc": "IP-ASN rules.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
@@ -607,13 +614,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "bilibili签到",
-    "desc": "每天00:01、00:02、00:03签到直播红包、银瓜子转硬币",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibilitask.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "IP Geoloaction",
@@ -679,6 +679,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "汇率监控",
+    "desc": "汇率监控，每日21点5分推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "TikTok解锁-新加坡",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
@@ -693,18 +700,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "汇率监控",
-    "desc": "汇率监控，每日21点5分推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "屏蔽QUIC",
     "desc": "防止哔哩哔哩等产生大量连接占用资源",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "获取bilibili Cookie",
+    "desc": "获取bilibili cookie以进行签到，配合'bilibili签到'覆写使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "美图秀秀",
@@ -740,13 +747,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/icloud.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "获取bilibili Cookie",
-    "desc": "获取bilibili cookie以进行签到，配合'bilibili签到'覆写使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "兼容模式（关闭 Fake IP）",
@@ -805,6 +805,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "获取网易云音乐Cookie",
+    "desc": "获取网易云音乐cookie以进行签到，配合'网易云音乐签到'覆写使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "彩云天气SVIP",
     "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CaiYunWeather.stoverride",
@@ -833,9 +840,9 @@
     "repo": "scripts"
   },
   {
-    "name": "获取网易云音乐Cookie",
-    "desc": "获取网易云音乐cookie以进行签到，配合'网易云音乐签到'覆写使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic_cookie.stoverride",
+    "name": "网易云音乐签到",
+    "desc": "每天00:06执行签到",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -852,13 +859,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "网易云音乐签到",
-    "desc": "每天00:06执行签到",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "Xbox 下载重定向国内 CDN",
