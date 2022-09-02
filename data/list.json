@@ -224,18 +224,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "WPS会员",
-    "desc": "WPS解锁本地会员,支持大陆版以及非大陆版 @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": " iRingo for TestFlight",
     "desc": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换(需配置BoxJs使用) 3.让通用应用在任意苹果处理器设备上可安装",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "WPS会员",
+    "desc": "WPS解锁本地会员,支持大陆版以及非大陆版 @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "Google 重定向修改版",
@@ -301,18 +301,18 @@
     "repo": "Stash"
   },
   {
-    "name": "网易云音乐解锁",
-    "desc": "解锁灰色歌曲与VIP试听，使用后请在网易云音乐策略组中选择能用的解锁节点(自行测试)，节点来源于网络",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/NetEaseMusic.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "10010v3(dev)",
     "desc": "联通余量(v3-dev)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "网易云音乐解锁",
+    "desc": "解锁灰色歌曲与VIP试听，使用后请在网易云音乐策略组中选择能用的解锁节点(自行测试)，节点来源于网络",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/NetEaseMusic.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "TikTok解锁-韩国",
@@ -637,6 +637,20 @@
     "repo": "Clash"
   },
   {
+    "name": "Google无缝翻页",
+    "desc": "谷歌网页搜索自动无缝翻页",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Endlessgoogle.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
+    "name": "TikTok解锁-新加坡",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
@@ -651,23 +665,9 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "Google无缝翻页",
-    "desc": "谷歌网页搜索自动无缝翻页",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Endlessgoogle.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Epic周免",
     "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "TikTok解锁-新加坡",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
