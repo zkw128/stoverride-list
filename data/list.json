@@ -581,6 +581,13 @@
     "repo": "Clash"
   },
   {
+    "name": "IP Geoloaction",
+    "desc": "Display Geolocation as a tile.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  },
+  {
     "name": "BoxJS",
     "desc": "安装后访问http://boxjs.com/进入",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
@@ -602,11 +609,11 @@
     "repo": "rule"
   },
   {
-    "name": "IP Geoloaction",
-    "desc": "Display Geolocation as a tile.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
+    "name": "Google CN 重定向",
+    "desc": "将 g.cn / google.cn 重定向到 google.com",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "ASN CN",
@@ -614,13 +621,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "Google CN 重定向",
-    "desc": "将 g.cn / google.cn 重定向到 google.com",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "短信转发",
@@ -644,13 +644,6 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-新加坡",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Google无缝翻页",
     "desc": "谷歌网页搜索自动无缝翻页",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Endlessgoogle.stoverride",
@@ -658,11 +651,11 @@
     "repo": "Clash"
   },
   {
-    "name": "PixivShow",
-    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
+    "name": "TikTok解锁-新加坡",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-SG.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Epic周免",
@@ -670,6 +663,13 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "PixivShow",
+    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "什么值得买",
@@ -686,18 +686,18 @@
     "repo": "rule"
   },
   {
-    "name": "美图秀秀",
-    "desc": "美图秀秀破解高级会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/MeiTuUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "对常见端口强制使用 HTTP 引擎",
     "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "美图秀秀",
+    "desc": "美图秀秀破解高级会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/MeiTuUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "iQDNS",
@@ -777,6 +777,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "Force Http Engine",
+    "desc": "Force http engine to work when tunnel mode on.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  },
+  {
     "name": "DNS-CN",
     "desc": "采用腾讯与阿里DNS",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
@@ -789,13 +796,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "Force Http Engine",
-    "desc": "Force http engine to work when tunnel mode on.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
   },
   {
     "name": "彩云天气SVIP",
@@ -840,18 +840,18 @@
     "repo": "Clash"
   },
   {
-    "name": "网易云音乐签到",
-    "desc": "每天00:06执行签到",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "TikTok解锁-泰国",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "网易云音乐签到",
+    "desc": "每天00:06执行签到",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "规则模式",
