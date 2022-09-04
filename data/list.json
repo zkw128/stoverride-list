@@ -609,6 +609,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "微博轻享版去广告",
+    "desc": "微博轻享版（原国际版）去广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/WeiboLite.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "Google CN 重定向",
     "desc": "将 g.cn / google.cn 重定向到 google.com",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
@@ -621,13 +628,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "微博轻享版去广告",
-    "desc": "微博轻享版（原国际版）去广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/WeiboLite.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "京东多合一签到",
