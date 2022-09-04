@@ -861,18 +861,18 @@
     "repo": "rule"
   },
   {
-    "name": "News",
-    "desc": "Unlock some regional features of News.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/news.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "电信余量",
     "desc": "电信免流跳点通知,请在BoxJS中安装https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.json这个订阅,进行后续配置",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "News",
+    "desc": "Unlock some regional features of News.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/news.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "Xbox 下载重定向国内 CDN",
