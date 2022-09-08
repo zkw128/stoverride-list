@@ -686,18 +686,18 @@
     "repo": "rule"
   },
   {
-    "name": "PixivShow",
-    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "汇率监控",
     "desc": "汇率监控，每日21点5分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "PixivShow",
+    "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "对常见端口强制使用 HTTP 引擎",
