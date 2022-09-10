@@ -917,6 +917,13 @@
     "repo": "rule"
   },
   {
+    "name": "V2EX签到",
+    "desc": "每天00:10执行签到",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "TV",
     "desc": "Unlock some regional features of TV.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tv.stoverride",
@@ -941,13 +948,6 @@
     "name": "BiliBili_CC字幕",
     "desc": "哔哩哔哩CC字幕繁体转简体",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Bilibili_CC.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "V2EX签到",
-    "desc": "每天00:10执行签到",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
