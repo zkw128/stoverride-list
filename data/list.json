@@ -637,6 +637,13 @@
     "repo": "rule"
   },
   {
+    "name": "什么值得买",
+    "desc": "什么值得买APP去广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/SmzdmAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TW.stoverride",
@@ -649,13 +656,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "什么值得买",
-    "desc": "什么值得买APP去广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/SmzdmAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "Epic周免",
@@ -959,6 +959,13 @@
     "repo": "Clash"
   },
   {
+    "name": "获取V2EX Cookie",
+    "desc": "获取V2EX cookie以进行签到，配合'V2EX签到'覆写使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "腾讯新闻App去广告",
     "desc": "开屏页广告有缓存,需要重新安装应用",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/QQNewsAds.stoverride",
@@ -990,13 +997,6 @@
     "name": "PrismaUnlock",
     "desc": "Prisma解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/PrismaUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "获取V2EX Cookie",
-    "desc": "获取V2EX cookie以进行签到，配合'V2EX签到'覆写使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex_cookie.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
