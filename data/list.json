@@ -952,6 +952,13 @@
     "repo": "Clash"
   },
   {
+    "name": "获取V2EX Cookie",
+    "desc": "获取V2EX cookie以进行签到，配合'V2EX签到'覆写使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "PrismaUnlock",
     "desc": "Prisma解锁订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/PrismaUnlock.stoverride",
@@ -962,13 +969,6 @@
     "name": "AudioMackUnlock",
     "desc": "AudioMack解锁永久订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/AudioMackUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "获取V2EX Cookie",
-    "desc": "获取V2EX cookie以进行签到，配合'V2EX签到'覆写使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex_cookie.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
