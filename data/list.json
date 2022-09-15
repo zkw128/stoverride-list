@@ -154,18 +154,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "Notability",
-    "desc": "Notability解锁订阅",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "去广告",
     "desc": "重写去广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/Advertising.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Notability",
+    "desc": "Notability解锁订阅",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "TestFlight区域限制解除",
@@ -308,18 +308,18 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for News",
-    "desc": "(V2) 1.自定义解锁News的地区 2.Coming Soon…",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "Bilibili去广告",
     "desc": "需iOS15，去除开屏页、推荐页广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Bilibili.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": " iRingo for News",
+    "desc": "(V2) 1.自定义解锁News的地区 2.Coming Soon…",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "在线规则覆写",
@@ -819,16 +819,16 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-澳门",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
+    "name": "彩云天气SVIP",
+    "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CaiYunWeather.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "彩云天气SVIP",
-    "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CaiYunWeather.stoverride",
+    "name": "TikTok解锁-澳门",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -966,6 +966,13 @@
     "repo": "Clash"
   },
   {
+    "name": "TG频道图片推送",
+    "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "AudioMackUnlock",
     "desc": "AudioMack解锁永久订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/AudioMackUnlock.stoverride",
@@ -997,13 +1004,6 @@
     "name": "哔哩哔哩漫画签到",
     "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "TG频道图片推送",
-    "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
