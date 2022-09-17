@@ -1027,5 +1027,12 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "Anti IP",
+    "desc": "Mock IP location in social medias of China Mainland.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/antiip.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   }
 ]
