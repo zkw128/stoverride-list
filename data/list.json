@@ -700,6 +700,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "扫描全能王",
+    "desc": "解锁扫描全能王会员",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "对常见端口强制使用 HTTP 引擎",
     "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
@@ -717,13 +724,6 @@
     "name": "汇率监控",
     "desc": "汇率监控，每日21点5分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "扫描全能王",
-    "desc": "解锁扫描全能王会员",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -966,6 +966,13 @@
     "repo": "Clash"
   },
   {
+    "name": "哔哩哔哩漫画签到",
+    "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "TG频道图片推送",
     "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
@@ -1004,13 +1011,6 @@
     "name": "哔哩哔哩番剧监控",
     "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "哔哩哔哩漫画签到",
-    "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
