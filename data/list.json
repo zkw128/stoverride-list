@@ -686,18 +686,18 @@
     "repo": "rule"
   },
   {
-    "name": "汇率监控",
-    "desc": "汇率监控，每日21点5分推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "对常见端口强制使用 HTTP 引擎",
     "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "汇率监控",
+    "desc": "汇率监控，每日21点5分推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "PixivShow",
@@ -1029,16 +1029,16 @@
     "repo": "Clash"
   },
   {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/SileoHiKe.stoverride",
+    "name": "QQ音乐广告过滤",
+    "desc": "过滤QQ音乐广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/QQMusicAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "QQ音乐广告过滤",
-    "desc": "过滤QQ音乐广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/QQMusicAds.stoverride",
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   }
