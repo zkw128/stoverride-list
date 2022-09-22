@@ -1,9 +1,1 @@
-[
-  {
-    "name": "QQ音乐广告过滤",
-    "desc": "过滤QQ音乐广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/QQMusicAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  }
-]
+[]
