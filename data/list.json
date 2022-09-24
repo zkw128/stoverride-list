@@ -14,16 +14,16 @@
     "repo": "scripts"
   },
   {
-    "name": "京东历史价格",
-    "desc": "京东历史价格",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/JDPrice.stoverride",
+    "name": "YouTube去广告",
+    "desc": "去除YouTube视频广告(非首页广告)",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
   {
-    "name": "YouTube去广告",
-    "desc": "去除YouTube视频广告(非首页广告)",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/YouTubeAdblock.stoverride",
+    "name": "京东历史价格",
+    "desc": "京东历史价格",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/JDPrice.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -644,18 +644,18 @@
     "repo": "rule"
   },
   {
-    "name": "ASN CN",
-    "desc": "IP-ASN rules.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "京东多合一签到",
     "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "ASN CN",
+    "desc": "IP-ASN rules.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "TikTok解锁-新加坡",
@@ -868,16 +868,16 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "全局模式",
-    "desc": "以全局模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
+    "name": "日志等级Debug",
+    "desc": "Stash日志等级debug才会显示网络请求日志",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/log-level.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "日志等级Debug",
-    "desc": "Stash日志等级debug才会显示网络请求日志",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/log-level.stoverride",
+    "name": "全局模式",
+    "desc": "以全局模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
