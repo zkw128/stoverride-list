@@ -308,13 +308,6 @@
     "repo": "rule"
   },
   {
-    "name": "微博",
-    "desc": "去除微博广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Nicegram会员",
     "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Nicegram/Stash.stoverride",
@@ -327,6 +320,13 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/TiebaAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "微博",
+    "desc": "去除微博广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": " iRingo for TV app",
@@ -434,16 +434,16 @@
     "repo": "iRingo"
   },
   {
-    "name": "新冠疫情查询 Tile 面板",
-    "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/covid19-Tile.stoverride",
+    "name": "知乎App去广告",
+    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/ZhihuAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "知乎App去广告",
-    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/ZhihuAds.stoverride",
+    "name": "新冠疫情查询 Tile 面板",
+    "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/covid19-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -833,6 +833,13 @@
     "repo": "scripts"
   },
   {
+    "name": "BiliBili_CC字幕",
+    "desc": "哔哩哔哩CC字幕繁体转简体",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Bilibili_CC.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "兼容模式（关闭 Fake IP）",
     "desc": "仅推荐在网游无法联网时使用",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
@@ -852,13 +859,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/maps.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "BiliBili_CC字幕",
-    "desc": "哔哩哔哩CC字幕繁体转简体",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Bilibili_CC.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "全局模式",
