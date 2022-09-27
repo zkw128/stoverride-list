@@ -126,18 +126,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
-    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "10010v3",
     "desc": "联通余量(v3)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
+    "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "去广告",
@@ -581,18 +581,18 @@
     "repo": "rule"
   },
   {
-    "name": "BoxJS",
-    "desc": "安装后访问http://boxjs.com/进入",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "屏蔽 HTTP3 / QUIC",
     "desc": "让 QUIC 流量回落到 HTTP2，避免 UDP 被 QoS",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-quic.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "BoxJS",
+    "desc": "安装后访问http://boxjs.com/进入",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "bilibili签到",
@@ -938,6 +938,13 @@
     "repo": "Module"
   },
   {
+    "name": "PrismaUnlock",
+    "desc": "Prisma解锁订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/PrismaUnlock.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "微博通知",
     "desc": "请先进入 https://m.weibo.cn 并登陆，获取Cookie后，回到网页刷新即可",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/CronScript/Weibo.stoverride",
@@ -950,13 +957,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "PrismaUnlock",
-    "desc": "Prisma解锁订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/PrismaUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "AudioMackUnlock",
