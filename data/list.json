@@ -294,13 +294,6 @@
     "repo": "rule"
   },
   {
-    "name": " iRingo for ✈ TestFlight",
-    "desc": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换(需配置BoxJs使用) 3.让通用应用在任意苹果处理器设备上可安装",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "知乎",
     "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
@@ -315,6 +308,20 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": " iRingo for ✈ TestFlight",
+    "desc": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换(需配置BoxJs使用) 3.让通用应用在任意苹果处理器设备上可安装",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
+    "name": " iRingo for TV app",
+    "desc": "(V2) 全面自定义「TV app」功能",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "贴吧去广告",
     "desc": "1.开屏页广告 2.推荐页列表/吧内帖子列表的直播和其他广告去除 3.帖子详情页直播和关联商品及其他广告去除 4.帖子看图模式广告去除 5.首页/帖子详情页右下角悬浮广告去除 6.部分吧内的置顶/最新中间的广告/head图片广告去除",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/TiebaAds.stoverride",
@@ -327,13 +334,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Weibo.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": " iRingo for TV app",
-    "desc": "(V2) 全面自定义「TV app」功能",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TV.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "在线规则覆写",
@@ -413,16 +413,16 @@
     "repo": "rule"
   },
   {
-    "name": "每周循环信息展示 Tile 面板",
-    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
+    "name": "知乎App去广告",
+    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/ZhihuAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "知乎App去广告",
-    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/ZhihuAds.stoverride",
+    "name": "每周循环信息展示 Tile 面板",
+    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -462,18 +462,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-日本",
-    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "七猫小说",
     "desc": "七猫小说解锁终身会员",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/QiMaoXiaoShuo.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "TikTok解锁-日本",
+    "desc": "解锁地区限制，建议使用Tiktok21.1.0版本",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "微博轻享版去广告",
