@@ -756,18 +756,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "彩云天气SVIP",
-    "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CaiYunWeather.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "电信余量",
     "desc": "电信免流跳点通知,请在BoxJS中安装https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.json这个订阅,进行后续配置",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "彩云天气SVIP",
+    "desc": "登录账号后显示为SVIP,但脚本已无实际解锁作用",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CaiYunWeather.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "DNS-CN",
