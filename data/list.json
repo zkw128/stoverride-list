@@ -728,18 +728,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "获取bilibili Cookie",
-    "desc": "获取bilibili cookie以进行签到，配合'bilibili签到'覆写使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "短信转发",
     "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "获取bilibili Cookie",
+    "desc": "获取bilibili cookie以进行签到，配合'bilibili签到'覆写使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "电信余量",
