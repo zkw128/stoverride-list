@@ -252,18 +252,18 @@
     "repo": "rule"
   },
   {
-    "name": "酷我音乐",
-    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "BoxJs",
     "desc": "http://boxjs.com",
     "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride",
     "owner": "chavyleung",
     "repo": "scripts"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "Google 重定向修改版",
@@ -931,6 +931,13 @@
     "repo": "Clash"
   },
   {
+    "name": "BiliBili 去广告（兼容国际版）",
+    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "豆瓣影视",
     "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/DouBanPlay.stoverride",
@@ -950,13 +957,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "BiliBili 去广告（兼容国际版）",
-    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "AudioMackUnlock",
