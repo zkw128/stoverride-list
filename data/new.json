@@ -1,9 +1,1 @@
-[
-  {
-    "name": "Emby Plugin",
-    "desc": "Emby 官方客户端内调用外部播放器",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Emby-plugin.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  }
-]
+[]
