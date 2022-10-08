@@ -427,18 +427,18 @@
     "repo": "Clash"
   },
   {
-    "name": "每周循环信息展示 Tile 面板",
-    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Netflix评分",
     "desc": "Netflix视频加入豆瓣、imdb评分",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Netflix_ratings.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "每周循环信息展示 Tile 面板",
+    "desc": "用于每周七天自定义显示特定信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/weekly_notes-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "TikTok解锁-日本",
@@ -518,6 +518,13 @@
     "repo": "Clash"
   },
   {
+    "name": "重定向",
+    "desc": "常用HTTPS重定向",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "百度搜索防跳转",
     "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
@@ -528,13 +535,6 @@
     "name": "Dualsub-流媒体App字幕脚本",
     "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "重定向",
-    "desc": "常用HTTPS重定向",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -567,16 +567,16 @@
     "repo": "rule"
   },
   {
-    "name": "WPS Office",
-    "desc": "解锁超级会员部分功能",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
+    "name": "屏蔽QUIC",
+    "desc": "防止哔哩哔哩等产生大量连接占用资源",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "屏蔽QUIC",
-    "desc": "防止哔哩哔哩等产生大量连接占用资源",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
+    "name": "WPS Office",
+    "desc": "解锁超级会员部分功能",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -770,6 +770,13 @@
     "repo": "rule"
   },
   {
+    "name": "BiliBili 去广告（兼容国际版）",
+    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "Weather",
     "desc": "Unlock some regional features of Weather.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/weather.stoverride",
@@ -796,13 +803,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Bilibili_CC.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "BiliBili 去广告（兼容国际版）",
-    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "TikTok解锁-越南",
