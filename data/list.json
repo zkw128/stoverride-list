@@ -518,6 +518,13 @@
     "repo": "Clash"
   },
   {
+    "name": "Dualsub-流媒体App字幕脚本",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "重定向",
     "desc": "常用HTTPS重定向",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Redirect.stoverride",
@@ -528,13 +535,6 @@
     "name": "百度搜索防跳转",
     "desc": "防止在网页版百度搜索结果中点击关键词时跳转AppStore",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Baidu.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
-    "name": "Dualsub-流媒体App字幕脚本",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -742,6 +742,13 @@
     "repo": "scripts"
   },
   {
+    "name": "BiliBili 去广告（兼容国际版）",
+    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
+  },
+  {
     "name": "电信余量",
     "desc": "电信免流跳点通知,请在BoxJS中安装https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.json这个订阅,进行后续配置",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.stoverride",
@@ -768,13 +775,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "BiliBili 去广告（兼容国际版）",
-    "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
   },
   {
     "name": "Weather",
