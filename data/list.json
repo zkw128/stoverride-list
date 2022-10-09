@@ -126,18 +126,18 @@
     "repo": "rule"
   },
   {
-    "name": "节假日 Tile 面板",
-    "desc": "用于显示节假日的面板 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride",
-    "owner": "StevenKwan",
-    "repo": "stash-waffle"
-  },
-  {
     "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
     "desc": "加载更流畅的 BiliBili 更值得干杯🍻！",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "节假日 Tile 面板",
+    "desc": "用于显示节假日的面板 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride",
+    "owner": "StevenKwan",
+    "repo": "stash-waffle"
   },
   {
     "name": "TikTok解锁-美国",
