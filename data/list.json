@@ -637,16 +637,16 @@
     "repo": "rule"
   },
   {
-    "name": "扫描全能王",
-    "desc": "解锁扫描全能王会员",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
+    "name": "Epic周免",
+    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "Epic周免",
-    "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
+    "name": "扫描全能王",
+    "desc": "解锁扫描全能王会员",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -959,6 +959,13 @@
     "repo": "Clash"
   },
   {
+    "name": "豆瓣影视",
+    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/DouBanPlay.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "哔哩哔哩漫画签到",
     "desc": "打开哔哩哔哩漫画后,单击\"我的\",如果通知获取cookie成功,则可以使用此脚本.每天上午9点30执行",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
@@ -983,13 +990,6 @@
     "name": "AudioMackUnlock",
     "desc": "AudioMack解锁永久订阅",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/AudioMackUnlock.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "豆瓣影视",
-    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/DouBanPlay.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
