@@ -938,6 +938,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "YouTube去广告2.0",
+    "desc": "用于视频广告，首页广告，播放页列表广告及贴片广告，不适用允许 UDP 转发的节点及 Premium",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "Siri",
     "desc": "Unlock some regional features of Siri.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/siri.stoverride",
@@ -964,13 +971,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BiliManga.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "YouTube去广告2.0",
-    "desc": "用于视频广告，首页广告，播放页列表广告及贴片广告，不适用允许 UDP 转发的节点及 Premium",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
   },
   {
     "name": "豆瓣影视",
