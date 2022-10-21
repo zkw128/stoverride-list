@@ -882,6 +882,13 @@
     "repo": "scripts"
   },
   {
+    "name": "YouTube去广告2.0",
+    "desc": "用于视频广告，首页广告，播放页列表广告及贴片广告，不适用允许 UDP 转发的节点及 Premium",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "BoxJs",
     "desc": "An SPA appliction used for scripts utils.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
@@ -892,13 +899,6 @@
     "name": "网易云音乐签到",
     "desc": "每天00:06执行签到",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "YouTube去广告2.0",
-    "desc": "用于视频广告，首页广告，播放页列表广告及贴片广告，不适用允许 UDP 转发的节点及 Premium",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
