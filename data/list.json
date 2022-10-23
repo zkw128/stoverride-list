@@ -252,6 +252,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "Google 重定向修改版",
+    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
+  },
+  {
     "name": "贴吧去广告(>=iOS15)",
     "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/TiebaAds.stoverride",
@@ -271,13 +278,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/reject-p2p.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "Google 重定向修改版",
-    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
   },
   {
     "name": "酷我音乐",
@@ -693,18 +693,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "汇率监控",
-    "desc": "汇率监控，每日21点5分推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "YouTube去广告2.0",
     "desc": "用于视频广告，首页广告，播放页列表广告及贴片广告，不适用允许 UDP 转发的节点及 Premium",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "汇率监控",
+    "desc": "汇率监控，每日21点5分推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Exchange.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "IP Geoloaction",
