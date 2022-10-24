@@ -847,13 +847,6 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "Anti IP",
-    "desc": "Mock IP location in social medias of China Mainland.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/antiip.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "获取网易云音乐Cookie",
     "desc": "获取网易云音乐cookie以进行签到，配合'网易云音乐签到'覆写使用",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic_cookie.stoverride",
