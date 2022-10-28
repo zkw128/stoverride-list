@@ -126,6 +126,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "TikTok解锁-美国",
+    "desc": "解锁美国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
+  },
+  {
     "name": "重写去广告",
     "desc": "根据神机重写去广告修改",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/Advertising.stoverride",
@@ -138,13 +145,6 @@
     "url": "https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride",
     "owner": "StevenKwan",
     "repo": "stash-waffle"
-  },
-  {
-    "name": "TikTok解锁-美国",
-    "desc": "解锁美国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-US.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
   },
   {
     "name": "🍿️ DualSubs for 🎦 Streaming Media Platform",
