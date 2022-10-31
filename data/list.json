@@ -483,6 +483,13 @@
     "repo": "Clash"
   },
   {
+    "name": "YouTube首页去广告",
+    "desc": "仅去除首页瀑布流广告(≥iOS15)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/YouTube.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "新冠疫情查询 Tile 面板",
     "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tile/covid19-Tile.stoverride",
@@ -495,13 +502,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/SmzdmAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
-  },
-  {
-    "name": "YouTube首页去广告",
-    "desc": "仅去除首页瀑布流广告(≥iOS15)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/YouTube.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "百度搜索防跳转",
@@ -882,18 +882,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "规则模式",
-    "desc": "以规则模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "电信余量请求体获取",
     "desc": "开启脚本以及mitm等开关，配合电信余量使用",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/GETBD.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "规则模式",
+    "desc": "以规则模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "兼容模式（关闭 Fake IP）",
@@ -903,25 +903,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "News",
-    "desc": "Unlock some regional features of News.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/news.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
-    "name": "日志等级Debug",
-    "desc": "Stash日志等级debug才会显示网络请求日志",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/log-level.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "PlaneFinder",
     "desc": "解锁PlaneFinder高级订阅 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PlaneFinder/PlaneFinder.Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "News",
+    "desc": "Unlock some regional features of News.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/news.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "豆瓣影视",
@@ -931,6 +924,13 @@
     "repo": "Clash"
   },
   {
+    "name": "日志等级Debug",
+    "desc": "Stash日志等级debug才会显示网络请求日志",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/log-level.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "Siri",
     "desc": "Unlock some regional features of Siri.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/siri.stoverride",
@@ -938,16 +938,16 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "Emby Plugin",
-    "desc": "Emby 官方客户端内调用外部播放器",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Emby-plugin.stoverride",
+    "name": "PrismaUnlock",
+    "desc": "Prisma解锁订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/PrismaUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "PrismaUnlock",
-    "desc": "Prisma解锁订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/PrismaUnlock.stoverride",
+    "name": "Emby Plugin",
+    "desc": "Emby 官方客户端内调用外部播放器",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Emby-plugin.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
@@ -994,18 +994,18 @@
     "repo": "Clash"
   },
   {
-    "name": "直连模式",
-    "desc": "以直连模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "腾讯新闻App去广告",
     "desc": "开屏页广告有缓存,需要重新安装应用",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/QQNewsAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "直连模式",
+    "desc": "以直连模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "Xbox 下载重定向国内 CDN",
@@ -1022,18 +1022,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "TG频道图片推送",
-    "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "获取V2EX Cookie",
     "desc": "获取V2EX cookie以进行签到，配合'V2EX签到'覆写使用",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/v2ex_cookie.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "TG频道图片推送",
+    "desc": "请查看覆写内容在boxjs中设置频道,每日12点15与22点15推送",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "音频剪辑提取",
