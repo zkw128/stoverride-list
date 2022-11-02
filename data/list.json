@@ -259,13 +259,6 @@
     "repo": "rule"
   },
   {
-    "name": "酷我音乐",
-    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "Google 重定向修改版",
     "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
@@ -273,11 +266,25 @@
     "repo": "Stash"
   },
   {
+    "name": "酷我音乐",
+    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
+  },
+  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁台湾地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "知乎",
+    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "屏蔽视频网站 P2P 后台上传",
@@ -292,13 +299,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "知乎",
-    "desc": "去广告及阅读体验增强,适配知乎8.3.0(8020)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Zhihu.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "Bilibili",
@@ -336,16 +336,16 @@
     "repo": "rule"
   },
   {
-    "name": "扫描全能王",
-    "desc": "解锁扫描全能王会员",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
+    "name": "TikTok解锁-韩国",
+    "desc": "解锁韩国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-韩国",
-    "desc": "解锁韩国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
+    "name": "扫描全能王",
+    "desc": "解锁扫描全能王会员",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -357,18 +357,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "ASN for Mainland China",
-    "desc": "按ASN分流中国大陆IP与域名直连",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Rule/ASN_China.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "在线规则覆写",
     "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
+  },
+  {
+    "name": "ASN for Mainland China",
+    "desc": "按ASN分流中国大陆IP与域名直连",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Rule/ASN_China.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "财新周刊会员",
@@ -441,18 +441,18 @@
     "repo": "rule"
   },
   {
-    "name": "京东多合一签到",
-    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/JD_DailyBonus.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "TikTok解锁-美国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "京东多合一签到",
+    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/JD_DailyBonus.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "七猫小说",
@@ -518,18 +518,18 @@
     "repo": "Clash"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "YouTube去广告",
     "desc": "用于视频、瀑布流、搜索、播放页、短视频及贴片广告，不适用允许 UDP 转发的节点及 Premium",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": " iRingo for News",
@@ -700,18 +700,18 @@
     "repo": "rule"
   },
   {
-    "name": "电信余量",
-    "desc": "电信免流跳点通知,请在BoxJS中安装https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.json这个订阅,进行后续配置",
-    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "TikTok解锁-法国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "电信余量",
+    "desc": "电信免流跳点通知,请在BoxJS中安装https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.json这个订阅,进行后续配置",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "IP Geoloaction",
@@ -735,13 +735,6 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "获取bilibili Cookie",
-    "desc": "获取bilibili cookie以进行签到，配合'bilibili签到'覆写使用",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "TikTok解锁-越南",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
@@ -754,6 +747,13 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "获取bilibili Cookie",
+    "desc": "获取bilibili cookie以进行签到，配合'bilibili签到'覆写使用",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/bilibili_cookie.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": "iCloud",
