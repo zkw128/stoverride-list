@@ -518,18 +518,18 @@
     "repo": "Clash"
   },
   {
-    "name": "YouTube去广告",
-    "desc": "用于视频、瀑布流、搜索、播放页、短视频及贴片广告，不适用允许 UDP 转发的节点及 Premium",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "Google CN 重定向",
     "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
     "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
     "owner": "FanxJK",
     "repo": "Rules"
+  },
+  {
+    "name": "YouTube去广告",
+    "desc": "用于视频、瀑布流、搜索、播放页、短视频及贴片广告，不适用允许 UDP 转发的节点及 Premium",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   },
   {
     "name": " iRingo for News",
