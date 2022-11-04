@@ -574,18 +574,18 @@
     "repo": "rule"
   },
   {
-    "name": "Xmind思维导图",
-    "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "WPS Office",
     "desc": "解锁超级会员部分功能",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Xmind思维导图",
+    "desc": "解锁Xmind思维导图订阅到2030年 By R·E @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "TestFlight区域限制解除",
