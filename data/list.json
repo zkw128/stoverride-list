@@ -455,6 +455,13 @@
     "repo": "rule"
   },
   {
+    "name": "微博轻享版去广告",
+    "desc": "微博轻享版（原国际版）去广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/WeiboLite.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "京东多合一签到",
     "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/JD_DailyBonus.stoverride",
@@ -465,13 +472,6 @@
     "name": "七猫小说",
     "desc": "七猫小说解锁终身会员",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/QiMaoXiaoShuo.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "微博轻享版去广告",
-    "desc": "微博轻享版（原国际版）去广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/WeiboLite.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
