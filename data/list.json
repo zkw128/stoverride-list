@@ -308,18 +308,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "京东比价",
-    "desc": "京东手机APP历史价格查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Nicegram会员",
     "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Nicegram/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "京东比价",
+    "desc": "京东手机APP历史价格查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/JD_Price.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "BoxJs",
@@ -588,16 +588,16 @@
     "repo": "rule"
   },
   {
-    "name": "Google无缝翻页",
-    "desc": "谷歌网页搜索自动无缝翻页",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Endlessgoogle.stoverride",
+    "name": "美图秀秀",
+    "desc": "美图秀秀破解高级会员",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/MeiTuUnlock.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "美图秀秀",
-    "desc": "美图秀秀破解高级会员",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/MeiTuUnlock.stoverride",
+    "name": "Google无缝翻页",
+    "desc": "谷歌网页搜索自动无缝翻页",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/Endlessgoogle.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
