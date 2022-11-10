@@ -455,6 +455,13 @@
     "repo": "rule"
   },
   {
+    "name": "YouTube去广告",
+    "desc": "用于视频、瀑布流、搜索、播放页、短视频及贴片广告，不适用允许 UDP 转发的节点及 Premium",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
+  },
+  {
     "name": "微博轻享版去广告",
     "desc": "微博轻享版（原国际版）去广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/WeiboLite.stoverride",
@@ -465,13 +472,6 @@
     "name": "什么值得买",
     "desc": "什么值得买APP去广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/SmzdmAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
-    "name": "YouTube去广告",
-    "desc": "用于视频、瀑布流、搜索、播放页、短视频及贴片广告，不适用允许 UDP 转发的节点及 Premium",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Block/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
