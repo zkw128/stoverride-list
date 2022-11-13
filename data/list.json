@@ -273,18 +273,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "酷我音乐",
-    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁台湾地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "酷我音乐",
+    "desc": "代码重构,这版是最完美！！！的酷我解锁 By Nameking77 https://t.me/Nameking77",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "Bilibili",
@@ -532,18 +532,18 @@
     "repo": "Clash"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
-    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
-    "owner": "FanxJK",
-    "repo": "Rules"
-  },
-  {
     "name": "BiliBili 去广告（兼容国际版）",
     "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g|google.cn 重定向到 google.com (修复与其他重写模块冲突的问题)",
+    "url": "https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/Script/Google.stoverride",
+    "owner": "FanxJK",
+    "repo": "Rules"
   },
   {
     "name": "重定向",
@@ -812,6 +812,13 @@
     "repo": "Clash"
   },
   {
+    "name": "电信余量请求体获取",
+    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/GETBD.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
+  },
+  {
     "name": "Force Http Engine",
     "desc": "Force http engine to work when tunnel mode on.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
@@ -824,13 +831,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "电信余量请求体获取",
-    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
-    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/GETBD.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
   },
   {
     "name": "Weather",
@@ -1043,17 +1043,17 @@
     "repo": "Module"
   },
   {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/SileoHiKe.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Clash"
-  },
-  {
     "name": "电信余量",
     "desc": "电信免流跳点通知（需配合请求体覆写）",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/SileoHiKe.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Clash"
   }
 ]
