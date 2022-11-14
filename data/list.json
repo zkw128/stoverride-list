@@ -854,16 +854,16 @@
     "repo": "Clash"
   },
   {
-    "name": "豆瓣影视",
-    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/DouBanPlay.stoverride",
+    "name": "网易云音乐签到",
+    "desc": "每天00:06执行签到",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
   {
-    "name": "网易云音乐签到",
-    "desc": "每天00:06执行签到",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Task/neteasemusic.stoverride",
+    "name": "豆瓣影视",
+    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Tool/DouBanPlay.stoverride",
     "owner": "Coldvvater",
     "repo": "Clash"
   },
