@@ -49,8 +49,11 @@
     },
     {
         "owner": "Coldvvater",
-        "repo": "Clash",
+        "repo": "Mononoke",
         "branch": "master"
+        "paths": [
+            "Stash"
+        ]
     },
     {
         "owner": "kamingchan",
