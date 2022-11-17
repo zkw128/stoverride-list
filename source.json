@@ -50,7 +50,7 @@
     {
         "owner": "Coldvvater",
         "repo": "Mononoke",
-        "branch": "master"
+        "branch": "master",
         "paths": [
             "Stash"
         ]
