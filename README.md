@@ -12,7 +12,7 @@
 
 ## 关于 Stash
 
-Stash 是一款 iOS / macOS (Apple Silicon) 平台基于规则的多协议代理客户端，完全兼容 [Clash Premium](https://github.com/Dreamacro/clash/wiki/configuration) 配置，支持 Rule Set 规则、按需连接、SSID Policy Group、MitM、HTTP、JavaScript 脚本改写等丰富特性，是 Clash 规则在 iOS 平台的最佳选择。
+Stash 是一款 iOS / macOS 平台基于规则的多协议代理客户端，完全兼容 [Clash Premium](https://github.com/Dreamacro/clash/wiki/configuration) 配置，支持 Rule Set 规则、按需连接、SSID Policy Group、MitM、HTTP、JavaScript 脚本改写等丰富特性，是 Clash 规则在 iOS 平台的最佳选择。
 
 ## 社交媒体
 
