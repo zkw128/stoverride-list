@@ -103,5 +103,10 @@
         "paths": [
             "TeleV2.0"
         ]
+    },
+    {
+        "owner": "TPCTPCTPC",
+        "repo": "StashOverrides",
+        "branch": "main"
     }
 ]
