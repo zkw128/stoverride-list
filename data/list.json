@@ -798,18 +798,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "WeChat Article Cleaner (Stash 2.0)",
-    "desc": "WeChat sniffs and uploads users' behaviours while they are reading articles on the app, here're some rewrites to solve. It also blocks article-ads and related article suggestions.",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
-  },
-  {
     "name": "电信余量(自动版)",
     "desc": "电信免流跳点通知",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "WeChat Article Cleaner (Stash 2.0)",
+    "desc": "WeChat sniffs and uploads users' behaviours while they are reading articles on the app, here're some rewrites to solve. It also blocks article-ads and related article suggestions.",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
   },
   {
     "name": "重写去广告",
