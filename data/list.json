@@ -819,6 +819,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "WeChat Article Cleaner (Stash 2.0)",
+    "desc": "WeChat sniffs and uploads users' behaviours while they are reading articles on the app, here're some rewrites to solve. It also blocks article-ads and related article suggestions.",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
+  },
+  {
     "name": "流媒体信息 Tile 面板",
     "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/stream-Tile.stoverride",
@@ -831,13 +838,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "WeChat Article Cleaner (Stash 2.0)",
-    "desc": "WeChat sniffs and uploads users' behaviours while they are reading articles on the app, here're some rewrites to solve. It also blocks article-ads and related article suggestions.",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
   },
   {
     "name": "DNS",
