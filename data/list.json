@@ -98,18 +98,18 @@
     "repo": "rule"
   },
   {
-    "name": "🍿️ DualSubs for ▶️ YouTube",
-    "desc": "(V0.4.x) YouTube字幕增强及双语模块",
-    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.YouTube.stoverride",
-    "owner": "DualSubs",
-    "repo": "DualSubs"
-  },
-  {
     "name": "TikTok解锁-日本",
     "desc": "解锁日本地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-JP.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "🍿️ DualSubs for ▶️ YouTube",
+    "desc": "(V0.4.x) YouTube字幕增强及双语模块",
+    "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.YouTube.stoverride",
+    "owner": "DualSubs",
+    "repo": "DualSubs"
   },
   {
     "name": "BiliBili 重定向 MCDN / PCDN 到正规 CDN",
@@ -133,6 +133,13 @@
     "repo": "stash-waffle"
   },
   {
+    "name": "去广告(严格版)",
+    "desc": "重写去广告严格版",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/AdvertisingLite.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "10010v3",
     "desc": "联通余量(v3)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.rewrite.stash.stoverride",
@@ -145,13 +152,6 @@
     "url": "https://raw.githubusercontent.com/DualSubs/DualSubs/main/stoverride/DualSubs.stoverride",
     "owner": "DualSubs",
     "repo": "DualSubs"
-  },
-  {
-    "name": "去广告(严格版)",
-    "desc": "重写去广告严格版",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/AdvertisingLite.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "TestFlight区域限制解除",
@@ -455,16 +455,16 @@
     "repo": "rule"
   },
   {
-    "name": "TestFlight区域限制解除",
-    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight.stoverride",
+    "name": "Dualsub-流媒体App字幕脚本",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "Dualsub-流媒体App字幕脚本",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "name": "TestFlight区域限制解除",
+    "desc": "适用于更新TestFlight App时, 提示\"APP不可用\"问题.",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -595,16 +595,16 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-泰国",
+    "name": "TikTok解锁-越南",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-越南",
+    "name": "TikTok解锁-泰国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-VN.stoverride",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-TH.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -658,6 +658,13 @@
     "repo": "rule"
   },
   {
+    "name": "Force Http Engine",
+    "desc": "Force http engine to work when tunnel mode on.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  },
+  {
     "name": "电信余量请求体获取",
     "desc": "开启脚本以及mitm等开关，配合电信余量使用",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/GETBD.stoverride",
@@ -668,13 +675,6 @@
     "name": "Weather",
     "desc": "Unlock some regional features of Weather.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/weather.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
-    "name": "Force Http Engine",
-    "desc": "Force http engine to work when tunnel mode on.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/forcehttpengine.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
   },
@@ -770,18 +770,18 @@
     "repo": "rule"
   },
   {
-    "name": "Xbox 下载重定向国内 CDN",
-    "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "YouTube Playbacks-Ad Blocking (Stash 2.0)",
     "desc": "Blocking YouTube playback ads & event logs.",
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
+  },
+  {
+    "name": "Xbox 下载重定向国内 CDN",
+    "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "TG频道图片推送",
