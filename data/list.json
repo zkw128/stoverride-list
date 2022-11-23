@@ -336,18 +336,18 @@
     "repo": "Stash"
   },
   {
-    "name": "财新周刊会员",
-    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "YouTube首页去广告",
     "desc": "仅去除首页瀑布流广告(≥iOS15)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/YouTube.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "财新周刊会员",
+    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "TestFlight账户管理",
@@ -693,6 +693,13 @@
     "repo": "scripts"
   },
   {
+    "name": "重写去广告",
+    "desc": "根据神机重写去广告修改",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "Maps",
     "desc": "Unlock some regional features of Maps.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/maps.stoverride",
@@ -712,13 +719,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "重写去广告",
-    "desc": "根据神机重写去广告修改",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/Advertising.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "YouTube Playbacks-Ad Blocking (Stash 2.0)",
@@ -763,6 +763,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "机场流量 Tile 面板",
+    "desc": "用于显示机场流量信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "直连模式",
     "desc": "以直连模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
@@ -770,9 +777,9 @@
     "repo": "rule"
   },
   {
-    "name": "机场流量 Tile 面板",
-    "desc": "用于显示机场流量信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
+    "name": "知乎App去广告",
+    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -810,13 +817,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "知乎App去广告",
-    "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "TV",
