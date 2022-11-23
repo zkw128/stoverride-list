@@ -231,6 +231,13 @@
     "repo": "rule"
   },
   {
+    "name": "Google 重定向修改版",
+    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
+  },
+  {
     "name": "TikTok解锁-台湾",
     "desc": "解锁台湾地区限制",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-TW.stoverride",
@@ -243,13 +250,6 @@
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Notability.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
-  },
-  {
-    "name": "Google 重定向修改版",
-    "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
   },
   {
     "name": "Bilibili",
@@ -700,6 +700,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "YouTube Playbacks-Ad Blocking (Stash 2.0)",
+    "desc": "Blocking YouTube playback ads & event logs.",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
+  },
+  {
     "name": "Maps",
     "desc": "Unlock some regional features of Maps.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/maps.stoverride",
@@ -721,11 +728,11 @@
     "repo": "scripts"
   },
   {
-    "name": "YouTube Playbacks-Ad Blocking (Stash 2.0)",
-    "desc": "Blocking YouTube playback ads & event logs.",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
+    "name": "机场流量 Tile 面板",
+    "desc": "用于显示机场流量信息 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "日志等级Debug",
@@ -763,13 +770,6 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "机场流量 Tile 面板",
-    "desc": "用于显示机场流量信息 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "直连模式",
     "desc": "以直连模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
@@ -780,6 +780,13 @@
     "name": "知乎App去广告",
     "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
+    "name": "流媒体信息 Tile 面板",
+    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/stream-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -847,32 +854,11 @@
     "repo": "Module"
   },
   {
-    "name": "流媒体信息 Tile 面板",
-    "desc": "用于显示流媒体信息的面板 (Stash 2.0)",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/stream-Tile.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "电信余量",
     "desc": "电信免流跳点通知（需配合请求体覆写）",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
-  },
-  {
-    "name": "克拉壁纸",
-    "desc": "克拉壁纸解锁订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
-    "name": "豆瓣影视",
-    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "每周循环信息展示 Tile 面板",
@@ -889,9 +875,9 @@
     "repo": "Mononoke"
   },
   {
-    "name": "Google无缝翻页",
-    "desc": "谷歌网页搜索自动无缝翻页",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
+    "name": "克拉壁纸",
+    "desc": "克拉壁纸解锁订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -903,9 +889,23 @@
     "repo": "Mononoke"
   },
   {
+    "name": "豆瓣影视",
+    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "Q-Search",
     "desc": "快捷切换聚合搜索引擎",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Q-Search.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
+    "name": "Google无缝翻页",
+    "desc": "谷歌网页搜索自动无缝翻页",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
