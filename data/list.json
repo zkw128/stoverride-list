@@ -267,7 +267,7 @@
   },
   {
     "name": "酷我音乐",
-    "desc": "解锁会员试听及部分功能",
+    "desc": "By Nameking77 https://t.me/Nameking77",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
@@ -922,5 +922,12 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "Nicegram会员",
+    "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Nicegram.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   }
 ]
