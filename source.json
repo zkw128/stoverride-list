@@ -111,5 +111,18 @@
         "owner": "TPCTPCTPC",
         "repo": "StashOverrides",
         "branch": "main"
+    },
+    {
+        "owner": "app2smile",
+        "repo": "rules",
+        "branch": "master"
+    },
+    {
+        "owner": "Ksnsn134",
+        "repo": "self-use",
+        "branch": "main",
+        "paths": [
+            "Stash"
+        ]
     }
 ]
