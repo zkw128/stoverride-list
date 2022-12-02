@@ -553,18 +553,18 @@
     "repo": "MySelf"
   },
   {
-    "name": "Google CN 重定向",
-    "desc": "将 g.cn / google.cn 重定向到 google.com",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "Epic周免",
     "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "Google CN 重定向",
+    "desc": "将 g.cn / google.cn 重定向到 google.com",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-google.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "汇率监控",
@@ -882,6 +882,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "克拉壁纸",
+    "desc": "克拉壁纸解锁订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "Xbox 下载重定向国内 CDN",
     "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
@@ -903,6 +910,13 @@
     "repo": "rule"
   },
   {
+    "name": "Emby Plugin",
+    "desc": "Emby 官方客户端内调用外部播放器",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "哔哩哔哩番剧监控",
     "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
@@ -917,13 +931,6 @@
     "repo": "rule"
   },
   {
-    "name": "克拉壁纸",
-    "desc": "克拉壁纸解锁订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "Nicegram会员",
     "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Nicegram.stoverride",
@@ -931,11 +938,11 @@
     "repo": "MySelf"
   },
   {
-    "name": "Emby Plugin",
-    "desc": "Emby 官方客户端内调用外部播放器",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
+    "name": "Spotify解锁(>=iOS15)",
+    "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
   },
   {
     "name": "bilibili去广告(>=iOS15)",
@@ -952,11 +959,11 @@
     "repo": "rules"
   },
   {
-    "name": "Spotify解锁(>=iOS15)",
-    "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
+    "name": " iRingo for Apple Weather",
+    "desc": "(V3) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Weather.v3.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "Q-Search",
@@ -964,13 +971,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Q-Search.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": " iRingo for Apple Weather",
-    "desc": "(V3) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Weather.v3.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "豆瓣影视",
@@ -1029,6 +1029,13 @@
     "repo": "Module"
   },
   {
+    "name": "vip 解锁合集",
+    "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
+    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
+    "owner": "Kan1314s",
+    "repo": "use-self"
+  },
+  {
     "name": "Sileo 嗨客源修复",
     "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
@@ -1043,10 +1050,24 @@
     "repo": "Module"
   },
   {
+    "name": "Happy:Day",
+    "desc": "解锁订阅",
+    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Happy%3ADay.stoverride",
+    "owner": "Kan1314s",
+    "repo": "use-self"
+  },
+  {
     "name": "Do-Not-Track My Xiaohongshu",
     "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.",
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
+  },
+  {
+    "name": "Airplus",
+    "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557",
+    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
+    "owner": "Kan1314s",
+    "repo": "use-self"
   }
 ]
