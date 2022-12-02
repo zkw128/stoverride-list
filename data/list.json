@@ -847,6 +847,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "bilibili去广告(>=iOS15)",
+    "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
+  },
+  {
     "name": " Enable Siri Suggestions",
     "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
@@ -859,13 +866,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/siri.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "bilibili去广告(>=iOS15)",
-    "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
   },
   {
     "name": "Google无缝翻页",
@@ -887,6 +887,13 @@
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "YouTube去广告",
+    "desc": "去除 Youtube 广告（Beta）",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "克拉壁纸",
@@ -959,13 +966,6 @@
     "repo": "rule"
   },
   {
-    "name": "YouTube去广告",
-    "desc": "去除 Youtube 广告（Beta）",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "Nicegram会员",
     "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Nicegram.stoverride",
@@ -999,13 +999,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "百度云盘",
-    "desc": "解锁倍速@ddgksf2013",
-    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/bdcloud.stoverride",
-    "owner": "Kan1314s",
-    "repo": "use-self"
   },
   {
     "name": "百度直连信息面板",
