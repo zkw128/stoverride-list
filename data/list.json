@@ -581,6 +581,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "YouTube去广告",
+    "desc": "去除 Youtube 广告（Beta）",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "TikTok解锁-法国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
@@ -593,13 +600,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "YouTube去广告",
-    "desc": "去除 Youtube 广告（Beta）",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "YouTube Ad&Tracker Blocking (Alternative)",
@@ -651,18 +651,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "ASN CN",
-    "desc": "IP-ASN rules.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "vip 解锁合集",
     "desc": "作者 Eric，APP太多记不清楚，大致：tiao,谜底时钟,目标地图,VSCO,Planny,pillow,Usage,Fin,Airmail,Percento,Grow,图图记账,ScannerPro,widgetart,Apollo,aphrodite,pandora,奇妙组件,1Blocker,Spark,Vision,gear,谜底黑胶,PDFviewer,Darkroom,audiomack,手机硬件管家,noto,Emote,sotic,anybox,Upnext,focus,Focuskeeper,Fabulous每日动力泉源,xtracker,fitnessview,天天豆,daylio,djay,inshot,peachy,发型多多,星空内购,inscopy,instake,Bear笔记、Manly修图、Picsew,videorama和bazaart百色特内购,Picsew，立即翻译,gemini photo,照片清理等,flightradar24,Agenda,DayOne,灵感足迹,itranslate,calculatorAir,钱迹,Nicegram",
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/VIP.stoverride",
     "owner": "Kan1314s",
     "repo": "use-self"
+  },
+  {
+    "name": "ASN CN",
+    "desc": "IP-ASN rules.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "iCloud",
@@ -798,6 +798,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": " iRingo for Apple Weather",
+    "desc": "(V3) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Weather.v3.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "短信转发",
     "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
@@ -817,13 +824,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/maps.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": " iRingo for Apple Weather",
-    "desc": "(V3) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Weather.v3.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "Gist 备份",
@@ -896,6 +896,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "Google无缝翻页",
+    "desc": "谷歌网页搜索自动无缝翻页",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": " Enable Siri Suggestions",
     "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
@@ -908,13 +915,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/siri.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "Google无缝翻页",
-    "desc": "谷歌网页搜索自动无缝翻页",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "Emby Plugin",
