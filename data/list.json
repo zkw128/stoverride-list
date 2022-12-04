@@ -343,13 +343,6 @@
     "repo": "Stash"
   },
   {
-    "name": "财新周刊会员",
-    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "TikTok解锁-美国",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
@@ -362,6 +355,13 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-JP.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "财新周刊会员",
+    "desc": "财新周刊会员,登陆账号体验更加(2022.07.12) @R·E https://t.me/Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "TestFlight账户管理",
@@ -511,16 +511,16 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "WPS Office",
-    "desc": "解锁超级会员部分功能",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
+    "name": "TikTok解锁-韩国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-韩国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
+    "name": "WPS Office",
+    "desc": "解锁超级会员部分功能",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -581,6 +581,13 @@
     "repo": "Functional-Store-Hub"
   },
   {
+    "name": "TikTok解锁-法国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": "IP Geoloaction",
     "desc": "Display Geolocation as a tile.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
@@ -595,9 +602,9 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "TikTok解锁-法国",
+    "name": "TikTok解锁-澳门",
     "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -607,13 +614,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "TikTok解锁-澳门",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "重写去广告",
@@ -917,6 +917,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "Emby Plugin",
+    "desc": "Emby 官方客户端内调用外部播放器",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": " Enable Apple TV app",
     "desc": "(V1) 解锁TV app全功能：使用🇺🇸US「体育节目」和「儿童」页面，优先简体中文(zh-Hans)。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_TV.stoverride",
@@ -929,13 +936,6 @@
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
-  },
-  {
-    "name": "Emby Plugin",
-    "desc": "Emby 官方客户端内调用外部播放器",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "Xbox 下载重定向国内 CDN",
