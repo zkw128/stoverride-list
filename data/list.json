@@ -147,16 +147,16 @@
     "repo": "rule"
   },
   {
-    "name": "微信公众号去广告",
-    "desc": "去除微信公众号文章内广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/ADWX.stoverride",
+    "name": "开屏去广告",
+    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/StartupAD.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "开屏去广告",
-    "desc": "去除部分APP开屏广告，具体APP请直接进入链接查看",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/StartupAD.stoverride",
+    "name": "微信公众号去广告",
+    "desc": "去除微信公众号文章内广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/ADWX.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -427,18 +427,18 @@
     "repo": "rule"
   },
   {
-    "name": "Dualsub-流媒体App字幕脚本",
-    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "机场流量 Tile 面板",
     "desc": "用于显示机场流量信息 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "Dualsub-流媒体App字幕脚本",
+    "desc": "支持YouTube,Netflix,Disney+等流媒体双语字幕/翻译.⚠️初次使用需配合快捷指令设置翻译语言,查看覆写内容中的Github链接去阅读手册并安装相关快捷指令",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/%E6%B5%81%E5%AA%92%E4%BD%93%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%84%9A%E6%9C%AC/Dualsub.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "重定向",
@@ -490,16 +490,16 @@
     "repo": "Rules"
   },
   {
-    "name": "BoxJS",
-    "desc": "安装后访问http://boxjs.com/进入",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
+    "name": "京东多合一签到",
+    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "京东多合一签到",
-    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
+    "name": "BoxJS",
+    "desc": "安装后访问http://boxjs.com/进入",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -511,16 +511,16 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "TikTok解锁-韩国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
+    "name": "WPS Office",
+    "desc": "解锁超级会员部分功能",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
   {
-    "name": "WPS Office",
-    "desc": "解锁超级会员部分功能",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/WPS.stoverride",
+    "name": "TikTok解锁-韩国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-KR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
   },
@@ -602,18 +602,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-澳门",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "YouTube去广告",
     "desc": "去除 Youtube 广告（Beta）",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "TikTok解锁-澳门",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "重写去广告",
@@ -763,18 +763,18 @@
     "repo": "rules"
   },
   {
-    "name": "Weather",
-    "desc": "Unlock some regional features of Weather.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/weather.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "新冠疫情查询 Tile 面板",
     "desc": "新冠疫情查询，搭配boxjs使用 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/covid19-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "Weather",
+    "desc": "Unlock some regional features of Weather.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/weather.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "Force Http Engine",
