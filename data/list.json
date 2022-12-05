@@ -693,6 +693,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "Spotify解锁(>=iOS15)",
+    "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
+  },
+  {
     "name": "电信余量请求体获取",
     "desc": "开启脚本以及mitm等开关，配合电信余量使用",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/GETBD.stoverride",
@@ -705,13 +712,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "Spotify解锁(>=iOS15)",
-    "desc": "部分解锁premium,建议重新登录,音质不能设置为超高",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
   },
   {
     "name": "全局模式",
