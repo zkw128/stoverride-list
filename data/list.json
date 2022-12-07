@@ -469,18 +469,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "屏蔽QUIC",
-    "desc": "防止哔哩哔哩等产生大量连接占用资源",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "YouTube去广告",
     "desc": "去除 Youtube 广告（Beta）",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "屏蔽QUIC",
+    "desc": "防止哔哩哔哩等产生大量连接占用资源",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rule/QUIC.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "TestFlight区域限制解除",
@@ -1064,18 +1064,18 @@
     "repo": "Module"
   },
   {
-    "name": "Leosys_Seat",
-    "desc": "座位查询",
-    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/Leosys_Seat/Leosys_Seat.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
     "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "Leosys_Seat",
+    "desc": "座位查询",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/Leosys_Seat/Leosys_Seat.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "Sileo 嗨客源修复",
