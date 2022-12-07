@@ -945,6 +945,13 @@
     "repo": "Module"
   },
   {
+    "name": " Unlock Apple News 🇺🇸US",
+    "desc": "解锁🇺🇸US地区的News，注：需配合域名集使用，使用过程中gateway.icloud.com需走代理线路。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_News.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
+  },
+  {
     "name": "哔哩哔哩番剧监控",
     "desc": "手机哔哩哔哩点击我的-动态，即可获取cookie；每日20点10分推送通知",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/BilibiliMonitor.stoverride",
@@ -957,13 +964,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/TelegramPush.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": " Unlock Apple News 🇺🇸US",
-    "desc": "解锁🇺🇸US地区的News，注：需配合域名集使用，使用过程中gateway.icloud.com需走代理线路。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_News.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
   },
   {
     "name": "哔哩哔哩漫画签到",
