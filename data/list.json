@@ -595,6 +595,13 @@
     "repo": "rule"
   },
   {
+    "name": "bilibili去广告(>=iOS15)",
+    "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
+  },
+  {
     "name": "流利说·阅读",
     "desc": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等 By R·E @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Stash.stoverride",
@@ -607,13 +614,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-FR.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "bilibili去广告(>=iOS15)",
-    "desc": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
   },
   {
     "name": "重写去广告",
@@ -812,18 +812,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "短信转发",
-    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "电信余量(自动版)",
     "desc": "电信免流跳点通知",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "短信转发",
+    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/sms-forward",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Maps",
@@ -987,6 +987,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
+    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "Do-Not-Track My Xiaohongshu",
     "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
@@ -1013,13 +1020,6 @@
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/STASH/Culler.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
-  },
-  {
-    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
-    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "WARPGuard",
