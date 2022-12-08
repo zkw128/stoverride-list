@@ -721,18 +721,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "对常见端口强制使用 HTTP 引擎",
-    "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "知乎App去广告",
     "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "对常见端口强制使用 HTTP 引擎",
+    "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "新冠疫情查询 Tile 面板",
