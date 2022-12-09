@@ -672,6 +672,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
+    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "DNS-CN",
     "desc": "采用腾讯与阿里DNS",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
@@ -691,13 +698,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/icloud.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
-    "desc": "(V2) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "流媒体信息 Tile 面板",
