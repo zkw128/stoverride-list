@@ -1015,18 +1015,18 @@
     "repo": "Module"
   },
   {
-    "name": "百度直连信息面板",
-    "desc": "显示免流地区，需名为百度直连的本地代理",
-    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/STASH/Culler.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "WARPGuard",
     "desc": "Manage WARP client configuration.",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "百度直连信息面板",
+    "desc": "显示免流地区，需名为百度直连的本地代理",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/STASH/Culler.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "WARPGuard",
