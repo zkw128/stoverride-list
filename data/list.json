@@ -630,18 +630,18 @@
     "repo": "rule"
   },
   {
-    "name": "TikTok解锁-澳门",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "IP Geoloaction",
     "desc": "Display Geolocation as a tile.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tile/ipgeoloaction.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "TikTok解锁-澳门",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "TikTok解锁-马来西亚",
@@ -770,18 +770,18 @@
     "repo": "rule"
   },
   {
-    "name": "规则模式",
-    "desc": "以规则模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": " iRingo for Apple Weather",
     "desc": "(V3) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Weather.v3.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "规则模式",
+    "desc": "以规则模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "PixivShow",
@@ -1057,18 +1057,18 @@
     "repo": "iRingo"
   },
   {
-    "name": " Redirect Apple Maps to 🇺🇸US",
-    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Maps.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
     "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": " Redirect Apple Maps to 🇺🇸US",
+    "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Maps.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "电信余量请求体获取",
