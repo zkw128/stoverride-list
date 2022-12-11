@@ -329,18 +329,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "在线规则覆写",
-    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
-    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
-    "owner": "SysDQ",
-    "repo": "Stash"
-  },
-  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/CamScanner.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "在线规则覆写",
+    "desc": "添加分组&规则：1.pinterest 2.instagram 3.Spotify",
+    "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
+    "owner": "SysDQ",
+    "repo": "Stash"
   },
   {
     "name": "TikTok解锁-日本",
@@ -406,18 +406,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "10010v3(dev)",
-    "desc": "联通余量(v3-dev)",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "机场流量 Tile 面板",
     "desc": "用于显示机场流量信息 (Stash 2.0)",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tile/sub_info-Tile.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "10010v3(dev)",
+    "desc": "联通余量(v3-dev)",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/10010v3/10010.dev.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "Sub-Store",
@@ -756,18 +756,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "对常见端口强制使用 HTTP 引擎",
-    "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": " iRingo for Apple Weather",
     "desc": "(V3) 1.解锁全部天气数据类型 2.替换空气质量数据:WAQI 3.添加下一小时降水:气象在线 4.替换空气质量地图数据:WAQI",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Weather.v3.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "对常见端口强制使用 HTTP 引擎",
+    "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "全局模式",
@@ -896,6 +896,13 @@
     "repo": "awesome-stash"
   },
   {
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": " Response Geo Services to 🇺🇸US",
     "desc": "(V1.5) 只作用于检测地区，不修改Apple Maps和Apple News，可以通过搭配使用其他模块达成混合效果。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Geo_Services.stoverride",
@@ -915,13 +922,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Endlessgoogle.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "Siri",
@@ -987,6 +987,13 @@
     "repo": "rule"
   },
   {
+    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
+    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "Xbox 下载重定向国内 CDN",
     "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
@@ -999,13 +1006,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tv.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
-    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "Do-Not-Track My Xiaohongshu",
@@ -1029,18 +1029,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "百度直连信息面板",
     "desc": "显示免流地区，需名为百度直连的本地代理",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/STASH/Culler.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "豆瓣影视",
