@@ -707,6 +707,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "贴吧去广告(>=iOS15)",
+    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/TiebaAds.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "知乎App去广告",
     "desc": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/ZhihuAds.stoverride",
@@ -714,9 +721,9 @@
     "repo": "Mononoke"
   },
   {
-    "name": "贴吧去广告(>=iOS15)",
-    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/TiebaAds.stoverride",
+    "name": "DNS",
+    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/General/DNS.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
   },
@@ -726,13 +733,6 @@
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
     "owner": "TPCTPCTPC",
     "repo": "StashOverrides"
-  },
-  {
-    "name": "DNS",
-    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/General/DNS.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "电信余量请求体获取",
@@ -1043,6 +1043,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
+    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "Airplus",
     "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
@@ -1055,13 +1062,6 @@
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Maps_CN.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
-  },
-  {
-    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
-    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": " Redirect Apple Maps to 🇺🇸US",
