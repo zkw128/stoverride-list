@@ -189,18 +189,18 @@
     "repo": "DualSubs"
   },
   {
-    "name": "Bilibili去广告",
-    "desc": "需iOS15，去除开屏页、推荐页广告",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Bilibili.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "财新会员",
     "desc": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
     "owner": "I-am-R-E",
     "repo": "Functional-Store-Hub"
+  },
+  {
+    "name": "Bilibili去广告",
+    "desc": "需iOS15，去除开屏页、推荐页广告",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/Bilibili.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "去广告规则",
@@ -826,18 +826,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "电信余量(自动版)",
-    "desc": "电信免流跳点通知",
-    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "Emby Plugin",
     "desc": "Emby 官方客户端内调用外部播放器",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "电信余量(自动版)",
+    "desc": "电信免流跳点通知",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "BoxJs",
