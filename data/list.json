@@ -854,6 +854,13 @@
     "repo": "scripts"
   },
   {
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "Maps",
     "desc": "Unlock some regional features of Maps.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/maps.stoverride",
@@ -866,13 +873,6 @@
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/gist/gist.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "直连模式",
@@ -945,16 +945,16 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": " Enable Siri Suggestions",
-    "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
+    "name": " Unlock Apple News 🇺🇸US",
+    "desc": "解锁🇺🇸US地区的News，注：需配合域名集使用，使用过程中gateway.icloud.com需走代理线路。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_News.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
   {
-    "name": " Unlock Apple News 🇺🇸US",
-    "desc": "解锁🇺🇸US地区的News，注：需配合域名集使用，使用过程中gateway.icloud.com需走代理线路。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_News.beta.stoverride",
+    "name": " Enable Siri Suggestions",
+    "desc": "(V1.5) 在聚焦搜索(Spotlight)和查询(Look Up)中启用Siri建议(Siri Suggestions)功能。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Siri_Suggestions.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
   },
