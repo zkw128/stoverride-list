@@ -966,18 +966,18 @@
     "repo": "iRingo"
   },
   {
-    "name": "电信余量",
-    "desc": "电信免流跳点通知（需配合请求体覆写）",
-    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "网络信息",
     "desc": "https://github.com/xream/scripts/tree/main/surge/modules/network-info",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
+  },
+  {
+    "name": "电信余量",
+    "desc": "电信免流跳点通知（需配合请求体覆写）",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "哔哩哔哩番剧监控",
@@ -1092,17 +1092,17 @@
     "repo": "Module"
   },
   {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "Leosys_Seat",
     "desc": "座位查询",
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/Leosys_Seat/Leosys_Seat.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
+  },
+  {
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   }
 ]
