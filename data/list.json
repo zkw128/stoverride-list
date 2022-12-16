@@ -910,18 +910,18 @@
     "repo": "rule"
   },
   {
-    "name": "兼容模式（关闭 Fake IP）",
-    "desc": "仅推荐在网游无法联网时使用",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "Nicegram会员",
     "desc": "解锁Nicegram会员(2022.07.15) @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Nicegram.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
+  },
+  {
+    "name": "兼容模式（关闭 Fake IP）",
+    "desc": "仅推荐在网游无法联网时使用",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": " Response Geo Services to 🇺🇸US",
