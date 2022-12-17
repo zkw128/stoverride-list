@@ -84,18 +84,18 @@
     "repo": "MySelf"
   },
   {
-    "name": " iRingo for Location Services",
-    "desc": "(V2) 全面自定义「定位服务」与「地图」的功能。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "去广告",
     "desc": "重写去广告",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/Adblock/Advertising.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": " iRingo for Location Services",
+    "desc": "(V2) 全面自定义「定位服务」与「地图」的功能。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Location.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "TikTok解锁-日本",
@@ -602,6 +602,13 @@
     "repo": "MySelf"
   },
   {
+    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
+    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "YouTube Ad&Tracker Blocking (Alternative)",
     "desc": "It works, not perfectly.[YouTube][隐私][追踪][广告]",
     "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/YouTube.stoverride",
@@ -614,13 +621,6 @@
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
-  },
-  {
-    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
-    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "汇率监控",
@@ -784,18 +784,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "规则模式",
-    "desc": "以规则模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "WARPGuard",
     "desc": "Manage WARP client configuration.",
     "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/warpguard.stoverride",
     "owner": "VirgilClyne",
     "repo": "Cloudflare"
+  },
+  {
+    "name": "规则模式",
+    "desc": "以规则模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "全局模式",
@@ -1022,6 +1022,13 @@
     "repo": "Module"
   },
   {
+    "name": "WARPGuard",
+    "desc": "Manage WARP client configuration.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
+  },
+  {
     "name": "Q-Search",
     "desc": "快捷切换聚合搜索引擎",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/Q-Search.stoverride",
@@ -1034,13 +1041,6 @@
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/Telecom/Tele_Stash_Auto.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
-  },
-  {
-    "name": "WARPGuard",
-    "desc": "Manage WARP client configuration.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
   },
   {
     "name": "Do-Not-Track My Xiaohongshu",
