@@ -294,16 +294,16 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "VSCO活跃会员",
-    "desc": "解锁会员",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
+    "name": "TikTok解锁-韩国",
+    "desc": "解锁韩国地区限制",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
   {
-    "name": "TikTok解锁-韩国",
-    "desc": "解锁韩国地区限制",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/TikTokUnlock/TikTok-KR.stoverride",
+    "name": "VSCO活跃会员",
+    "desc": "解锁会员",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
@@ -574,6 +574,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
+    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "Cloudflare"
+  },
+  {
     "name": "Epic周免",
     "desc": "每周Epic游戏限免提醒，每周五9点15分推送",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/Epic.stoverride",
@@ -586,13 +593,6 @@
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.stoverride",
     "owner": "app2smile",
     "repo": "rules"
-  },
-  {
-    "name": "☁️ 1.1.1.1 by Cloudflare with WARP 客户端配置管理",
-    "desc": "(BETA) 1.1.1.1 by Cloudflare APP with WARP Client Config Management",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/stoverride/Cloudflare.1.1.1.1.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "Cloudflare"
   },
   {
     "name": "VUE pro",
@@ -854,6 +854,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "克拉壁纸",
+    "desc": "克拉壁纸解锁订阅",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
+  },
+  {
     "name": "BoxJs",
     "desc": "An SPA appliction used for scripts utils.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/boxjs.stoverride",
@@ -866,13 +873,6 @@
     "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/Tele_Stash_Auto.stoverride",
     "owner": "QGCliveDavis",
     "repo": "Module"
-  },
-  {
-    "name": "克拉壁纸",
-    "desc": "克拉壁纸解锁订阅",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Crack/ClarityPaper.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
   },
   {
     "name": "短信转发",
