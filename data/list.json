@@ -301,16 +301,16 @@
     "repo": "MySelf"
   },
   {
-    "name": "VSCO活跃会员",
-    "desc": "解锁会员",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
+    "name": "酷我音乐",
+    "desc": "By Nameking77 https://t.me/Nameking77",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
   {
-    "name": "酷我音乐",
-    "desc": "By Nameking77 https://t.me/Nameking77",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/KuWoMusic.stoverride",
+    "name": "VSCO活跃会员",
+    "desc": "解锁会员",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VSCO.stoverride",
     "owner": "jnlaoshu",
     "repo": "MySelf"
   },
