@@ -742,18 +742,18 @@
     "repo": "rules"
   },
   {
-    "name": "WeChat Article Cleaner",
-    "desc": "Block WeChat's in-article reporting and ads.[微信文章][隐私][追踪][广告]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
-  },
-  {
     "name": "iCloud",
     "desc": "Unlock some regional features of iCloud.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/icloud.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
+  },
+  {
+    "name": "WeChat Article Cleaner",
+    "desc": "Block WeChat's in-article reporting and ads.[微信文章][隐私][追踪][广告]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/WeChat.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
   },
   {
     "name": "电信余量请求体获取",
