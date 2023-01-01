@@ -132,5 +132,13 @@
         "paths": [
             "Stash"
         ]
+    },
+    {
+        "owner": "chengkongyiban",
+        "repo": "stash",
+        "branch": "main",
+        "paths": [
+            "override_Store"
+        ]
     }
 ]
