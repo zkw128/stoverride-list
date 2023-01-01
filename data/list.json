@@ -497,18 +497,18 @@
     "repo": "rules"
   },
   {
-    "name": "网络信息",
-    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/network-info",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "BoxJS",
     "desc": "安装后访问http://boxjs.com/进入",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BoxJS.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "网络信息",
+    "desc": "https://github.com/xream/scripts/tree/main/surge/modules/network-info",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "TikTok解锁-韩国",
@@ -1015,6 +1015,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "Do-Not-Track My Xiaohongshu",
+    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
+    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
+    "owner": "TPCTPCTPC",
+    "repo": "StashOverrides"
+  },
+  {
     "name": "Xbox 下载重定向国内 CDN",
     "desc": "https://blog.terrychan.me/2021/redirct-xboxlive-cdn-to-china",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/xbox-dl.stoverride",
@@ -1027,13 +1034,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/tv.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "Do-Not-Track My Xiaohongshu",
-    "desc": "Blocking personal data collecting, metrics and reports from Xiaohongshu.[小红书][隐私][追踪]",
-    "url": "https://raw.githubusercontent.com/TPCTPCTPC/StashOverrides/main/Xiaohongshu.stoverride",
-    "owner": "TPCTPCTPC",
-    "repo": "StashOverrides"
   },
   {
     "name": "电信余量(自动版)",
@@ -1099,9 +1099,9 @@
     "repo": "Module"
   },
   {
-    "name": "YouTubeAds",
-    "desc": "YouTubeAds",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/YouTubePlayer.stoverride",
+    "name": "哔哩哔哩魔改",
+    "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/Bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
   },
@@ -1116,13 +1116,6 @@
     "name": "解除Soul私聊限制",
     "desc": "解除Soul私聊限制",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/Soul.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
-  },
-  {
-    "name": "哔哩哔哩魔改",
-    "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/Bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
   },
