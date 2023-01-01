@@ -1104,5 +1104,40 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "重写转换",
+    "desc": "qx或surge转换成覆写",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
+    "name": "解除Soul私聊限制",
+    "desc": "解除Soul私聊限制",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/Soul.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
+    "name": "引用私有库",
+    "desc": "允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/pr-repo.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
+    "name": "哔哩哔哩魔改",
+    "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/Bilibili.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
+    "name": "YouTubeAds",
+    "desc": "YouTubeAds",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/YouTubePlayer.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
   }
 ]
