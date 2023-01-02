@@ -1106,18 +1106,18 @@
     "repo": "stash"
   },
   {
-    "name": "Leosys_Seat",
-    "desc": "座位查询",
-    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/Leosys_Seat/Leosys_Seat.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "解除Soul私聊限制",
     "desc": "解除Soul私聊限制",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/Soul.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "Leosys_Seat",
+    "desc": "座位查询",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/Leosys_Seat/Leosys_Seat.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "引用私有库",
