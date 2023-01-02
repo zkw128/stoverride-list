@@ -1050,6 +1050,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "哔哩哔哩魔改",
+    "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/Bilibili.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
     "name": " Redirect Apple Maps to 🇨🇳CN",
     "desc": "只作用于Apple Maps，不修改定位服务和地区检测，可以通过搭配使用其他模块达成混合效果。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/Archive/stoverride/Apple_Maps_CN.stoverride",
@@ -1064,13 +1071,6 @@
     "repo": "use-self"
   },
   {
-    "name": "豆瓣影视",
-    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "重写转换",
     "desc": "qx或surge转换成覆写",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
@@ -1078,11 +1078,11 @@
     "repo": "stash"
   },
   {
-    "name": "哔哩哔哩魔改",
-    "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/stoverride/Bilibili.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
+    "name": "豆瓣影视",
+    "desc": "Web版豆瓣电影和电视剧添加便捷播放源按钮",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": " Redirect Apple Maps to 🇺🇸US",
