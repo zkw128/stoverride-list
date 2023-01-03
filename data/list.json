@@ -238,18 +238,18 @@
     "repo": "rule"
   },
   {
-    "name": "Bilibili",
-    "desc": "Bilibili去广告Plus",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "Google 重定向修改版",
     "desc": "将 g|google.cn&Safari默认谷歌搜索com.hk重定向回 google.com（在jnlaoshu的Google重定向覆写基础上修改）",
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/google.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
+  },
+  {
+    "name": "Bilibili",
+    "desc": "Bilibili去广告Plus",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/BilibiliPlus.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "YouTube首页去广告",
@@ -364,18 +364,18 @@
     "repo": "Functional-Store-Hub"
   },
   {
-    "name": "TestFlight账户管理",
-    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "BiliBili 去广告（兼容国际版）",
     "desc": "没有广告的 BiliBili 更值得干杯🍻！（原作者：blackmatrix7）",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/bilibili-noad.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "TestFlight账户管理",
+    "desc": "自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight APP.⚠️该脚本已经与\"TF区域限制解除脚本\"合并，如需使用该脚本请务必禁用它，否则可能出现APP安装异常",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/TestFlight%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86/TestFlightAccount.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "机场流量 Tile 面板",
@@ -889,6 +889,13 @@
     "repo": "scripts"
   },
   {
+    "name": "重写转换",
+    "desc": "qx或surge转换成覆写",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
     "name": "直连模式",
     "desc": "以直连模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-direct.stoverride",
@@ -908,13 +915,6 @@
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/disable-fake-ip.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
-  },
-  {
-    "name": "重写转换",
-    "desc": "qx或surge转换成覆写",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
   },
   {
     "name": "Siri",
