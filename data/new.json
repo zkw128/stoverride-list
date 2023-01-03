@@ -1,5 +1,12 @@
 [
   {
+    "name": "脚本转换",
+    "desc": "目前在测试 QX 脚本",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "重写转换",
     "desc": "qx或surge转换成覆写",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
