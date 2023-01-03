@@ -742,18 +742,18 @@
     "repo": "rule"
   },
   {
-    "name": "iCloud",
-    "desc": "Unlock some regional features of iCloud.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/icloud.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "贴吧去广告(>=iOS15)",
     "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "iCloud",
+    "desc": "Unlock some regional features of iCloud.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/icloud.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "电信余量请求体获取",
