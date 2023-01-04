@@ -721,18 +721,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "ASN CN",
-    "desc": "IP-ASN rules.",
-    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
-    "owner": "shindgewongxj",
-    "repo": "WHATSINStash"
-  },
-  {
     "name": "贴吧去广告(>=iOS15)",
     "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "ASN CN",
+    "desc": "IP-ASN rules.",
+    "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
+    "owner": "shindgewongxj",
+    "repo": "WHATSINStash"
   },
   {
     "name": "iRingo",
@@ -1029,17 +1029,17 @@
     "repo": "Mononoke"
   },
   {
-    "name": "执行远程脚本",
-    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行! 三种设置方式: 1. 脚本编辑器/BoxJs 执行 $persistentStore.write('http://1.js', 'execute-remote-script-url'); $done({title:'已设置'}) 2. 自定义覆写参数 argument:icon=arrowtriangle.right.circle&color=#663399&url=http://1.js 3. Node.js 环境变量 XREAM_EXECUTE_REMOTE_SCRIPT_URL=http://1.js 两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com 可以在远程脚本里返回设定的数据结构来覆盖本脚本的返回值: $done({\n  exec1ute_remote_script: {\n    title: '面板/通知标题',\n    content: '面板/通知内容',\n    icon: 'arrow.clockwise.icloud',\n    subt: '通知副标题',\n    opts: { url: 'http://通知跳转.com' },\n  },\n})",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "BiliBili 海外重定向到 Akamai",
     "desc": "需要 MitM，支持网页版或网关模式，加载更流畅的 BiliBili 更值得干杯🍻！",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "执行远程脚本",
+    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行! 三种设置方式: 1. 脚本编辑器/BoxJs 执行 $persistentStore.write('http://1.js', 'execute-remote-script-url'); $done({title:'已设置'}) 2. 自定义覆写参数 argument:icon=arrowtriangle.right.circle&color=#663399&url=http://1.js 3. Node.js 环境变量 XREAM_EXECUTE_REMOTE_SCRIPT_URL=http://1.js 两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com 可以在远程脚本里返回设定的数据结构来覆盖本脚本的返回值: $done({\n  exec1ute_remote_script: {\n    title: '面板/通知标题',\n    content: '面板/通知内容',\n    icon: 'arrow.clockwise.icloud',\n    subt: '通知副标题',\n    opts: { url: 'http://通知跳转.com' },\n  },\n})",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   }
 ]
