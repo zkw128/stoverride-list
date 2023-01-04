@@ -413,18 +413,18 @@
     "repo": "iRingo"
   },
   {
-    "name": " iRingo for Siri & Search",
-    "desc": "(BETA for Stash 2.0) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "YouTube去广告",
     "desc": "去除 Youtube 广告（Beta）",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": " iRingo for Siri & Search",
+    "desc": "(BETA for Stash 2.0) 全面自定义「Siri与搜索」的功能。注：该覆写包含代理规则。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/Siri.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "Sub-Store",
@@ -602,18 +602,18 @@
     "repo": "rule"
   },
   {
-    "name": "VUE pro",
-    "desc": "解锁PRO会员，享用专业功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "扫描全能王",
     "desc": "解锁扫描全能王会员",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Script/CamScanner.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "VUE pro",
+    "desc": "解锁PRO会员，享用专业功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/VUEpro.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "贴吧去广告(>=iOS15)",
@@ -721,6 +721,13 @@
     "repo": "Mononoke"
   },
   {
+    "name": "贴吧去广告(>=iOS15)",
+    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
+    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
+    "owner": "app2smile",
+    "repo": "rules"
+  },
+  {
     "name": "iRingo",
     "desc": "Unlock some regional features of Apple services.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/iringo.stoverride",
@@ -733,13 +740,6 @@
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/asncn.stoverride",
     "owner": "shindgewongxj",
     "repo": "WHATSINStash"
-  },
-  {
-    "name": "贴吧去广告(>=iOS15)",
-    "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
-    "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
-    "owner": "app2smile",
-    "repo": "rules"
   },
   {
     "name": "DNS-CN",
@@ -798,18 +798,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "全局模式",
-    "desc": "以全局模式启动",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "重写转换",
     "desc": "qx或surge转换成覆写",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "全局模式",
+    "desc": "以全局模式启动",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-global.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "PixivShow",
@@ -1001,6 +1001,13 @@
     "repo": "WHATSINStash"
   },
   {
+    "name": "脚本转换",
+    "desc": "目前在测试 QX 脚本",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
     "name": "Airplus",
     "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
     "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
@@ -1013,13 +1020,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/DouBanPlay.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "脚本转换",
-    "desc": "目前在测试 QX 脚本",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
   },
   {
     "name": "Sileo 嗨客源修复",
