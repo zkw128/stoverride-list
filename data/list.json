@@ -329,6 +329,13 @@
     "repo": "rule"
   },
   {
+    "name": "TikTok解锁-美国",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
+  },
+  {
     "name": " iRingo for ✈ TestFlight",
     "desc": "(V1) 1.自定义TestFlight登录商店地区 2.多账户保存及切换(需配置BoxJs使用) 3.让通用应用在任意苹果处理器设备上可安装",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/TestFlight.stoverride",
@@ -341,13 +348,6 @@
     "url": "https://raw.githubusercontent.com/SysDQ/Stash/main/Online%20rule%20overwrite.stoverride",
     "owner": "SysDQ",
     "repo": "Stash"
-  },
-  {
-    "name": "TikTok解锁-美国",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-US.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
   },
   {
     "name": "扫描全能王",
@@ -616,18 +616,18 @@
     "repo": "rule"
   },
   {
-    "name": "有道云笔记",
-    "desc": "解锁VIP高级功能",
-    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
-    "owner": "jnlaoshu",
-    "repo": "MySelf"
-  },
-  {
     "name": "贴吧去广告(>=iOS15)",
     "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/TiebaAds.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "有道云笔记",
+    "desc": "解锁VIP高级功能",
+    "url": "https://raw.githubusercontent.com/jnlaoshu/MySelf/main/Stash/Script/Youdao.stoverride",
+    "owner": "jnlaoshu",
+    "repo": "MySelf"
   },
   {
     "name": "Google CN 重定向",
@@ -735,18 +735,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "DNS-CN",
-    "desc": "采用腾讯与阿里DNS",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "贴吧去广告(>=iOS15)",
     "desc": "开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
     "url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.stoverride",
     "owner": "app2smile",
     "repo": "rules"
+  },
+  {
+    "name": "DNS-CN",
+    "desc": "采用腾讯与阿里DNS",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/DNS-CN.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "iCloud",
@@ -805,6 +805,13 @@
     "repo": "rule"
   },
   {
+    "name": "重写转换",
+    "desc": "qx或surge转换成覆写",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
     "name": "PixivShow",
     "desc": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置 @R·E https://t.me/Functional_Store_Hub",
     "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Stash.stoverride",
@@ -824,13 +831,6 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Streaming/Emby-plugin.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
-  },
-  {
-    "name": "重写转换",
-    "desc": "qx或surge转换成覆写",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
   },
   {
     "name": "电信余量(自动版)",
