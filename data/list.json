@@ -1022,13 +1022,6 @@
     "repo": "Mononoke"
   },
   {
-    "name": "执行远程脚本",
-    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行! 三种设置方式: 1. 脚本编辑器/BoxJs 执行 $persistentStore.write('http://1.js', 'execute-remote-script-url'); $done({title:'已设置'}) 2. 自定义覆写参数 argument:icon=arrowtriangle.right.circle&color=#663399&url=http://1.js 3. Node.js 环境变量 XREAM_EXECUTE_REMOTE_SCRIPT_URL=http://1.js 两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com 可以在远程脚本里返回设定的数据结构来覆盖本脚本的返回值: $done({\n  exec1ute_remote_script: {\n    title: '面板/通知标题',\n    content: '面板/通知内容',\n    icon: 'arrow.clockwise.icloud',\n    subt: '通知副标题',\n    opts: { url: 'http://通知跳转.com' },\n  },\n})",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
     "name": "BiliBili 海外重定向到 Akamai",
     "desc": "需要 MitM，支持网页版或网关模式，加载更流畅的 BiliBili 更值得干杯🍻！",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
@@ -1036,11 +1029,11 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "Sileo 嗨客源修复",
-    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
+    "name": "执行远程脚本",
+    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行! 三种设置方式: 1. 脚本编辑器/BoxJs 执行 $persistentStore.write('http://1.js', 'execute-remote-script-url'); $done({title:'已设置'}) 2. 自定义覆写参数 argument:icon=arrowtriangle.right.circle&color=#663399&url=http://1.js 3. Node.js 环境变量 XREAM_EXECUTE_REMOTE_SCRIPT_URL=http://1.js 两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com 可以在远程脚本里返回设定的数据结构来覆盖本脚本的返回值: $done({\n  exec1ute_remote_script: {\n    title: '面板/通知标题',\n    content: '面板/通知内容',\n    icon: 'arrow.clockwise.icloud',\n    subt: '通知副标题',\n    opts: { url: 'http://通知跳转.com' },\n  },\n})",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "百度网盘解锁倍速",
@@ -1048,5 +1041,12 @@
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/BaiduCloudUnlock.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "Sileo 嗨客源修复",
+    "desc": "修复嗨客源在 Sileo 上无法下载 deb 的问题",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   }
 ]
