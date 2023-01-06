@@ -981,7 +981,7 @@
   },
   {
     "name": "脚本转换",
-    "desc": "目前在测试 QX 脚本",
+    "desc": "目前在测试 QX 脚本(二进制请求暂不支持)",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/script-converter/script-converter.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
@@ -1044,17 +1044,10 @@
   },
   {
     "name": "执行远程脚本",
-    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行! 三种设置方式: 1. 脚本编辑器/BoxJs 执行 $persistentStore.write('http://1.js', 'execute-remote-script-url'); $done({title:'已设置'}) 2. 自定义覆写参数 argument:icon=arrowtriangle.right.circle&color=#663399&url=http://1.js 3. Node.js 环境变量 XREAM_EXECUTE_REMOTE_SCRIPT_URL=http://1.js 两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com 可以在远程脚本里返回设定的数据结构来覆盖本脚本的返回值: $done({\n  exec1ute_remote_script: {\n    title: '面板/通知标题',\n    content: '面板/通知内容',\n    icon: 'arrow.clockwise.icloud',\n    subt: '通知副标题',\n    opts: { url: 'http://通知跳转.com' },\n  },\n})",
+    "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行!\n两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com\n具体说明看本覆写的注释",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
-  },
-  {
-    "name": "引用私有库",
-    "desc": "允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
   },
   {
     "name": "Sileo 嗨客源修复",
@@ -1065,7 +1058,7 @@
   },
   {
     "name": "GitHub 增强",
-    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已开启)",
+    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已开启)\n具体说明看本覆写的注释",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
