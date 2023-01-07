@@ -203,18 +203,18 @@
     "repo": "rule"
   },
   {
-    "name": "财新会员",
-    "desc": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
-    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
-    "owner": "I-am-R-E",
-    "repo": "Functional-Store-Hub"
-  },
-  {
     "name": "网易云音乐解锁",
     "desc": "解锁灰色歌曲与VIP试听，使用后请在网易云音乐策略组中选择能用的解锁节点(自行测试)，节点来源于网络",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/NetEaseMusic.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "财新会员",
+    "desc": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
+    "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Stash.stoverride",
+    "owner": "I-am-R-E",
+    "repo": "Functional-Store-Hub"
   },
   {
     "name": "TikTok解锁-台湾",
@@ -525,18 +525,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": " iRingo for News",
-    "desc": "(BETA for Stash 2.0) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
-    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
-    "owner": "VirgilClyne",
-    "repo": "iRingo"
-  },
-  {
     "name": "京东多合一签到",
     "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": " iRingo for News",
+    "desc": "(BETA for Stash 2.0) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
+    "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
+    "owner": "VirgilClyne",
+    "repo": "iRingo"
   },
   {
     "name": "TestFlight区域限制解除",
@@ -756,18 +756,18 @@
     "repo": "rule"
   },
   {
-    "name": "电信余量请求体获取",
-    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
-    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/GETBD.stoverride",
-    "owner": "QGCliveDavis",
-    "repo": "Module"
-  },
-  {
     "name": "哔哩哔哩魔改",
     "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "电信余量请求体获取",
+    "desc": "开启脚本以及mitm等开关，配合电信余量使用",
+    "url": "https://raw.githubusercontent.com/QGCliveDavis/Module/main/TeleV2.0/GETBD.stoverride",
+    "owner": "QGCliveDavis",
+    "repo": "Module"
   },
   {
     "name": "WARPGuard",
@@ -1015,6 +1015,13 @@
     "repo": "stash"
   },
   {
+    "name": "引用私有库",
+    "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
+    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
+    "owner": "chengkongyiban",
+    "repo": "stash"
+  },
+  {
     "name": "WARPGuard",
     "desc": "Manage WARP client configuration.",
     "url": "https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/stoverride/warpguard.stoverride",
@@ -1022,11 +1029,11 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "引用私有库",
-    "desc": "请使用一佬的Github增强覆写，此覆写不再推荐使用。允许引用Github私有仓库/gist中的订阅分流，重写，脚本等配置文件。",
-    "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/github-private-repo.stoverride",
-    "owner": "chengkongyiban",
-    "repo": "stash"
+    "name": "GitHub 增强",
+    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   },
   {
     "name": "BiliBili 海外重定向到 Akamai",
@@ -1039,13 +1046,6 @@
     "name": "执行远程脚本",
     "desc": "⚠️ 请勿执行有风险的脚本 不点击面板时也可能会执行!\n两种执行方式: 1. 面板 (Tile) 2. 访问 execute-remote-script.com\n具体说明看本覆写的注释",
     "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/execute-remote-script/execute-remote-script.rewrite.stash.stoverride",
-    "owner": "xream",
-    "repo": "scripts"
-  },
-  {
-    "name": "GitHub 增强",
-    "desc": "1. 允许使用私库 2. 支持禁用缓存(默认已禁用缓存)\n📢 为避免冲突 使用方式已修改 具体说明看本覆写的注释",
-    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/enhanced-github/enhanced-github.rewrite.stash.stoverride",
     "owner": "xream",
     "repo": "scripts"
   },
