@@ -525,18 +525,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "京东多合一签到",
-    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": " iRingo for News",
     "desc": "(BETA for Stash 2.0) 1.自定义解锁News的地区 2.Coming Soon… 注：该覆写包含代理规则，使用过程中gateway.icloud.com会走与News相同的代理线路。",
     "url": "https://raw.githubusercontent.com/VirgilClyne/iRingo/main/stoverride/News.beta.stoverride",
     "owner": "VirgilClyne",
     "repo": "iRingo"
+  },
+  {
+    "name": "京东多合一签到",
+    "desc": "请查看覆写内容获取cookie,签到脚本将在每天的凌晨0:05执行",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/CronScript/JD_DailyBonus.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "TestFlight区域限制解除",
@@ -658,18 +658,18 @@
     "repo": "awesome-stash"
   },
   {
-    "name": "TikTok解锁-澳门",
-    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
-    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
-    "owner": "Infatuation-Fei",
-    "repo": "rule"
-  },
-  {
     "name": "哔哩哔哩魔改",
     "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "TikTok解锁-澳门",
+    "desc": "需先安装Tiktok21.1.0版本(解锁成功后可更新,但解锁也可能失效)",
+    "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/Rewrite/TikTokUnlock/Tiktok-MO.stoverride",
+    "owner": "Infatuation-Fei",
+    "repo": "rule"
   },
   {
     "name": "流利说·阅读",
@@ -798,18 +798,18 @@
     "repo": "Mononoke"
   },
   {
-    "name": "对常见端口强制使用 HTTP 引擎",
-    "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
-    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
-    "owner": "kamingchan",
-    "repo": "awesome-stash"
-  },
-  {
     "name": "规则模式",
     "desc": "以规则模式启动",
     "url": "https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Override/General/Mode-rule.stoverride",
     "owner": "Infatuation-Fei",
     "repo": "rule"
+  },
+  {
+    "name": "对常见端口强制使用 HTTP 引擎",
+    "desc": "配合仅 Tunnel 模式使用，避免 Rewrite 失效",
+    "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/common-force-http-engine.stoverride",
+    "owner": "kamingchan",
+    "repo": "awesome-stash"
   },
   {
     "name": "全局模式",
@@ -1036,18 +1036,18 @@
     "repo": "WHATSINStash"
   },
   {
-    "name": "Airplus",
-    "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
-    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
-    "owner": "Kan1314s",
-    "repo": "use-self"
-  },
-  {
     "name": "BiliBili 海外重定向到 Akamai",
     "desc": "需要 MitM，支持网页版或网关模式，加载更流畅的 BiliBili 更值得干杯🍻！",
     "url": "https://raw.githubusercontent.com/kamingchan/awesome-stash/master/override/redirect-bilibili-cdn-ov-https.stoverride",
     "owner": "kamingchan",
     "repo": "awesome-stash"
+  },
+  {
+    "name": "Airplus",
+    "desc": "解锁Air 系列会员    下载地址：https://apps.apple.com/us/app/id1173365557    Mr Eric",
+    "url": "https://raw.githubusercontent.com/Kan1314s/use-self/main/Stash/Rewrite/Airplus.stoverride",
+    "owner": "Kan1314s",
+    "repo": "use-self"
   },
   {
     "name": "豆瓣影视",
@@ -1069,5 +1069,19 @@
     "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Tool/SileoHiKe.stoverride",
     "owner": "Coldvvater",
     "repo": "Mononoke"
+  },
+  {
+    "name": "获取 TestFlight 信息(β)",
+    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/testflight.key.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
+  },
+  {
+    "name": "自动加入 TestFlight(β)",
+    "desc": "不可单独使用 具体说明看本覆写的注释 更新时间: 2023-01-08",
+    "url": "https://raw.githubusercontent.com/xream/scripts/main/surge/modules/tf/Auto_join_TF.stoverride",
+    "owner": "xream",
+    "repo": "scripts"
   }
 ]
