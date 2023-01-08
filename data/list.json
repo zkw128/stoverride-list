@@ -714,18 +714,18 @@
     "repo": "StashOverrides"
   },
   {
-    "name": "DNS",
-    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
-    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/General/DNS.stoverride",
-    "owner": "Coldvvater",
-    "repo": "Mononoke"
-  },
-  {
     "name": "哔哩哔哩魔改",
     "desc": "简体cc字幕、去广告、解锁高帧率、魔改皮肤",
     "url": "https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/bilibili.stoverride",
     "owner": "chengkongyiban",
     "repo": "stash"
+  },
+  {
+    "name": "DNS",
+    "desc": "国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷歌DNS",
+    "url": "https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/General/DNS.stoverride",
+    "owner": "Coldvvater",
+    "repo": "Mononoke"
   },
   {
     "name": "ASN CN",
